@@ -1,0 +1,57 @@
+name,team,number,position,min,goal,assist,yellow,red,shot,pass,aer,mom,rating
+Cristiano Ronaldo,Man Utd,38,"M(L),FW",2459,18,3,8,0,3.7,0.8190000000000001,1.4,5,7.11
+Bukayo Saka,Arsenal,21,"D(L),M(CLR)",2996,11,7,6,0,2.6,0.795,0.6,3,7.06
+Bruno Fernandes,Man Utd,28,M(CLR),3120,10,6,10,0,2.5,0.7829999999999999,0.5,3,7.03
+Paul Pogba,Man Utd,30,M(CL),1355,1,9,7,1,1.6,0.835,1.8,1,7.0
+Mason Greenwood,Man Utd,21,"AM(R),FW",1281,5,1,1,0,2.7,0.838,0.2,0,6.98
+Thomas Partey,Arsenal,30,"D(R),M(CR)",2032,2,1,5,0,1.8,0.856,1.0,1,6.96
+Aaron Wan Bissaka,Man Utd,25,"D(R),M(R)",1794,0,0,2,0,0.3,0.81,1.0,1,6.91
+Martin Ødegaard,Arsenal,24,AM(CR),2793,7,4,4,0,1.5,0.86,0.4,1,6.91
+Scott McTominay,Man Utd,26,"D(C),DMC",2393,1,1,9,0,0.9,0.856,2.3,2,6.89
+Alex Telles,Man Utd,30,"D(CL),M(L)",1660,0,4,1,0,0.5,0.8029999999999999,1.4,0,6.89
+Fred,Man Utd,30,M(C),2036,4,4,5,0,0.5,0.841,0.5,2,6.87
+Gabriel Martinelli,Arsenal,22,"AM(L),FW",1866,6,6,1,1,1.8,0.797,0.6,1,6.86
+Diogo Dalot,Man Utd,24,"D(LR),M(R)",1799,0,0,4,0,0.5,0.802,1.2,1,6.86
+Takehiro Tomiyasu,Arsenal,24,D(CLR),1682,0,1,2,0,0.5,0.8109999999999999,2.2,1,6.83
+Raphaël Varane,Man Utd,30,D(C),1829,1,1,0,0,0.4,0.878,2.5,1,6.78
+Ben White,Arsenal,25,"D(CR),DMC",2880,0,0,3,0,0.4,0.846,1.9,1,6.78
+Kieran Tierney,Arsenal,26,"D(CL),M(L)",1919,1,3,0,0,0.7,0.825,0.5,0,6.77
+Gabriel Magalhães,Arsenal,25,D(C),3068,5,0,6,1,0.8,0.895,1.6,1,6.74
+Emile Smith Rowe,Arsenal,23,AM(CL),1922,10,2,1,0,1.2,0.8740000000000001,0.2,1,6.74
+Pierre Emerick Aubameyang,Arsenal,34,"M(CLR),FW",1040,4,1,3,0,2.5,0.701,1.8,1,6.74
+Alexandre Lacazette,Arsenal,32,"M(CLR),FW",1789,4,7,0,0,1.5,0.764,0.7,2,6.74
+Granit Xhaka,Arsenal,30,"D(L),M(C)",2331,1,2,10,1,1.0,0.868,1.0,1,6.67
+Jadon Sancho,Man Utd,23,AM(CLR),1904,3,3,0,0,0.9,0.835,0.1,1,6.66
+Pablo Marí,Arsenal,29,D(C),180,0,0,1,0,0.5,0.8590000000000001,2.5,0,6.65
+Aaron Ramsdale,Arsenal,25,GK,3060,0,0,1,0,0.0,0.626,0.2,2,6.65
+Harry Maguire,Man Utd,30,D(C),2514,1,0,7,1,0.8,0.8640000000000001,2.5,0,6.65
+David de Gea,Man Utd,32,GK,3420,0,0,0,0,0.0,0.6890000000000001,0.2,1,6.64
+Luke Shaw,Man Utd,28,"D(CL),M(L)",1603,0,3,8,0,0.3,0.841,1.0,0,6.64
+Nemanja Matic,Man Utd,35,DMC,1384,0,4,3,0,0.3,0.871,1.2,0,6.63
+Eddie Nketiah,Arsenal,24,FW,825,5,1,3,0,1.4,0.777,0.4,2,6.6
+Anthony Elanga,Man Utd,21,AM(LR),1217,2,2,0,0,1.0,0.782,1.1,0,6.56
+Daniel James,Man Utd,25,"AM(CLR),FW",128,0,0,0,0,2.0,0.69,0.5,0,6.53
+Cédric Soares,Arsenal,31,"D(LR),M(R)",1487,1,1,3,0,0.6,0.835,0.6,1,6.53
+Albert Sambi Lokonga,Arsenal,23,DMC,1133,0,0,5,0,1.1,0.884,0.8,0,6.51
+Victor Lindelöf,Man Utd,29,D(CR),2355,0,2,4,0,0.1,0.878,1.9,0,6.5
+Rob Holding,Arsenal,27,D(CR),840,1,0,2,1,0.3,0.868,1.9,1,6.48
+Mohamed Elneny,Arsenal,31,DMC,802,0,2,1,0,0.6,0.935,0.4,0,6.46
+Nicolas Pépé,Arsenal,28,"AM(LR),FW",682,1,2,0,0,1.2,0.8370000000000001,0.9,1,6.44
+Phil Jones,Man Utd,31,"D(CR),DMC",163,0,0,0,0,0.0,0.877,0.5,0,6.42
+Nuno Tavares,Arsenal,23,"D(L),M(L)",1171,1,1,2,0,1.0,0.821,1.1,0,6.42
+Bernd Leno,Arsenal,31,GK,360,0,0,0,0,0.0,0.624,0.8,0,6.41
+Edinson Cavani,Man Utd,36,"AM(LR),FW",765,2,1,0,0,1.2,0.7609999999999999,0.5,0,6.4
+Marcus Rashford,Man Utd,25,"AM(CLR),FW",1233,4,2,2,0,0.9,0.7609999999999999,0.4,0,6.35
+Ainsley Maitland Niles,Arsenal,25,"D(LR),M(CLR)",265,0,0,0,0,0.3,0.77,0.4,0,6.35
+Juan Mata,Man Utd,35,AM(CLR),232,0,0,0,0,0.7,0.889,0.0,0,6.31
+Anthony Martial,Man Utd,27,"AM(LR),FW",210,1,0,0,0,0.6,0.8170000000000001,0.5,0,6.31
+Donny van de Beek,Man Utd,26,M(C),69,1,0,0,0,0.3,0.7879999999999999,0.1,0,6.3
+Eric Bailly,Man Utd,29,D(CR),218,0,0,1,0,0.0,0.8,1.5,0,6.28
+Jesse Lingard,Man Utd,30,"AM(CLR),FW",356,2,0,1,0,0.5,0.883,0.0,0,6.24
+Calum Chambers,Arsenal,28,"D(CR),DMC",171,0,0,0,0,1.0,0.8170000000000001,1.0,0,6.13
+Shola Shoretire,Man Utd,19,"AM(C),FW",16,0,0,0,0,0.0,1.0,0.0,0,6.05
+Reiss Nelson,Arsenal,23,M(LR),19,0,0,0,0,1.0,0.667,0.0,0,6.04
+Alejandro Garnacho,Man Utd,19,AM(L),12,0,0,0,0,0.0,1.0,0.0,0,5.98
+Hannibal Mejbri,Man Utd,20,AM(C),68,0,0,2,0,0.5,0.81,0.0,0,5.97
+Folarin Balogun,Arsenal,22,FW,70,0,0,0,0,1.5,0.444,0.5,0,5.95
+Sead Kolasinac,Arsenal,30,"D(CL),DMC,M(L)",91,0,0,1,0,0.0,0.929,0.0,0,5.72

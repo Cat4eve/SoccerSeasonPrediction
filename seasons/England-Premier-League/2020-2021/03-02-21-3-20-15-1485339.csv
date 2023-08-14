@@ -1,0 +1,49 @@
+name,team,number,position,min,goal,assist,yellow,red,shot,pass,aer,mom,rating
+Jack Grealish,Aston Villa,27,"AM(CL),FW",2184,6,10,6,0,1.9,0.833,1.0,4,7.56
+Tomás Soucek,West Ham,28,DMC,3420,10,1,7,1,1.7,0.755,6.2,6,7.36
+Jesse Lingard,West Ham,30,"AM(CLR),FW",1426,9,4,3,0,2.6,0.836,0.0,2,7.22
+Ollie Watkins,Aston Villa,27,"AM(LR),FW",3329,14,5,2,1,2.6,0.715,3.7,4,7.18
+Kortney Hause,Aston Villa,28,D(CL),630,1,0,2,0,0.7,0.746,5.6,0,7.17
+Michail Antonio,West Ham,33,"D(R),M(CLR),FW",1984,10,5,3,0,2.4,0.682,2.8,2,7.17
+Declan Rice,West Ham,24,"D(C),DMC",2880,2,1,2,0,0.8,0.88,1.4,1,7.01
+Emiliano Martínez,Aston Villa,30,GK,3420,0,0,1,0,0.0,0.625,0.3,3,7.0
+Vladimír Coufal,West Ham,30,"D(R),M(R)",3055,0,7,3,0,0.4,0.7120000000000001,1.6,1,6.95
+Matty Cash,Aston Villa,26,"D(R),M(CLR)",2380,0,2,6,1,0.3,0.757,1.3,1,6.93
+Matt Targett,Aston Villa,27,"D(L),M(L)",3405,0,2,7,0,0.2,0.78,1.9,0,6.9
+Arthur Masuaku,West Ham,29,"D(L),M(L)",1011,0,2,2,0,0.5,0.8320000000000001,0.8,0,6.89
+John McGinn,Aston Villa,28,M(CR),3330,3,5,12,0,1.2,0.794,0.6,0,6.88
+Bertrand Traoré,Aston Villa,27,"AM(R),FW",2338,7,6,1,0,1.8,0.777,0.9,3,6.85
+Trézéguet,Aston Villa,28,AM(LR),1166,2,1,0,0,1.7,0.757,1.3,1,6.83
+Aaron Cresswell,West Ham,33,"D(CL),M(L)",3172,0,8,3,0,0.5,0.789,1.0,2,6.81
+Tyrone Mings,Aston Villa,30,D(CL),3195,2,2,4,1,0.5,0.779,2.5,0,6.81
+Anwar El Ghazi,Aston Villa,28,"AM(LR),FW",1617,10,0,2,0,2.3,0.753,1.0,2,6.78
+Conor Hourihane,Aston Villa,32,M(C),228,1,1,0,0,1.3,0.872,0.5,0,6.78
+Pablo Fornals,West Ham,27,M(CLR),2583,5,4,3,0,1.5,0.794,0.7,1,6.78
+Ross Barkley,Aston Villa,29,M(CLR),1537,3,1,0,0,1.6,0.848,0.9,0,6.75
+Sébastien Haller,West Ham,29,FW,935,3,0,0,0,1.6,0.6409999999999999,4.2,1,6.75
+Ezri Konsa,Aston Villa,25,D(CR),3193,2,0,3,0,0.6,0.847,2.7,1,6.75
+Jarrod Bowen,West Ham,26,"AM(CLR),FW",2579,8,5,0,0,1.4,0.7440000000000001,0.6,1,6.75
+Angelo Ogbonna,West Ham,35,D(C),2493,3,0,5,0,0.5,0.813,2.3,1,6.73
+Fabián Balbuena,West Ham,31,D(C),1198,1,0,1,1,0.6,0.7509999999999999,1.5,0,6.71
+Douglas Luiz,Aston Villa,25,M(C),2790,0,2,8,1,0.8,0.857,1.3,0,6.67
+Craig Dawson,West Ham,33,D(CR),1926,3,0,3,1,0.7,0.797,2.6,0,6.67
+Ahmed El Mohamady,Aston Villa,35,"D(R),M(R)",832,0,0,2,0,0.6,0.7809999999999999,1.3,0,6.64
+Issa Diop,West Ham,26,D(C),1379,2,0,3,0,0.2,0.8220000000000001,1.3,0,6.64
+Lukasz Fabianski,West Ham,38,GK,3150,0,0,2,0,0.0,0.5489999999999999,0.1,1,6.62
+Saïd Benrahma,West Ham,28,AM(CLR),1392,1,6,0,0,1.2,0.82,0.1,0,6.59
+Marvelous Nakamba,Aston Villa,29,DMC,751,0,0,3,0,0.2,0.8420000000000001,0.5,0,6.52
+Darren Randolph,West Ham,36,GK,270,0,0,0,0,0.0,0.508,0.3,0,6.52
+Ryan Fredericks,West Ham,30,"D(R),M(R)",567,1,1,2,0,0.3,0.77,0.6,0,6.44
+Manuel Lanzini,West Ham,30,M(CLR),560,1,1,1,0,0.7,0.905,0.1,0,6.41
+Ben Johnson,West Ham,23,"D(CLR),M(LR)",519,1,0,1,0,0.2,0.723,0.4,0,6.39
+Keinan Davis,Aston Villa,25,FW,266,1,1,0,0,0.6,0.74,1.2,0,6.36
+Carney Chukwuemeka,Aston Villa,19,AM(C),18,0,0,0,0,0.5,0.667,0.5,0,6.22
+Andrii Yarmolenko,West Ham,33,"AM(CR),FW",363,0,1,3,0,0.5,0.8370000000000001,0.3,0,6.21
+Morgan Sanson,Aston Villa,28,M(CLR),291,0,0,3,0,0.2,0.848,0.6,0,6.2
+Jacob Ramsey,Aston Villa,22,AM(CLR),619,0,0,0,0,0.5,0.86,0.3,0,6.2
+Mark Noble,West Ham,36,M(C),707,0,0,1,0,0.0,0.8859999999999999,0.1,0,6.17
+Felipe Anderson,West Ham,30,"M(CLR),FW",2,0,0,0,0,0.0,0.6,0.0,0,6.07
+Robert Snodgrass,West Ham,35,M(CLR),4,0,0,0,0,0.0,1.0,0.0,0,6.0
+Jaden Philogene,Aston Villa,21,M(LR),1,0,0,0,0,0.0,0.5,0.0,0,6.0
+Wesley,Aston Villa,26,FW,15,0,0,0,0,0.3,1.0,0.0,0,5.96
+Neil Taylor,Aston Villa,34,"D(L),M(L)",16,0,0,1,0,0.0,1.0,0.0,0,5.85

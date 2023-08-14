@@ -1,0 +1,58 @@
+name,team,number,position,min,goal,assist,yellow,red,shot,pass,aer,mom,rating
+Mathew Ryan,Arsenal,31,GK,270,0,0,0,0,0.0,0.894,0.3,0,7.1
+André Frank Zambo Anguissa,Fulham,27,M(C),2587,0,3,6,0,0.9,0.8420000000000001,1.8,4,6.99
+Ademola Lookman,Fulham,25,"AM(CLR),FW",2756,4,4,5,0,2.0,0.809,0.2,2,6.92
+Alexandre Lacazette,Arsenal,32,"M(CLR),FW",1931,13,2,3,0,1.5,0.7879999999999999,0.9,3,6.89
+Bukayo Saka,Arsenal,21,"D(L),M(CLR)",2562,5,3,1,0,1.9,0.818,0.4,2,6.88
+Dani Ceballos,Arsenal,27,M(CL),1616,0,3,4,0,0.5,0.872,0.3,2,6.85
+Tom Cairney,Fulham,32,M(CR),759,1,1,2,0,1.2,0.9229999999999999,0.4,0,6.84
+Antonee Robinson,Fulham,26,"D(L),M(L)",2162,0,0,4,1,0.4,0.7490000000000001,1.3,1,6.84
+Terence Kongolo,Fulham,29,D(CL),90,0,0,0,0,0.0,0.818,3.0,0,6.84
+Joachim Andersen,Fulham,27,D(C),2730,1,1,7,1,0.4,0.8140000000000001,3.2,2,6.79
+Calum Chambers,Arsenal,28,"D(CR),DMC",752,0,2,0,0,0.8,0.8390000000000001,2.0,0,6.79
+Rob Holding,Arsenal,27,D(CR),2558,0,1,2,0,0.5,0.87,2.4,1,6.79
+Pierre Emerick Aubameyang,Arsenal,34,"M(CLR),FW",2337,10,3,2,0,2.0,0.78,1.2,1,6.78
+Emile Smith Rowe,Arsenal,23,AM(CL),1448,2,4,0,0,0.7,0.887,0.2,0,6.77
+Nicolas Pépé,Arsenal,28,"AM(LR),FW",1614,10,1,1,1,1.7,0.8109999999999999,1.2,4,6.76
+Thomas Partey,Arsenal,30,"D(R),M(CR)",1537,0,2,5,0,1.1,0.872,1.0,1,6.75
+Alphonse Areola,Fulham,30,GK,3240,0,0,2,0,0.0,0.687,0.4,1,6.74
+Granit Xhaka,Arsenal,30,"D(L),M(C)",2522,1,2,7,1,0.7,0.902,1.3,0,6.73
+Tosin Adarabioyo,Fulham,25,D(CR),2954,0,0,1,0,0.5,0.862,2.5,0,6.73
+Gabriel Magalhães,Arsenal,25,D(C),1997,2,0,2,1,0.7,0.857,2.5,0,6.73
+Martin Ødegaard,Arsenal,24,AM(CR),866,1,2,0,0,1.1,0.909,0.2,0,6.72
+Pablo Marí,Arsenal,29,D(C),900,0,0,2,0,0.2,0.877,2.6,0,6.71
+Kenny Tete,Fulham,27,"D(CR),M(R)",1483,0,1,3,0,0.3,0.755,1.3,0,6.69
+Héctor Bellerín,Arsenal,28,"D(R),M(R)",2093,1,2,8,0,0.6,0.838,1.2,1,6.69
+Kieran Tierney,Arsenal,26,"D(CL),M(L)",2302,1,3,4,0,0.6,0.7959999999999999,0.7,0,6.68
+Gabriel Martinelli,Arsenal,22,"AM(L),FW",588,2,1,0,0,1.4,0.799,0.5,1,6.66
+Harrison Reed,Fulham,28,"D(R),M(CR)",2251,0,2,5,0,0.4,0.862,0.6,0,6.66
+Willian,Arsenal,35,AM(CLR),1407,1,5,0,0,0.8,0.875,0.4,3,6.65
+Ola Aina,Fulham,26,"D(CLR),M(LR)",2671,2,1,3,0,0.5,0.789,1.0,1,6.63
+Fábio Carvalho,Fulham,20,AM(CL),255,1,0,0,0,2.3,0.7879999999999999,0.3,0,6.61
+Mario Lemina,Fulham,29,DMC,1705,1,0,5,0,0.7,0.835,0.8,1,6.6
+Bernd Leno,Arsenal,31,GK,3132,0,0,0,1,0.0,0.768,0.3,0,6.56
+Rúnar Alex Rúnarsson,Arsenal,28,GK,16,0,0,0,0,0.0,0.556,0.0,0,6.55
+Ivan Cavaleiro,Fulham,29,"AM(CLR),FW",2476,3,0,2,0,1.3,0.762,1.3,0,6.54
+Bobby De Cordova Reid,Fulham,30,"D(R),M(CLR),FW",2383,5,2,7,0,1.0,0.775,0.5,0,6.52
+David Luiz,Arsenal,36,"D(C),DMC",1400,1,0,1,1,0.8,0.835,1.8,0,6.51
+Ruben Loftus Cheek,Fulham,27,M(CLR),1913,1,0,3,0,1.2,0.807,1.5,0,6.5
+Aleksandar Mitrovic,Fulham,28,FW,1390,3,3,3,0,2.2,0.735,2.6,1,6.5
+Cédric Soares,Arsenal,31,"D(LR),M(R)",745,0,1,1,0,0.7,0.764,0.7,0,6.48
+Ainsley Maitland Niles,Arsenal,25,"D(LR),M(CLR)",486,0,0,0,0,0.2,0.7809999999999999,0.3,0,6.44
+Mohamed Elneny,Arsenal,31,DMC,1542,1,0,3,0,0.4,0.93,0.3,1,6.43
+Tim Ream,Fulham,35,"D(CL),DMC",630,0,0,0,0,0.0,0.9059999999999999,1.6,0,6.4
+Joe Bryan,Fulham,29,"D(L),M(CL)",666,1,0,2,0,0.5,0.752,0.4,0,6.39
+Josh Maja,Fulham,24,FW,810,3,0,0,0,1.4,0.85,0.8,1,6.39
+Eddie Nketiah,Arsenal,24,FW,415,2,1,0,0,0.7,0.8240000000000001,0.4,0,6.33
+Sead Kolasinac,Arsenal,30,"D(CL),DMC,M(L)",90,0,0,0,0,0.0,0.871,2.0,0,6.28
+Joe Willock,Arsenal,23,M(C),235,0,0,1,0,0.6,0.782,1.1,0,6.25
+Maxime Le Marchand,Fulham,33,D(CL),122,0,0,2,0,0.5,0.9179999999999999,1.5,0,6.22
+Reiss Nelson,Arsenal,23,M(LR),70,0,0,0,0,0.5,0.8240000000000001,0.0,0,6.2
+Shkodran Mustafi,Arsenal,31,D(CR),45,0,0,0,0,0.0,0.878,1.0,0,6.17
+Denis Odoi,Fulham,35,"D(CLR),DMC",270,0,0,1,0,0.7,0.8270000000000001,2.0,0,6.13
+Neeskens Kebano,Fulham,31,AM(CLR),117,0,0,0,0,1.2,0.889,0.0,0,6.12
+Josh Onomah,Fulham,26,M(CL),372,0,0,1,0,0.5,0.9,0.4,0,6.08
+Marek Rodák,Fulham,26,GK,180,0,0,0,0,0.0,0.805,0.5,0,6.08
+Michael Hector,Fulham,31,"D(C),DMC",264,0,0,2,0,0.3,0.79,1.5,0,6.07
+Aboubakar Kamara,Fulham,28,"AM(R),FW",310,0,0,1,1,0.4,0.759,1.0,0,5.95
+Tyrese Francois,Fulham,23,Midfielder,14,0,0,0,0,0.0,0.9229999999999999,0.0,0,5.89

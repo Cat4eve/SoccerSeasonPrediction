@@ -1,0 +1,49 @@
+name,team,number,position,min,goal,assist,yellow,red,shot,pass,aer,mom,rating
+James Ward Prowse,Southampton,28,M(CR),3217,10,5,3,1,1.5,0.863,0.8,4,7.01
+James Tarkowski,Burnley,30,D(C),3107,1,2,11,0,0.6,0.688,4.4,1,6.97
+Dwight McNeil,Burnley,23,M(CLR),3114,0,1,1,0,1.4,0.777,0.3,1,6.96
+Ben Mee,Burnley,33,D(CL),1840,3,0,3,0,0.9,0.7040000000000001,3.2,1,6.92
+Nathan Collins,Burnley,22,D(CR),1670,2,0,2,1,0.8,0.6920000000000001,3.1,1,6.89
+Oriol Romeu,Southampton,31,DMC,2899,2,2,9,0,0.7,0.82,1.9,2,6.87
+Josh Brownhill,Burnley,27,M(CR),2953,2,3,10,0,0.8,0.774,1.3,2,6.86
+Kyle Walker Peters,Southampton,26,"D(LR),M(R)",2632,1,2,5,0,0.8,0.813,0.8,3,6.84
+Mohammed Salisu,Southampton,24,D(CL),2972,0,0,8,1,0.7,0.779,3.0,3,6.82
+Charlie Taylor,Burnley,29,"D(CL),M(L)",2731,0,3,3,0,0.2,0.711,1.9,1,6.82
+Nick Pope,Burnley,31,GK,3240,0,0,1,0,0.0,0.445,0.5,5,6.82
+Jan Bednarek,Southampton,27,D(C),2633,4,0,10,0,0.6,0.8170000000000001,2.9,2,6.81
+Tino Livramento,Southampton,20,D(R),2203,1,1,2,0,0.4,0.7859999999999999,0.9,1,6.73
+Ché Adams,Southampton,27,"AM(CL),FW",2043,7,3,0,0,1.6,0.657,2.1,1,6.72
+Fraser Forster,Southampton,35,GK,1710,0,0,1,0,0.0,0.547,0.4,1,6.71
+Erik Pieters,Burnley,35,"D(CL),M(L)",727,0,1,1,0,0.6,0.677,1.0,0,6.71
+Maxwel Cornet,Burnley,26,"D(L),M(LR),FW",1778,9,1,2,0,1.8,0.706,0.9,1,6.69
+Chris Wood,Burnley,31,FW,1378,3,0,1,0,1.8,0.586,5.5,0,6.66
+Alex McCarthy,Southampton,33,GK,1530,0,0,1,0,0.0,0.565,0.4,0,6.63
+Wout Weghorst,Burnley,31,FW,1457,2,3,3,0,1.5,0.643,2.8,0,6.62
+Mohamed Elyounoussi,Southampton,29,"AM(CLR),FW",2046,4,2,4,0,1.4,0.7070000000000001,1.3,0,6.62
+Connor Roberts,Burnley,27,"D(LR),M(R)",1693,1,1,2,0,0.3,0.7290000000000001,0.6,0,6.61
+Nathan Redmond,Southampton,29,"AM(CLR),FW",1834,1,5,0,0,1.0,0.731,0.5,1,6.6
+Armando Broja,Southampton,21,FW,1981,6,0,2,0,1.4,0.614,2.8,1,6.59
+Matthew Lowton,Burnley,34,"D(LR),M(R)",1772,1,2,3,1,0.4,0.674,1.0,0,6.59
+Yan Valery,Southampton,24,"D(CR),M(R)",369,0,0,0,0,0.4,0.727,2.2,0,6.57
+Stuart Armstrong,Southampton,31,AM(CLR),1470,2,0,1,0,1.5,0.8190000000000001,0.2,0,6.51
+Jack Stephens,Southampton,29,D(CR),811,0,0,3,0,0.0,0.774,1.2,0,6.5
+Jay Rodríguez,Burnley,34,"AM(CLR),FW",1375,2,2,3,0,1.4,0.599,1.9,0,6.44
+Wayne Hennessey,Burnley,36,GK,180,0,0,0,0,0.0,0.479,1.0,0,6.44
+Jóhann Gudmundsson,Burnley,32,M(CLR),1105,0,1,2,0,1.1,0.6759999999999999,0.8,0,6.43
+Ashley Westwood,Burnley,33,DMC,2290,0,3,7,0,0.5,0.752,0.3,0,6.42
+Romain Perraud,Southampton,25,"D(L),M(L)",1625,0,1,3,0,1.0,0.706,0.8,0,6.41
+Ibrahima Diallo,Southampton,24,DMC,1019,0,2,1,0,0.3,0.8059999999999999,0.5,0,6.38
+Adam Armstrong,Southampton,26,"AM(CLR),FW",1415,2,2,1,0,2.0,0.7490000000000001,0.6,1,6.38
+Jack Cork,Burnley,34,DMC,1676,1,0,4,0,0.4,0.742,1.3,0,6.38
+Lyanco,Southampton,26,D(CR),906,0,0,2,0,0.4,0.722,1.3,0,6.37
+Shane Long,Southampton,36,"AM(LR),FW",303,1,0,1,0,0.7,0.606,1.8,0,6.33
+Matej Vydra,Burnley,31,"AM(CL),FW",668,2,3,1,0,0.9,0.735,0.8,0,6.33
+Aaron Lennon,Burnley,36,M(LR),1548,2,0,2,0,0.4,0.735,0.3,0,6.28
+Nathan Tella,Southampton,24,"AM(CLR),FW",811,0,1,2,0,0.9,0.621,0.4,0,6.25
+Willy Caballero,Southampton,41,GK,180,0,0,1,0,0.0,0.617,0.0,0,6.25
+Kevin Long,Burnley,32,D(C),408,0,0,1,0,0.7,0.775,2.2,0,6.22
+Will Smallbone,Southampton,23,AM(CR),134,0,0,0,0,0.3,0.5760000000000001,0.3,0,6.19
+Ashley Barnes,Burnley,33,"AM(CL),FW",803,1,0,4,0,0.7,0.637,2.2,0,6.18
+Moussa Djenepo,Southampton,25,M(LR),455,0,0,3,0,0.9,0.757,0.2,0,6.18
+Dale Stephens,Burnley,34,M(C),123,0,0,1,0,0.3,0.807,0.0,0,6.17
+Theo Walcott,Southampton,34,"M(CLR),FW",381,0,0,0,0,0.7,0.716,0.4,0,6.09

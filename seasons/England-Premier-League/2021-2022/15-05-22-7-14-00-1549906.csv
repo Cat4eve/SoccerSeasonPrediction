@@ -1,0 +1,57 @@
+name,team,number,position,min,goal,assist,yellow,red,shot,pass,aer,mom,rating
+Kristoffer Klaesson,Leeds,22,Goalkeeper,35,0,0,0,0,0.0,0.778,1.0,0,7.27
+Moisés Caicedo,Brighton,21,DMC,664,1,1,2,0,1.3,0.821,1.1,0,7.07
+Yves Bissouma,Brighton,26,M(C),2117,1,2,10,0,0.8,0.892,0.6,2,6.99
+Raphinha,Leeds,26,"AM(LR),FW",2923,11,3,7,0,2.5,0.693,0.7,4,6.96
+Marc Cucurella,Brighton,25,"D(CL),M(L)",3092,1,1,6,0,0.5,0.82,1.1,1,6.94
+Jason Steele,Brighton,32,GK,90,0,0,0,0,0.0,0.889,1.0,0,6.92
+Leandro Trossard,Brighton,28,"M(CLR),FW",2812,8,3,2,0,2.2,0.779,0.3,5,6.9
+Shane Duffy,Brighton,31,D(C),1434,1,0,7,0,1.2,0.8740000000000001,3.6,2,6.88
+Liam Cooper,Leeds,31,D(C),1815,0,1,5,0,0.3,0.831,3.9,0,6.86
+Dan Burn,Brighton,31,"D(CL),M(L)",1023,1,0,4,0,0.5,0.818,2.5,0,6.8
+Joël Veltman,Brighton,31,"D(CR),M(R)",2881,1,1,6,0,0.4,0.797,1.7,2,6.8
+Pascal Groß,Brighton,32,"D(R),M(CR),FW",2043,2,4,1,0,0.8,0.828,0.5,1,6.79
+Stuart Dallas,Leeds,32,"D(LR),M(CLR)",2929,1,1,5,0,0.9,0.7879999999999999,0.9,3,6.78
+Alexis Mac Allister,Brighton,24,"M(CL),FW",2118,5,2,4,0,1.8,0.8440000000000001,0.8,1,6.75
+Lewis Dunk,Brighton,31,D(C),2574,1,0,2,1,0.7,0.884,2.8,1,6.73
+Adam Webster,Brighton,28,D(C),1432,2,0,5,0,0.4,0.81,2.5,2,6.72
+Leo Hjelde,Leeds,19,D(CL),148,0,0,0,0,0.0,0.688,1.5,0,6.7
+Danny Welbeck,Brighton,32,"AM(CLR),FW",1477,6,2,0,0,1.7,0.777,1.9,0,6.69
+Jack Harrison,Leeds,26,"AM(CLR),FW",2652,8,1,3,0,1.2,0.705,0.5,3,6.66
+Enock Mwepu,Brighton,25,M(CR),997,2,4,2,0,1.1,0.745,0.5,2,6.66
+Robert Sánchez,Brighton,25,GK,3330,0,0,4,1,0.0,0.674,0.5,0,6.63
+Illan Meslier,Leeds,23,GK,3385,0,0,2,0,0.0,0.69,0.4,0,6.62
+Diego Llorente,Leeds,29,"D(C),DMC",2344,3,0,7,0,0.4,0.8140000000000001,1.8,1,6.59
+Solly March,Brighton,29,M(CLR),1739,0,2,1,0,0.6,0.774,0.5,0,6.59
+Rodrigo,Leeds,32,"M(CLR),FW",2275,6,1,9,0,1.5,0.755,0.5,1,6.57
+Kalvin Phillips,Leeds,27,"D(C),DMC",1596,0,1,4,0,0.8,0.82,0.9,0,6.57
+Tariq Lamptey,Brighton,22,"D(R),M(R)",1558,0,2,4,0,0.6,0.858,0.2,0,6.54
+Adam Lallana,Brighton,35,M(CLR),1561,0,1,4,0,0.8,0.871,0.6,0,6.5
+Junior Firpo,Leeds,26,"D(L),M(L)",1716,0,2,11,0,0.5,0.8140000000000001,1.1,0,6.49
+Neal Maupay,Brighton,27,"AM(C),FW",2276,8,2,7,0,1.9,0.778,0.7,0,6.49
+Luke Ayling,Leeds,31,"D(CR),M(R)",2275,2,2,4,1,0.7,0.774,1.3,0,6.49
+Patrick Bamford,Leeds,29,"AM(CLR),FW",560,2,2,2,0,2.2,0.8170000000000001,0.6,0,6.46
+Jakub Moder,Brighton,24,M(CL),1702,0,3,2,0,1.0,0.746,0.9,0,6.45
+Jamie Shackleton,Leeds,23,"D(R),DMC,M(R)",709,0,0,4,0,0.3,0.8640000000000001,0.4,0,6.45
+Daniel James,Leeds,25,"AM(CLR),FW",2368,4,4,7,1,1.6,0.7170000000000001,0.4,0,6.44
+Steven Alzate,Brighton,24,"DMC,M(L)",407,0,0,0,0,0.1,0.875,0.4,0,6.42
+Mateusz Klich,Leeds,33,M(CL),2095,1,2,5,0,1.3,0.799,0.2,0,6.37
+Pascal Struijk,Leeds,24,"D(CL),DMC",2053,1,0,6,1,0.4,0.852,1.4,0,6.36
+Robin Koch,Leeds,27,"D(C),DMC",1575,0,0,3,0,0.7,0.774,2.3,0,6.35
+Sam Greenwood,Leeds,21,M(C),232,0,2,0,0,0.6,0.74,0.3,0,6.34
+Adam Forshaw,Leeds,31,M(C),1530,0,1,5,0,0.6,0.835,0.5,0,6.33
+Tyler Roberts,Leeds,24,"AM(CR),FW",979,1,1,5,0,1.3,0.7390000000000001,0.4,1,6.32
+Joe Gelhardt,Leeds,21,FW,738,2,2,4,0,1.2,0.65,0.6,0,6.28
+Crysencio Summerville,Leeds,21,AM(LR),126,0,0,0,0,0.3,0.758,0.0,0,6.23
+Charlie Cresswell,Leeds,20,D(C),131,0,0,1,0,0.2,0.721,1.2,0,6.19
+Taylor Richards,Brighton,22,AM(C),23,0,0,0,0,0.5,0.778,0.5,0,6.14
+Aaron Connolly,Brighton,23,FW,155,0,0,0,0,0.5,0.737,0.5,0,6.1
+Jürgen Locadia,Brighton,29,"AM(LR),FW",22,0,0,0,0,1.0,1.0,0.0,0,6.04
+Cody Drameh,Leeds,21,"D(R),M(R)",126,0,0,1,0,0.0,0.745,0.3,0,6.03
+Jeremy Sarmiento,Brighton,21,Forward,45,0,0,0,0,0.0,0.722,0.2,0,6.0
+Hélder Costa,Leeds,29,AM(CLR),20,0,0,0,0,1.0,1.0,0.0,0,6.0
+Nohan Kenneh,Leeds,20,DMC,1,0,0,1,0,0.0,0.0,0.0,0,6.0
+Stuart McKinstry,Leeds,20,AM(L),3,0,0,0,0,0.0,0.667,0.0,0,5.99
+Evan Ferguson,Brighton,18,FW,22,0,0,0,0,0.0,0.8,0.0,0,5.93
+Liam McCarron,Leeds,22,Midfielder,9,0,0,0,0,0.0,1.0,0.0,0,5.91
+Lewis Bate,Leeds,20,DMC,147,0,0,0,0,0.3,0.738,0.0,0,5.82

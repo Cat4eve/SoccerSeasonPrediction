@@ -1,0 +1,56 @@
+name,team,number,position,min,goal,assist,yellow,red,shot,pass,aer,mom,rating
+Cristiano Ronaldo,Man Utd,38,"M(L),FW",2459,18,3,8,0,3.7,0.8190000000000001,1.4,5,7.11
+Bruno Fernandes,Man Utd,28,M(CLR),3120,10,6,10,0,2.5,0.7829999999999999,0.5,3,7.03
+Toti,Wolves,24,D(CL),360,0,0,1,0,0.3,0.7559999999999999,3.3,0,7.01
+Paul Pogba,Man Utd,30,M(CL),1355,1,9,7,1,1.6,0.835,1.8,1,7.0
+Mason Greenwood,Man Utd,21,"AM(R),FW",1281,5,1,1,0,2.7,0.838,0.2,0,6.98
+Rayan Aït Nouri,Wolves,22,"D(L),M(L)",1828,1,2,4,0,0.6,0.767,0.7,1,6.96
+Adama Traoré,Wolves,27,"M(CLR),FW",1065,1,0,0,0,1.2,0.779,0.8,4,6.94
+Aaron Wan Bissaka,Man Utd,25,"D(R),M(R)",1794,0,0,2,0,0.3,0.81,1.0,1,6.91
+Scott McTominay,Man Utd,26,"D(C),DMC",2393,1,1,9,0,0.9,0.856,2.3,2,6.89
+Alex Telles,Man Utd,30,"D(CL),M(L)",1660,0,4,1,0,0.5,0.8029999999999999,1.4,0,6.89
+Maximilian Kilman,Wolves,26,D(C),2689,1,0,3,0,0.4,0.858,2.2,1,6.87
+Fred,Man Utd,30,M(C),2036,4,4,5,0,0.5,0.841,0.5,2,6.87
+Diogo Dalot,Man Utd,24,"D(LR),M(R)",1799,0,0,4,0,0.5,0.802,1.2,1,6.86
+Rúben Neves,Wolves,26,DMC,2663,4,2,9,0,1.3,0.84,0.6,2,6.85
+Romain Saïss,Wolves,33,"D(C),DMC",2709,2,0,6,0,0.6,0.8009999999999999,2.4,1,6.85
+José Sá,Wolves,30,GK,3286,0,1,3,0,0.0,0.63,0.4,5,6.83
+Nélson Semedo,Wolves,29,"D(LR),M(R)",2137,0,1,1,0,0.8,0.774,0.6,0,6.82
+Raphaël Varane,Man Utd,30,D(C),1829,1,1,0,0,0.4,0.878,2.5,1,6.78
+Daniel Podence,Wolves,27,"AM(CLR),FW",1486,2,3,2,0,1.3,0.741,0.1,0,6.78
+Marçal,Wolves,34,"D(CL),M(L)",1453,0,0,3,0,0.6,0.777,1.4,0,6.75
+Jonny,Wolves,29,"D(CLR),M(LR)",1023,2,0,1,0,0.8,0.83,0.8,0,6.75
+João Moutinho,Wolves,36,M(C),2975,2,1,4,0,0.6,0.867,0.4,2,6.69
+Jadon Sancho,Man Utd,23,AM(CLR),1904,3,3,0,0,0.9,0.835,0.1,1,6.66
+Raúl Jiménez,Wolves,32,FW,2640,6,4,5,2,1.7,0.718,1.9,1,6.65
+Conor Coady,Wolves,30,"D(CR),DMC",3364,4,0,5,0,0.3,0.897,0.8,0,6.65
+Harry Maguire,Man Utd,30,D(C),2514,1,0,7,1,0.8,0.8640000000000001,2.5,0,6.65
+David de Gea,Man Utd,32,GK,3420,0,0,0,0,0.0,0.6890000000000001,0.2,1,6.64
+Luke Shaw,Man Utd,28,"D(CL),M(L)",1603,0,3,8,0,0.3,0.841,1.0,0,6.64
+Nemanja Matic,Man Utd,35,DMC,1384,0,4,3,0,0.3,0.871,1.2,0,6.63
+Willy Boly,Wolves,32,D(C),900,0,0,1,0,0.2,0.84,2.0,0,6.6
+Trincão,Wolves,23,AM(CR),1340,2,1,0,0,1.1,0.8079999999999999,0.2,1,6.57
+Anthony Elanga,Man Utd,21,AM(LR),1217,2,2,0,0,1.0,0.782,1.1,0,6.56
+Daniel James,Man Utd,25,"AM(CLR),FW",128,0,0,0,0,2.0,0.69,0.5,0,6.53
+Hwang Hee Chan,Wolves,27,"AM(CLR),FW",1822,5,1,2,0,0.9,0.81,0.3,1,6.52
+Chiquinho,Wolves,23,AM(R),204,0,3,0,0,0.6,0.733,0.5,0,6.52
+Victor Lindelöf,Man Utd,29,D(CR),2355,0,2,4,0,0.1,0.878,1.9,0,6.5
+Pedro Neto,Wolves,23,"AM(CLR),FW",466,1,1,3,0,1.3,0.8490000000000001,0.2,0,6.46
+Leander Dendoncker,Wolves,28,"D(C),M(C)",1948,2,2,4,0,0.8,0.8690000000000001,1.0,0,6.44
+Phil Jones,Man Utd,31,"D(CR),DMC",163,0,0,0,0,0.0,0.877,0.5,0,6.42
+John Ruddy,Wolves,36,GK,135,0,0,0,0,0.0,0.621,0.5,0,6.4
+Edinson Cavani,Man Utd,36,"AM(LR),FW",765,2,1,0,0,1.2,0.7609999999999999,0.5,0,6.4
+Marcus Rashford,Man Utd,25,"AM(CLR),FW",1233,4,2,2,0,0.9,0.7609999999999999,0.4,0,6.35
+Luke Cundle,Wolves,21,AM(C),180,0,0,0,0,0.0,0.932,0.0,0,6.34
+Juan Mata,Man Utd,35,AM(CLR),232,0,0,0,0,0.7,0.889,0.0,0,6.31
+Anthony Martial,Man Utd,27,"AM(LR),FW",210,1,0,0,0,0.6,0.8170000000000001,0.5,0,6.31
+Ki Jana Hoever,Wolves,21,"D(R),M(R)",307,0,0,1,0,0.1,0.695,0.4,0,6.31
+Donny van de Beek,Man Utd,26,M(C),69,1,0,0,0,0.3,0.7879999999999999,0.1,0,6.3
+Eric Bailly,Man Utd,29,D(CR),218,0,0,1,0,0.0,0.8,1.5,0,6.28
+Jesse Lingard,Man Utd,30,"AM(CLR),FW",356,2,0,1,0,0.5,0.883,0.0,0,6.24
+Chem Campbell,Wolves,20,AM(L),12,0,0,0,0,0.0,0.889,0.0,0,6.13
+Fábio Silva,Wolves,21,"AM(L),FW",565,0,0,0,0,0.9,0.684,0.4,0,6.09
+Shola Shoretire,Man Utd,19,"AM(C),FW",16,0,0,0,0,0.0,1.0,0.0,0,6.05
+Alejandro Garnacho,Man Utd,19,AM(L),12,0,0,0,0,0.0,1.0,0.0,0,5.98
+Hannibal Mejbri,Man Utd,20,AM(C),68,0,0,2,0,0.5,0.81,0.0,0,5.97
+Morgan Gibbs White,Wolves,23,"AM(CLR),FW",7,0,0,1,0,1.0,0.778,0.0,0,5.94

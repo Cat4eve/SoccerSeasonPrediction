@@ -1,0 +1,56 @@
+name,team,number,position,min,goal,assist,yellow,red,shot,pass,aer,mom,rating
+Cristiano Ronaldo,Man Utd,38,"M(L),FW",2459,18,3,8,0,3.7,0.8190000000000001,1.4,5,7.11
+Moisés Caicedo,Brighton,21,DMC,664,1,1,2,0,1.3,0.821,1.1,0,7.07
+Bruno Fernandes,Man Utd,28,M(CLR),3120,10,6,10,0,2.5,0.7829999999999999,0.5,3,7.03
+Paul Pogba,Man Utd,30,M(CL),1355,1,9,7,1,1.6,0.835,1.8,1,7.0
+Yves Bissouma,Brighton,26,M(C),2117,1,2,10,0,0.8,0.892,0.6,2,6.99
+Mason Greenwood,Man Utd,21,"AM(R),FW",1281,5,1,1,0,2.7,0.838,0.2,0,6.98
+Marc Cucurella,Brighton,25,"D(CL),M(L)",3092,1,1,6,0,0.5,0.82,1.1,1,6.94
+Jason Steele,Brighton,32,GK,90,0,0,0,0,0.0,0.889,1.0,0,6.92
+Aaron Wan Bissaka,Man Utd,25,"D(R),M(R)",1794,0,0,2,0,0.3,0.81,1.0,1,6.91
+Leandro Trossard,Brighton,28,"M(CLR),FW",2812,8,3,2,0,2.2,0.779,0.3,5,6.9
+Scott McTominay,Man Utd,26,"D(C),DMC",2393,1,1,9,0,0.9,0.856,2.3,2,6.89
+Alex Telles,Man Utd,30,"D(CL),M(L)",1660,0,4,1,0,0.5,0.8029999999999999,1.4,0,6.89
+Shane Duffy,Brighton,31,D(C),1434,1,0,7,0,1.2,0.8740000000000001,3.6,2,6.88
+Fred,Man Utd,30,M(C),2036,4,4,5,0,0.5,0.841,0.5,2,6.87
+Diogo Dalot,Man Utd,24,"D(LR),M(R)",1799,0,0,4,0,0.5,0.802,1.2,1,6.86
+Dan Burn,Brighton,31,"D(CL),M(L)",1023,1,0,4,0,0.5,0.818,2.5,0,6.8
+Joël Veltman,Brighton,31,"D(CR),M(R)",2881,1,1,6,0,0.4,0.797,1.7,2,6.8
+Pascal Groß,Brighton,32,"D(R),M(CR),FW",2043,2,4,1,0,0.8,0.828,0.5,1,6.79
+Raphaël Varane,Man Utd,30,D(C),1829,1,1,0,0,0.4,0.878,2.5,1,6.78
+Alexis Mac Allister,Brighton,24,"M(CL),FW",2118,5,2,4,0,1.8,0.8440000000000001,0.8,1,6.75
+Lewis Dunk,Brighton,31,D(C),2574,1,0,2,1,0.7,0.884,2.8,1,6.73
+Adam Webster,Brighton,28,D(C),1432,2,0,5,0,0.4,0.81,2.5,2,6.72
+Danny Welbeck,Brighton,32,"AM(CLR),FW",1477,6,2,0,0,1.7,0.777,1.9,0,6.69
+Enock Mwepu,Brighton,25,M(CR),997,2,4,2,0,1.1,0.745,0.5,2,6.66
+Jadon Sancho,Man Utd,23,AM(CLR),1904,3,3,0,0,0.9,0.835,0.1,1,6.66
+Harry Maguire,Man Utd,30,D(C),2514,1,0,7,1,0.8,0.8640000000000001,2.5,0,6.65
+David de Gea,Man Utd,32,GK,3420,0,0,0,0,0.0,0.6890000000000001,0.2,1,6.64
+Luke Shaw,Man Utd,28,"D(CL),M(L)",1603,0,3,8,0,0.3,0.841,1.0,0,6.64
+Robert Sánchez,Brighton,25,GK,3330,0,0,4,1,0.0,0.674,0.5,0,6.63
+Nemanja Matic,Man Utd,35,DMC,1384,0,4,3,0,0.3,0.871,1.2,0,6.63
+Solly March,Brighton,29,M(CLR),1739,0,2,1,0,0.6,0.774,0.5,0,6.59
+Anthony Elanga,Man Utd,21,AM(LR),1217,2,2,0,0,1.0,0.782,1.1,0,6.56
+Tariq Lamptey,Brighton,22,"D(R),M(R)",1558,0,2,4,0,0.6,0.858,0.2,0,6.54
+Daniel James,Man Utd,25,"AM(CLR),FW",128,0,0,0,0,2.0,0.69,0.5,0,6.53
+Adam Lallana,Brighton,35,M(CLR),1561,0,1,4,0,0.8,0.871,0.6,0,6.5
+Victor Lindelöf,Man Utd,29,D(CR),2355,0,2,4,0,0.1,0.878,1.9,0,6.5
+Neal Maupay,Brighton,27,"AM(C),FW",2276,8,2,7,0,1.9,0.778,0.7,0,6.49
+Jakub Moder,Brighton,24,M(CL),1702,0,3,2,0,1.0,0.746,0.9,0,6.45
+Phil Jones,Man Utd,31,"D(CR),DMC",163,0,0,0,0,0.0,0.877,0.5,0,6.42
+Steven Alzate,Brighton,24,"DMC,M(L)",407,0,0,0,0,0.1,0.875,0.4,0,6.42
+Edinson Cavani,Man Utd,36,"AM(LR),FW",765,2,1,0,0,1.2,0.7609999999999999,0.5,0,6.4
+Marcus Rashford,Man Utd,25,"AM(CLR),FW",1233,4,2,2,0,0.9,0.7609999999999999,0.4,0,6.35
+Juan Mata,Man Utd,35,AM(CLR),232,0,0,0,0,0.7,0.889,0.0,0,6.31
+Anthony Martial,Man Utd,27,"AM(LR),FW",210,1,0,0,0,0.6,0.8170000000000001,0.5,0,6.31
+Donny van de Beek,Man Utd,26,M(C),69,1,0,0,0,0.3,0.7879999999999999,0.1,0,6.3
+Eric Bailly,Man Utd,29,D(CR),218,0,0,1,0,0.0,0.8,1.5,0,6.28
+Jesse Lingard,Man Utd,30,"AM(CLR),FW",356,2,0,1,0,0.5,0.883,0.0,0,6.24
+Taylor Richards,Brighton,22,AM(C),23,0,0,0,0,0.5,0.778,0.5,0,6.14
+Aaron Connolly,Brighton,23,FW,155,0,0,0,0,0.5,0.737,0.5,0,6.1
+Shola Shoretire,Man Utd,19,"AM(C),FW",16,0,0,0,0,0.0,1.0,0.0,0,6.05
+Jürgen Locadia,Brighton,29,"AM(LR),FW",22,0,0,0,0,1.0,1.0,0.0,0,6.04
+Jeremy Sarmiento,Brighton,21,Forward,45,0,0,0,0,0.0,0.722,0.2,0,6.0
+Alejandro Garnacho,Man Utd,19,AM(L),12,0,0,0,0,0.0,1.0,0.0,0,5.98
+Hannibal Mejbri,Man Utd,20,AM(C),68,0,0,2,0,0.5,0.81,0.0,0,5.97
+Evan Ferguson,Brighton,18,FW,22,0,0,0,0,0.0,0.8,0.0,0,5.93

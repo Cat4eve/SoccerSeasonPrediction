@@ -1,0 +1,57 @@
+name,team,number,position,min,goal,assist,yellow,red,shot,pass,aer,mom,rating
+Mason Mount,Chelsea,24,M(CLR),2892,6,5,2,0,2.3,0.865,0.6,4,7.33
+Kurt Zouma,Chelsea,28,D(CR),2025,5,0,3,0,1.1,0.909,3.6,1,7.07
+James Ward Prowse,Southampton,28,M(CR),3420,8,7,5,0,1.1,0.8640000000000001,1.2,2,7.07
+Antonio Rüdiger,Chelsea,30,D(CLR),1710,1,0,0,0,0.7,0.894,2.2,0,7.02
+Ben Chilwell,Chelsea,26,"D(L),M(L)",2290,3,5,3,0,1.0,0.82,1.4,2,7.0
+Reece James,Chelsea,23,"D(CR),DMC,M(R)",2367,1,2,3,0,1.1,0.884,1.3,1,6.94
+Oriol Romeu,Southampton,31,DMC,1768,1,1,6,0,0.7,0.826,1.5,2,6.93
+César Azpilicueta,Chelsea,33,"D(CLR),M(R)",2191,1,2,5,1,0.4,0.8690000000000001,2.1,1,6.92
+Thiago Silva,Chelsea,38,D(C),1938,2,0,3,1,0.6,0.93,2.0,0,6.91
+Marcos Alonso,Chelsea,32,"D(CL),M(L)",960,2,0,2,0,1.7,0.825,1.8,1,6.9
+Jannik Vestergaard,Southampton,31,D(C),2575,3,0,3,1,0.8,0.836,3.3,1,6.89
+Jorginho,Chelsea,31,DMC,2014,7,1,2,0,0.5,0.892,0.6,4,6.88
+N 39 Golo Kanté,Chelsea,32,M(C),2146,0,2,7,0,0.3,0.865,0.6,1,6.86
+Fikayo Tomori,Chelsea,25,D(CR),45,0,0,0,0,0.0,0.966,0.0,0,6.85
+Mateo Kovacic,Chelsea,29,M(CL),1820,0,1,4,0,0.9,0.9079999999999999,0.4,2,6.84
+Kyle Walker Peters,Southampton,26,"D(LR),M(R)",2649,0,2,4,0,0.6,0.809,0.5,0,6.84
+Danny Ings,Southampton,31,"AM(C),FW",2185,12,4,1,0,2.0,0.6629999999999999,0.8,2,6.84
+Stuart Armstrong,Southampton,31,AM(CLR),2774,4,5,3,0,1.7,0.807,0.2,2,6.82
+Timo Werner,Chelsea,27,"AM(CLR),FW",2608,6,8,2,0,2.3,0.7879999999999999,0.3,1,6.81
+Andreas Christensen,Chelsea,27,"D(C),DMC",1375,0,0,2,1,0.2,0.9129999999999999,2.2,0,6.8
+Ché Adams,Southampton,27,"AM(CL),FW",2675,9,5,1,0,1.5,0.703,1.5,0,6.77
+Christian Pulisic,Chelsea,24,"M(CLR),FW",1738,4,2,2,0,1.6,0.8290000000000001,0.7,2,6.74
+Callum Hudson Odoi,Chelsea,22,M(CLR),1060,2,3,0,0,1.0,0.861,0.0,0,6.73
+Hakim Ziyech,Chelsea,30,M(CLR),1180,2,3,3,0,1.5,0.7909999999999999,0.2,2,6.71
+Jan Bednarek,Southampton,27,D(C),3104,1,1,5,1,0.3,0.8240000000000001,2.7,1,6.7
+Tammy Abraham,Chelsea,25,FW,1036,6,1,0,0,1.5,0.727,1.8,2,6.7
+Fraser Forster,Southampton,35,GK,720,0,0,0,0,0.0,0.519,0.4,0,6.7
+Mohammed Salisu,Southampton,24,D(CL),843,0,0,1,0,0.3,0.8,1.8,0,6.66
+Emerson,Chelsea,29,"D(L),M(L)",89,0,0,0,0,0.0,0.732,1.5,0,6.63
+Kai Havertz,Chelsea,24,"M(CR),FW",1522,4,3,2,0,1.2,0.8490000000000001,1.1,1,6.6
+Theo Walcott,Southampton,34,"M(CLR),FW",1629,3,3,0,0,1.4,0.7440000000000001,0.5,1,6.56
+Édouard Mendy,Chelsea,31,GK,2746,0,0,2,0,0.0,0.833,0.1,0,6.56
+Nathan Redmond,Southampton,29,"AM(CLR),FW",1731,2,3,1,0,1.6,0.768,0.3,0,6.55
+Jack Stephens,Southampton,29,D(CR),1539,0,0,2,0,0.3,0.812,1.1,1,6.52
+Olivier Giroud,Chelsea,36,FW,747,4,0,1,0,1.7,0.703,1.4,1,6.52
+Alex McCarthy,Southampton,33,GK,2700,0,0,2,0,0.0,0.61,0.1,1,6.49
+Takumi Minamino,Southampton,28,"AM(CLR),FW",717,2,0,1,0,1.3,0.735,0.6,0,6.42
+Ryan Bertrand,Southampton,34,"D(CL),M(L)",2599,0,1,5,0,0.3,0.7959999999999999,1.3,0,6.41
+Moussa Djenepo,Southampton,25,M(LR),1240,1,0,5,0,0.5,0.728,0.4,0,6.37
+Ross Barkley,Chelsea,29,M(CLR),40,0,0,0,0,0.5,0.852,1.0,0,6.34
+Billy Gilmour,Chelsea,22,DMC,260,0,0,0,0,0.2,0.88,0.4,0,6.32
+Nathan Tella,Southampton,24,"AM(CLR),FW",742,1,1,2,0,0.9,0.7190000000000001,0.1,0,6.25
+Ruben Loftus Cheek,Chelsea,27,M(CLR),61,0,0,0,0,0.0,0.647,1.0,0,6.23
+Ibrahima Diallo,Southampton,24,DMC,1012,0,0,3,0,0.3,0.85,0.5,0,6.22
+Will Smallbone,Southampton,23,AM(CR),173,0,0,0,0,0.3,0.836,0.7,0,6.21
+Kepa,Chelsea,28,GK,585,0,0,1,0,0.0,0.785,0.0,0,6.17
+Yan Valery,Southampton,24,"D(CR),M(R)",101,0,0,0,0,0.7,0.889,0.7,0,6.15
+Shane Long,Southampton,36,"AM(LR),FW",201,0,0,0,0,0.2,0.5710000000000001,1.2,0,6.11
+Caleb Watts,Southampton,21,Midfielder,36,0,0,1,0,0.0,0.583,0.3,0,6.05
+Daniel Nlundulu,Southampton,24,FW,102,0,0,0,0,0.1,0.7240000000000001,0.4,0,6.03
+Michael Obafemi,Southampton,23,FW,57,0,0,0,0,0.0,1.0,0.0,0,5.98
+Jake Vokins,Southampton,23,D(L),66,0,0,0,0,0.0,0.846,0.0,0,5.83
+Allan Tchaptchet,Southampton,21,Defender,12,0,0,0,0,0.0,0.0,1.0,0,5.74
+Alexandre Jankewitz,Southampton,21,Midfielder,3,0,0,0,1,0.0,0.667,0.0,0,5.68
+Willy Caballero,Chelsea,41,GK,90,0,0,0,0,0.0,0.917,0.0,0,5.41
+Kayne Ramsay,Southampton,22,"D(R),M(R)",90,0,0,1,0,0.0,0.789,0.0,0,5.06

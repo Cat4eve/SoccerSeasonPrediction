@@ -1,0 +1,59 @@
+name,team,number,position,min,goal,assist,yellow,red,shot,pass,aer,mom,rating
+Son Heung Min,Tottenham,31,"M(CLR),FW",3021,23,7,2,0,2.5,0.866,0.5,6,7.51
+Harry Kane,Tottenham,30,"AM(C),FW",3232,17,9,5,0,3.6,0.703,2.0,7,7.45
+Rodrigo Bentancur,Tottenham,26,M(C),1367,0,4,5,0,0.8,0.9,1.2,1,7.24
+Dejan Kulusevski,Tottenham,23,"AM(CR),FW",1267,5,8,3,0,1.4,0.8640000000000001,0.2,1,7.19
+Pierre Emile Højbjerg,Tottenham,28,M(C),3199,2,2,3,0,0.9,0.897,0.6,1,7.16
+Matt Doherty,Tottenham,31,"D(LR),M(LR)",874,2,4,0,0,1.1,0.836,1.1,0,6.96
+Richarlison,Everton,26,"AM(CLR),FW",2528,10,5,9,0,2.4,0.634,2.2,3,6.96
+Sergio Reguilón,Tottenham,26,"D(L),M(L)",1923,2,3,4,0,0.8,0.787,1.2,0,6.95
+Cristian Romero,Tottenham,25,D(C),1846,1,0,8,0,0.3,0.867,2.0,0,6.92
+Dominic Calvert Lewin,Everton,26,"AM(L),FW",1286,5,2,2,0,1.9,0.603,5.5,2,6.92
+Emerson Royal,Tottenham,24,"D(R),M(R)",2291,1,1,5,0,0.5,0.823,1.1,0,6.87
+Davinson Sánchez,Tottenham,27,D(C),1626,2,0,4,0,0.6,0.878,2.0,0,6.87
+Lucas Moura,Tottenham,31,"AM(CLR),FW",1774,2,6,4,0,1.1,0.767,1.4,3,6.82
+Lucas Digne,Everton,30,"D(CL),M(L)",1170,0,0,4,0,0.7,0.76,1.9,0,6.8
+Hugo Lloris,Tottenham,36,GK,3420,0,0,2,0,0.0,0.768,0.4,0,6.79
+Demarai Gray,Everton,27,"AM(CLR),FW",2352,5,4,3,0,1.9,0.815,0.1,0,6.78
+Ben Davies,Tottenham,30,"D(CL),M(L)",2540,1,1,6,0,0.6,0.85,2.3,0,6.78
+Eric Dier,Tottenham,29,"D(CR),DMC",3072,0,0,1,0,0.4,0.8809999999999999,2.0,0,6.77
+Asmir Begovic,Everton,36,GK,270,0,0,0,0,0.0,0.43799999999999994,1.7,1,6.74
+Abdoulaye Doucouré,Everton,30,M(C),2538,2,4,6,0,1.1,0.7959999999999999,1.2,1,6.72
+Michael Keane,Everton,30,D(CR),2793,3,2,2,1,0.6,0.765,3.0,1,6.72
+Andros Townsend,Everton,32,"AM(LR),FW",1459,3,2,3,0,1.0,0.7809999999999999,0.3,2,6.71
+Anthony Gordon,Everton,22,AM(CLR),2285,4,2,4,0,1.3,0.742,0.5,2,6.7
+Vitalii Mykolenko,Everton,24,"D(CL),M(L)",1056,1,0,0,0,0.6,0.7340000000000001,0.8,1,6.69
+Ryan Sessegnon,Tottenham,23,"D(L),M(LR)",1054,0,2,2,0,0.4,0.768,0.7,0,6.68
+Yerry Mina,Everton,28,D(C),847,0,0,3,0,0.5,0.8009999999999999,2.3,0,6.61
+Fabian Delph,Everton,33,"D(L),M(CL)",666,0,0,2,0,0.2,0.843,0.5,0,6.61
+Séamus Coleman,Everton,34,"D(CR),M(R)",2658,1,0,4,0,0.3,0.742,0.8,1,6.61
+Jordan Pickford,Everton,29,GK,3150,0,0,2,0,0.0,0.48100000000000004,0.3,3,6.6
+Alex Iwobi,Everton,27,M(CLR),2037,2,2,1,0,0.9,0.7959999999999999,0.3,1,6.58
+Oliver Skipp,Tottenham,22,DMC,1349,0,0,6,0,0.2,0.9009999999999999,0.7,0,6.57
+Mason Holgate,Everton,26,"D(CR),DMC,M(R)",2134,2,1,7,1,0.3,0.684,2.5,0,6.53
+Dele Alli,Tottenham,27,"M(CL),FW",658,1,0,1,0,0.4,0.789,0.7,0,6.53
+Japhet Tanganga,Tottenham,24,D(CR),740,0,0,2,1,0.6,0.841,1.4,0,6.52
+Ben Godfrey,Everton,25,D(CLR),2031,0,0,6,0,0.8,0.7659999999999999,1.6,0,6.51
+Allan,Everton,32,DMC,2188,0,2,7,1,0.3,0.8,0.4,0,6.5
+Donny van de Beek,Everton,26,M(C),484,1,0,1,0,0.7,0.847,1.0,0,6.47
+Tanguy Ndombélé,Tottenham,26,M(C),486,1,1,1,0,1.0,0.871,0.2,1,6.46
+Harry Winks,Tottenham,27,DMC,908,0,1,2,0,0.2,0.882,0.2,0,6.43
+Giovani Lo Celso,Tottenham,27,"M(CR),FW",233,0,0,0,0,1.0,0.833,0.0,0,6.3
+Jonjoe Kenny,Everton,26,"D(LR),M(R)",1017,0,1,1,1,0.3,0.737,0.6,0,6.27
+Dele Alli,Everton,27,"M(CL),FW",332,0,0,3,0,0.3,0.73,0.8,0,6.26
+Steven Bergwijn,Tottenham,25,"AM(CLR),FW",551,3,1,1,0,0.8,0.8420000000000001,0.2,0,6.25
+Tom Davies,Everton,25,M(C),233,1,0,1,0,1.0,0.741,0.5,0,6.22
+Ellis Simms,Everton,22,FW,62,0,0,0,0,0.0,0.583,2.0,0,6.21
+Dane Scarlett,Tottenham,19,FW,3,0,0,0,0,0.0,1.0,0.0,0,6.2
+Salomón Rondón,Everton,33,FW,783,1,1,3,1,1.1,0.624,1.9,0,6.19
+André Gomes,Everton,30,M(CLR),619,0,1,3,0,1.0,0.772,0.6,0,6.17
+Jarrad Branthwaite,Everton,21,D(C),388,1,0,0,1,0.5,0.757,1.8,0,6.15
+Bryan Gil,Tottenham,22,AM(CLR),86,0,0,0,0,0.1,0.8390000000000001,0.0,0,6.15
+Joe Rodon,Tottenham,25,D(C),87,0,0,0,0,0.0,0.8290000000000001,0.7,0,6.09
+Jean Philippe Gbamin,Everton,27,"D(CR),DMC",67,0,0,0,0,0.0,0.727,0.3,0,6.07
+Anwar El Ghazi,Everton,28,"AM(LR),FW",11,0,0,0,0,0.0,0.778,0.0,0,6.05
+Tyler Onyango,Everton,20,M(C),27,0,0,0,0,0.3,0.5,0.3,0,6.02
+Moise Kean,Everton,23,"AM(LR),FW",1,0,0,0,0,0.0,1.0,0.0,0,6.0
+Lewis Dobbin,Everton,20,AM(CLR),30,0,0,1,0,0.0,0.625,0.0,0,5.99
+Cenk Tosun,Everton,32,"AM(LR),FW",6,0,0,0,0,0.0,1.0,0.0,0,5.96
+Isaac Price,Everton,19,Midfielder,12,0,0,0,0,1.0,0.5,0.0,0,5.7

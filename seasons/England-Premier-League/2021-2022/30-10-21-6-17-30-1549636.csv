@@ -1,0 +1,55 @@
+name,team,number,position,min,goal,assist,yellow,red,shot,pass,aer,mom,rating
+Son Heung Min,Tottenham,31,"M(CLR),FW",3021,23,7,2,0,2.5,0.866,0.5,6,7.51
+Harry Kane,Tottenham,30,"AM(C),FW",3232,17,9,5,0,3.6,0.703,2.0,7,7.45
+Rodrigo Bentancur,Tottenham,26,M(C),1367,0,4,5,0,0.8,0.9,1.2,1,7.24
+Dejan Kulusevski,Tottenham,23,"AM(CR),FW",1267,5,8,3,0,1.4,0.8640000000000001,0.2,1,7.19
+Pierre Emile Højbjerg,Tottenham,28,M(C),3199,2,2,3,0,0.9,0.897,0.6,1,7.16
+Cristiano Ronaldo,Man Utd,38,"M(L),FW",2459,18,3,8,0,3.7,0.8190000000000001,1.4,5,7.11
+Bruno Fernandes,Man Utd,28,M(CLR),3120,10,6,10,0,2.5,0.7829999999999999,0.5,3,7.03
+Paul Pogba,Man Utd,30,M(CL),1355,1,9,7,1,1.6,0.835,1.8,1,7.0
+Mason Greenwood,Man Utd,21,"AM(R),FW",1281,5,1,1,0,2.7,0.838,0.2,0,6.98
+Matt Doherty,Tottenham,31,"D(LR),M(LR)",874,2,4,0,0,1.1,0.836,1.1,0,6.96
+Sergio Reguilón,Tottenham,26,"D(L),M(L)",1923,2,3,4,0,0.8,0.787,1.2,0,6.95
+Cristian Romero,Tottenham,25,D(C),1846,1,0,8,0,0.3,0.867,2.0,0,6.92
+Aaron Wan Bissaka,Man Utd,25,"D(R),M(R)",1794,0,0,2,0,0.3,0.81,1.0,1,6.91
+Scott McTominay,Man Utd,26,"D(C),DMC",2393,1,1,9,0,0.9,0.856,2.3,2,6.89
+Alex Telles,Man Utd,30,"D(CL),M(L)",1660,0,4,1,0,0.5,0.8029999999999999,1.4,0,6.89
+Emerson Royal,Tottenham,24,"D(R),M(R)",2291,1,1,5,0,0.5,0.823,1.1,0,6.87
+Fred,Man Utd,30,M(C),2036,4,4,5,0,0.5,0.841,0.5,2,6.87
+Davinson Sánchez,Tottenham,27,D(C),1626,2,0,4,0,0.6,0.878,2.0,0,6.87
+Diogo Dalot,Man Utd,24,"D(LR),M(R)",1799,0,0,4,0,0.5,0.802,1.2,1,6.86
+Lucas Moura,Tottenham,31,"AM(CLR),FW",1774,2,6,4,0,1.1,0.767,1.4,3,6.82
+Hugo Lloris,Tottenham,36,GK,3420,0,0,2,0,0.0,0.768,0.4,0,6.79
+Raphaël Varane,Man Utd,30,D(C),1829,1,1,0,0,0.4,0.878,2.5,1,6.78
+Ben Davies,Tottenham,30,"D(CL),M(L)",2540,1,1,6,0,0.6,0.85,2.3,0,6.78
+Eric Dier,Tottenham,29,"D(CR),DMC",3072,0,0,1,0,0.4,0.8809999999999999,2.0,0,6.77
+Ryan Sessegnon,Tottenham,23,"D(L),M(LR)",1054,0,2,2,0,0.4,0.768,0.7,0,6.68
+Jadon Sancho,Man Utd,23,AM(CLR),1904,3,3,0,0,0.9,0.835,0.1,1,6.66
+Harry Maguire,Man Utd,30,D(C),2514,1,0,7,1,0.8,0.8640000000000001,2.5,0,6.65
+David de Gea,Man Utd,32,GK,3420,0,0,0,0,0.0,0.6890000000000001,0.2,1,6.64
+Luke Shaw,Man Utd,28,"D(CL),M(L)",1603,0,3,8,0,0.3,0.841,1.0,0,6.64
+Nemanja Matic,Man Utd,35,DMC,1384,0,4,3,0,0.3,0.871,1.2,0,6.63
+Oliver Skipp,Tottenham,22,DMC,1349,0,0,6,0,0.2,0.9009999999999999,0.7,0,6.57
+Anthony Elanga,Man Utd,21,AM(LR),1217,2,2,0,0,1.0,0.782,1.1,0,6.56
+Daniel James,Man Utd,25,"AM(CLR),FW",128,0,0,0,0,2.0,0.69,0.5,0,6.53
+Dele Alli,Tottenham,27,"M(CL),FW",658,1,0,1,0,0.4,0.789,0.7,0,6.53
+Japhet Tanganga,Tottenham,24,D(CR),740,0,0,2,1,0.6,0.841,1.4,0,6.52
+Victor Lindelöf,Man Utd,29,D(CR),2355,0,2,4,0,0.1,0.878,1.9,0,6.5
+Tanguy Ndombélé,Tottenham,26,M(C),486,1,1,1,0,1.0,0.871,0.2,1,6.46
+Harry Winks,Tottenham,27,DMC,908,0,1,2,0,0.2,0.882,0.2,0,6.43
+Phil Jones,Man Utd,31,"D(CR),DMC",163,0,0,0,0,0.0,0.877,0.5,0,6.42
+Edinson Cavani,Man Utd,36,"AM(LR),FW",765,2,1,0,0,1.2,0.7609999999999999,0.5,0,6.4
+Marcus Rashford,Man Utd,25,"AM(CLR),FW",1233,4,2,2,0,0.9,0.7609999999999999,0.4,0,6.35
+Juan Mata,Man Utd,35,AM(CLR),232,0,0,0,0,0.7,0.889,0.0,0,6.31
+Anthony Martial,Man Utd,27,"AM(LR),FW",210,1,0,0,0,0.6,0.8170000000000001,0.5,0,6.31
+Donny van de Beek,Man Utd,26,M(C),69,1,0,0,0,0.3,0.7879999999999999,0.1,0,6.3
+Giovani Lo Celso,Tottenham,27,"M(CR),FW",233,0,0,0,0,1.0,0.833,0.0,0,6.3
+Eric Bailly,Man Utd,29,D(CR),218,0,0,1,0,0.0,0.8,1.5,0,6.28
+Steven Bergwijn,Tottenham,25,"AM(CLR),FW",551,3,1,1,0,0.8,0.8420000000000001,0.2,0,6.25
+Jesse Lingard,Man Utd,30,"AM(CLR),FW",356,2,0,1,0,0.5,0.883,0.0,0,6.24
+Dane Scarlett,Tottenham,19,FW,3,0,0,0,0,0.0,1.0,0.0,0,6.2
+Bryan Gil,Tottenham,22,AM(CLR),86,0,0,0,0,0.1,0.8390000000000001,0.0,0,6.15
+Joe Rodon,Tottenham,25,D(C),87,0,0,0,0,0.0,0.8290000000000001,0.7,0,6.09
+Shola Shoretire,Man Utd,19,"AM(C),FW",16,0,0,0,0,0.0,1.0,0.0,0,6.05
+Alejandro Garnacho,Man Utd,19,AM(L),12,0,0,0,0,0.0,1.0,0.0,0,5.98
+Hannibal Mejbri,Man Utd,20,AM(C),68,0,0,2,0,0.5,0.81,0.0,0,5.97

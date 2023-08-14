@@ -1,0 +1,51 @@
+name,team,number,position,min,goal,assist,yellow,red,shot,pass,aer,mom,rating
+Jarrod Bowen,West Ham,26,"AM(CLR),FW",2993,12,10,6,0,2.2,0.762,1.1,4,7.14
+Declan Rice,West Ham,24,"D(C),DMC",3178,1,4,8,0,0.7,0.9159999999999999,1.2,1,7.1
+James Ward Prowse,Southampton,28,M(CR),3217,10,5,3,1,1.5,0.863,0.8,4,7.01
+Tomás Soucek,West Ham,28,DMC,3062,5,1,3,0,1.3,0.7659999999999999,3.8,1,6.97
+Michail Antonio,West Ham,33,"D(R),M(CLR),FW",2981,10,8,6,1,2.3,0.675,2.2,2,6.92
+Oriol Romeu,Southampton,31,DMC,2899,2,2,9,0,0.7,0.82,1.9,2,6.87
+Saïd Benrahma,West Ham,28,AM(CLR),2184,8,6,0,0,2.0,0.8109999999999999,0.3,2,6.86
+Kyle Walker Peters,Southampton,26,"D(LR),M(R)",2632,1,2,5,0,0.8,0.813,0.8,3,6.84
+Mohammed Salisu,Southampton,24,D(CL),2972,0,0,8,1,0.7,0.779,3.0,3,6.82
+Jan Bednarek,Southampton,27,D(C),2633,4,0,10,0,0.6,0.8170000000000001,2.9,2,6.81
+Pablo Fornals,West Ham,27,M(CLR),2804,6,3,4,0,1.2,0.7809999999999999,0.6,2,6.8
+Lukasz Fabianski,West Ham,38,GK,3330,0,0,2,0,0.0,0.5920000000000001,0.3,1,6.76
+Aaron Cresswell,West Ham,33,"D(CL),M(L)",2728,2,3,3,0,0.6,0.826,1.0,0,6.75
+Kurt Zouma,West Ham,28,D(CR),2080,1,0,1,0,0.3,0.877,2.1,0,6.74
+Tino Livramento,Southampton,20,D(R),2203,1,1,2,0,0.4,0.7859999999999999,0.9,1,6.73
+Ché Adams,Southampton,27,"AM(CL),FW",2043,7,3,0,0,1.6,0.657,2.1,1,6.72
+Fraser Forster,Southampton,35,GK,1710,0,0,1,0,0.0,0.547,0.4,1,6.71
+Craig Dawson,West Ham,33,D(CR),2754,2,2,4,1,0.7,0.809,2.8,0,6.7
+Arthur Masuaku,West Ham,29,"D(L),M(L)",645,1,1,1,0,0.3,0.799,1.2,0,6.67
+Angelo Ogbonna,West Ham,35,D(C),922,1,0,1,0,0.3,0.852,2.5,1,6.66
+Ben Johnson,West Ham,23,"D(CLR),M(LR)",1401,1,0,1,0,0.3,0.708,0.8,0,6.65
+Manuel Lanzini,West Ham,30,M(CLR),1789,5,3,2,0,0.5,0.919,0.2,1,6.64
+Alex McCarthy,Southampton,33,GK,1530,0,0,1,0,0.0,0.565,0.4,0,6.63
+Mohamed Elyounoussi,Southampton,29,"AM(CLR),FW",2046,4,2,4,0,1.4,0.7070000000000001,1.3,0,6.62
+Nathan Redmond,Southampton,29,"AM(CLR),FW",1834,1,5,0,0,1.0,0.731,0.5,1,6.6
+Armando Broja,Southampton,21,FW,1981,6,0,2,0,1.4,0.614,2.8,1,6.59
+Yan Valery,Southampton,24,"D(CR),M(R)",369,0,0,0,0,0.4,0.727,2.2,0,6.57
+Vladimír Coufal,West Ham,30,"D(R),M(R)",2211,0,4,3,1,0.4,0.7140000000000001,1.2,0,6.56
+Alphonse Areola,West Ham,30,GK,90,0,0,0,0,0.0,0.486,0.0,0,6.56
+Stuart Armstrong,Southampton,31,AM(CLR),1470,2,0,1,0,1.5,0.8190000000000001,0.2,0,6.51
+Jack Stephens,Southampton,29,D(CR),811,0,0,3,0,0.0,0.774,1.2,0,6.5
+Issa Diop,West Ham,26,D(C),962,0,1,0,0,0.2,0.851,1.2,0,6.45
+Romain Perraud,Southampton,25,"D(L),M(L)",1625,0,1,3,0,1.0,0.706,0.8,0,6.41
+Ibrahima Diallo,Southampton,24,DMC,1019,0,2,1,0,0.3,0.8059999999999999,0.5,0,6.38
+Adam Armstrong,Southampton,26,"AM(CLR),FW",1415,2,2,1,0,2.0,0.7490000000000001,0.6,1,6.38
+Lyanco,Southampton,26,D(CR),906,0,0,2,0,0.4,0.722,1.3,0,6.37
+Shane Long,Southampton,36,"AM(LR),FW",303,1,0,1,0,0.7,0.606,1.8,0,6.33
+Nathan Tella,Southampton,24,"AM(CLR),FW",811,0,1,2,0,0.9,0.621,0.4,0,6.25
+Willy Caballero,Southampton,41,GK,180,0,0,1,0,0.0,0.617,0.0,0,6.25
+Nikola Vlasic,West Ham,25,"AM(CLR),FW",555,1,0,0,0,0.4,0.8079999999999999,0.3,0,6.22
+Mark Noble,West Ham,36,M(C),327,1,0,0,0,0.2,0.879,0.1,0,6.2
+Will Smallbone,Southampton,23,AM(CR),134,0,0,0,0,0.3,0.5760000000000001,0.3,0,6.19
+Moussa Djenepo,Southampton,25,M(LR),455,0,0,3,0,0.9,0.757,0.2,0,6.18
+Harrison Ashby,West Ham,21,Defender,6,0,0,0,0,0.0,1.0,0.0,0,6.17
+Ryan Fredericks,West Ham,30,"D(R),M(R)",304,0,0,1,0,0.0,0.782,0.4,0,6.15
+Andrii Yarmolenko,West Ham,33,"AM(CR),FW",304,1,0,1,0,0.6,0.772,0.3,0,6.15
+Theo Walcott,Southampton,34,"M(CLR),FW",381,0,0,0,0,0.7,0.716,0.4,0,6.09
+Sonny Perkins,West Ham,19,Forward,3,0,0,0,0,0.0,0.0,1.0,0,6.08
+Alex Král,West Ham,25,DMC,1,0,0,0,0,0.0,0.0,1.0,0,6.0
+Daniel Chesters,West Ham,21,Midfielder,1,0,0,0,0,0.0,0.0,0.0,0,6.0

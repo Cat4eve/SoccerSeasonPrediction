@@ -1,0 +1,53 @@
+name,team,number,position,min,goal,assist,yellow,red,shot,pass,aer,mom,rating
+Jarrod Bowen,West Ham,26,"AM(CLR),FW",2993,12,10,6,0,2.2,0.762,1.1,4,7.14
+Declan Rice,West Ham,24,"D(C),DMC",3178,1,4,8,0,0.7,0.9159999999999999,1.2,1,7.1
+Bukayo Saka,Arsenal,21,"D(L),M(CLR)",2996,11,7,6,0,2.6,0.795,0.6,3,7.06
+Tomás Soucek,West Ham,28,DMC,3062,5,1,3,0,1.3,0.7659999999999999,3.8,1,6.97
+Thomas Partey,Arsenal,30,"D(R),M(CR)",2032,2,1,5,0,1.8,0.856,1.0,1,6.96
+Michail Antonio,West Ham,33,"D(R),M(CLR),FW",2981,10,8,6,1,2.3,0.675,2.2,2,6.92
+Martin Ødegaard,Arsenal,24,AM(CR),2793,7,4,4,0,1.5,0.86,0.4,1,6.91
+Saïd Benrahma,West Ham,28,AM(CLR),2184,8,6,0,0,2.0,0.8109999999999999,0.3,2,6.86
+Gabriel Martinelli,Arsenal,22,"AM(L),FW",1866,6,6,1,1,1.8,0.797,0.6,1,6.86
+Takehiro Tomiyasu,Arsenal,24,D(CLR),1682,0,1,2,0,0.5,0.8109999999999999,2.2,1,6.83
+Pablo Fornals,West Ham,27,M(CLR),2804,6,3,4,0,1.2,0.7809999999999999,0.6,2,6.8
+Ben White,Arsenal,25,"D(CR),DMC",2880,0,0,3,0,0.4,0.846,1.9,1,6.78
+Kieran Tierney,Arsenal,26,"D(CL),M(L)",1919,1,3,0,0,0.7,0.825,0.5,0,6.77
+Lukasz Fabianski,West Ham,38,GK,3330,0,0,2,0,0.0,0.5920000000000001,0.3,1,6.76
+Aaron Cresswell,West Ham,33,"D(CL),M(L)",2728,2,3,3,0,0.6,0.826,1.0,0,6.75
+Gabriel Magalhães,Arsenal,25,D(C),3068,5,0,6,1,0.8,0.895,1.6,1,6.74
+Kurt Zouma,West Ham,28,D(CR),2080,1,0,1,0,0.3,0.877,2.1,0,6.74
+Emile Smith Rowe,Arsenal,23,AM(CL),1922,10,2,1,0,1.2,0.8740000000000001,0.2,1,6.74
+Pierre Emerick Aubameyang,Arsenal,34,"M(CLR),FW",1040,4,1,3,0,2.5,0.701,1.8,1,6.74
+Alexandre Lacazette,Arsenal,32,"M(CLR),FW",1789,4,7,0,0,1.5,0.764,0.7,2,6.74
+Craig Dawson,West Ham,33,D(CR),2754,2,2,4,1,0.7,0.809,2.8,0,6.7
+Arthur Masuaku,West Ham,29,"D(L),M(L)",645,1,1,1,0,0.3,0.799,1.2,0,6.67
+Granit Xhaka,Arsenal,30,"D(L),M(C)",2331,1,2,10,1,1.0,0.868,1.0,1,6.67
+Angelo Ogbonna,West Ham,35,D(C),922,1,0,1,0,0.3,0.852,2.5,1,6.66
+Pablo Marí,Arsenal,29,D(C),180,0,0,1,0,0.5,0.8590000000000001,2.5,0,6.65
+Ben Johnson,West Ham,23,"D(CLR),M(LR)",1401,1,0,1,0,0.3,0.708,0.8,0,6.65
+Aaron Ramsdale,Arsenal,25,GK,3060,0,0,1,0,0.0,0.626,0.2,2,6.65
+Manuel Lanzini,West Ham,30,M(CLR),1789,5,3,2,0,0.5,0.919,0.2,1,6.64
+Eddie Nketiah,Arsenal,24,FW,825,5,1,3,0,1.4,0.777,0.4,2,6.6
+Vladimír Coufal,West Ham,30,"D(R),M(R)",2211,0,4,3,1,0.4,0.7140000000000001,1.2,0,6.56
+Alphonse Areola,West Ham,30,GK,90,0,0,0,0,0.0,0.486,0.0,0,6.56
+Cédric Soares,Arsenal,31,"D(LR),M(R)",1487,1,1,3,0,0.6,0.835,0.6,1,6.53
+Albert Sambi Lokonga,Arsenal,23,DMC,1133,0,0,5,0,1.1,0.884,0.8,0,6.51
+Rob Holding,Arsenal,27,D(CR),840,1,0,2,1,0.3,0.868,1.9,1,6.48
+Mohamed Elneny,Arsenal,31,DMC,802,0,2,1,0,0.6,0.935,0.4,0,6.46
+Issa Diop,West Ham,26,D(C),962,0,1,0,0,0.2,0.851,1.2,0,6.45
+Nicolas Pépé,Arsenal,28,"AM(LR),FW",682,1,2,0,0,1.2,0.8370000000000001,0.9,1,6.44
+Nuno Tavares,Arsenal,23,"D(L),M(L)",1171,1,1,2,0,1.0,0.821,1.1,0,6.42
+Bernd Leno,Arsenal,31,GK,360,0,0,0,0,0.0,0.624,0.8,0,6.41
+Ainsley Maitland Niles,Arsenal,25,"D(LR),M(CLR)",265,0,0,0,0,0.3,0.77,0.4,0,6.35
+Nikola Vlasic,West Ham,25,"AM(CLR),FW",555,1,0,0,0,0.4,0.8079999999999999,0.3,0,6.22
+Mark Noble,West Ham,36,M(C),327,1,0,0,0,0.2,0.879,0.1,0,6.2
+Harrison Ashby,West Ham,21,Defender,6,0,0,0,0,0.0,1.0,0.0,0,6.17
+Ryan Fredericks,West Ham,30,"D(R),M(R)",304,0,0,1,0,0.0,0.782,0.4,0,6.15
+Andrii Yarmolenko,West Ham,33,"AM(CR),FW",304,1,0,1,0,0.6,0.772,0.3,0,6.15
+Calum Chambers,Arsenal,28,"D(CR),DMC",171,0,0,0,0,1.0,0.8170000000000001,1.0,0,6.13
+Sonny Perkins,West Ham,19,Forward,3,0,0,0,0,0.0,0.0,1.0,0,6.08
+Reiss Nelson,Arsenal,23,M(LR),19,0,0,0,0,1.0,0.667,0.0,0,6.04
+Alex Král,West Ham,25,DMC,1,0,0,0,0,0.0,0.0,1.0,0,6.0
+Daniel Chesters,West Ham,21,Midfielder,1,0,0,0,0,0.0,0.0,0.0,0,6.0
+Folarin Balogun,Arsenal,22,FW,70,0,0,0,0,1.5,0.444,0.5,0,5.95
+Sead Kolasinac,Arsenal,30,"D(CL),DMC,M(L)",91,0,0,1,0,0.0,0.929,0.0,0,5.72

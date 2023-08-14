@@ -1,0 +1,63 @@
+name,team,number,position,min,goal,assist,yellow,red,shot,pass,aer,mom,rating
+Christian Eriksen,Brentford,31,"M(CLR),FW",938,1,4,1,0,2.0,0.809,0.5,3,7.37
+Ivan Toney,Brentford,27,FW,2908,12,5,8,0,2.7,0.589,4.5,5,7.28
+Christian Nørgaard,Brentford,29,"D(C),DMC",3059,3,4,8,0,0.8,0.799,1.4,1,7.0
+Ethan Pinnock,Brentford,30,D(C),2698,1,1,1,0,0.5,0.754,4.5,1,6.97
+Richarlison,Everton,26,"AM(CLR),FW",2528,10,5,9,0,2.4,0.634,2.2,3,6.96
+Dominic Calvert Lewin,Everton,26,"AM(L),FW",1286,5,2,2,0,1.9,0.603,5.5,2,6.92
+David Raya,Brentford,27,GK,2160,0,0,1,0,0.0,0.645,0.4,0,6.8
+Lucas Digne,Everton,30,"D(CL),M(L)",1170,0,0,4,0,0.7,0.76,1.9,0,6.8
+Demarai Gray,Everton,27,"AM(CLR),FW",2352,5,4,3,0,1.9,0.815,0.1,0,6.78
+Pontus Jansson,Brentford,32,D(C),3322,3,1,7,0,0.6,0.809,2.8,0,6.76
+Asmir Begovic,Everton,36,GK,270,0,0,0,0,0.0,0.43799999999999994,1.7,1,6.74
+Bryan Mbeumo,Brentford,24,"AM(LR),FW",2916,4,7,4,0,2.2,0.69,0.8,1,6.74
+Kristoffer Ajer,Brentford,25,"D(CR),DMC",1987,1,3,5,0,0.3,0.6970000000000001,2.0,0,6.73
+Vitaly Janelt,Brentford,25,DMC,2309,4,0,3,0,1.0,0.779,1.1,2,6.73
+Abdoulaye Doucouré,Everton,30,M(C),2538,2,4,6,0,1.1,0.7959999999999999,1.2,1,6.72
+Michael Keane,Everton,30,D(CR),2793,3,2,2,1,0.6,0.765,3.0,1,6.72
+Andros Townsend,Everton,32,"AM(LR),FW",1459,3,2,3,0,1.0,0.7809999999999999,0.3,2,6.71
+Anthony Gordon,Everton,22,AM(CLR),2285,4,2,4,0,1.3,0.742,0.5,2,6.7
+Vitalii Mykolenko,Everton,24,"D(CL),M(L)",1056,1,0,0,0,0.6,0.7340000000000001,0.8,1,6.69
+Yerry Mina,Everton,28,D(C),847,0,0,3,0,0.5,0.8009999999999999,2.3,0,6.61
+Fabian Delph,Everton,33,"D(L),M(CL)",666,0,0,2,0,0.2,0.843,0.5,0,6.61
+Séamus Coleman,Everton,34,"D(CR),M(R)",2658,1,0,4,0,0.3,0.742,0.8,1,6.61
+Jordan Pickford,Everton,29,GK,3150,0,0,2,0,0.0,0.48100000000000004,0.3,3,6.6
+Alex Iwobi,Everton,27,M(CLR),2037,2,2,1,0,0.9,0.7959999999999999,0.3,1,6.58
+Charlie Goode,Brentford,28,D(C),448,0,0,3,0,0.3,0.7,2.5,0,6.55
+Rico Henry,Brentford,26,"D(L),M(L)",2784,3,0,2,0,0.4,0.7440000000000001,0.8,0,6.54
+Mason Holgate,Everton,26,"D(CR),DMC,M(R)",2134,2,1,7,1,0.3,0.684,2.5,0,6.53
+Yoane Wissa,Brentford,26,"AM(L),FW",1275,7,1,0,0,1.1,0.6809999999999999,0.7,0,6.52
+Ben Godfrey,Everton,25,D(CLR),2031,0,0,6,0,0.8,0.7659999999999999,1.6,0,6.51
+Allan,Everton,32,DMC,2188,0,2,7,1,0.3,0.8,0.4,0,6.5
+Sergi Canós,Brentford,26,M(LR),2094,3,2,6,1,1.1,0.629,0.3,1,6.49
+Zanka,Brentford,33,D(C),517,1,0,2,0,0.3,0.807,1.3,0,6.47
+Donny van de Beek,Everton,26,M(C),484,1,0,1,0,0.7,0.847,1.0,0,6.47
+Finley Stevens,Brentford,20,Defender,14,0,0,0,0,0.0,0.833,1.0,0,6.46
+Álvaro Fernández,Brentford,25,GK,1080,0,0,0,0,0.0,0.605,0.2,1,6.46
+Saman Ghoddos,Brentford,29,"M(CLR),FW",528,1,1,2,0,0.5,0.716,0.6,0,6.46
+Mathias Jensen,Brentford,27,M(C),1602,0,1,0,0,0.6,0.762,0.2,0,6.42
+Tariqe Fosu Henry,Brentford,27,M(CLR),16,0,0,0,0,1.0,0.833,0.0,0,6.38
+Frank Onyeka,Brentford,25,DMC,1051,0,0,4,0,0.8,0.802,0.8,0,6.37
+Shandon Baptiste,Brentford,25,AM(C),905,1,0,0,1,0.5,0.852,0.3,0,6.32
+Jonjoe Kenny,Everton,26,"D(LR),M(R)",1017,0,1,1,1,0.3,0.737,0.6,0,6.27
+Mads Bech,Brentford,24,D(CL),834,0,0,3,0,0.2,0.8140000000000001,0.8,0,6.27
+Mads Roerslev,Brentford,24,"D(R),M(R)",1235,1,1,1,0,0.2,0.67,0.6,0,6.27
+Dele Alli,Everton,27,"M(CL),FW",332,0,0,3,0,0.3,0.73,0.8,0,6.26
+Tom Davies,Everton,25,M(C),233,1,0,1,0,1.0,0.741,0.5,0,6.22
+Ellis Simms,Everton,22,FW,62,0,0,0,0,0.0,0.583,2.0,0,6.21
+Salomón Rondón,Everton,33,FW,783,1,1,3,1,1.1,0.624,1.9,0,6.19
+André Gomes,Everton,30,M(CLR),619,0,1,3,0,1.0,0.772,0.6,0,6.17
+Jarrad Branthwaite,Everton,21,D(C),388,1,0,0,1,0.5,0.757,1.8,0,6.15
+Marcus Forss,Brentford,24,"AM(R),FW",203,0,1,0,0,0.7,0.611,0.3,0,6.15
+Josh Dasilva,Brentford,24,M(C),252,0,0,0,1,0.1,0.828,0.3,0,6.14
+Jean Philippe Gbamin,Everton,27,"D(CR),DMC",67,0,0,0,0,0.0,0.727,0.3,0,6.07
+Mads Bidstrup,Brentford,22,Midfielder,38,0,0,0,0,0.0,0.769,0.0,0,6.06
+Anwar El Ghazi,Everton,28,"AM(LR),FW",11,0,0,0,0,0.0,0.778,0.0,0,6.05
+Tyler Onyango,Everton,20,M(C),27,0,0,0,0,0.3,0.5,0.3,0,6.02
+Dominic Thompson,Brentford,23,"D(L),M(L)",148,0,0,0,0,0.5,0.541,0.5,0,6.01
+Moise Kean,Everton,23,"AM(LR),FW",1,0,0,0,0,0.0,1.0,0.0,0,6.0
+Lewis Dobbin,Everton,20,AM(CLR),30,0,0,1,0,0.0,0.625,0.0,0,5.99
+Nathan Young Coombes,Brentford,20,Forward,3,0,0,0,0,0.0,0.0,0.0,0,5.98
+Cenk Tosun,Everton,32,"AM(LR),FW",6,0,0,0,0,0.0,1.0,0.0,0,5.96
+Isaac Price,Everton,19,Midfielder,12,0,0,0,0,1.0,0.5,0.0,0,5.7
+Jonas Lössl,Brentford,34,GK,180,0,0,0,0,0.0,0.655,0.0,0,5.55
