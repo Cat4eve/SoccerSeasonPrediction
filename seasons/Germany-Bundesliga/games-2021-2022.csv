@@ -1,0 +1,307 @@
+home,away,home_score,away_score
+Arminia Bielefeld,RB Leipzig,1,1
+Augsburg,Greuther Fuerth,2,1
+Mainz 05,Eintracht Frankfurt,2,2
+VfB Stuttgart,FC Koln,2,1
+Borussia M.Gladbach,Hoffenheim,5,1
+Union Berlin,Bochum,3,2
+Bayer Leverkusen,Freiburg,2,1
+Wolfsburg,Bayern Munich,2,2
+Borussia Dortmund,Hertha Berlin,2,1
+Arminia Bielefeld,RB Leipzig,1,1
+Augsburg,Greuther Fuerth,2,1
+Mainz 05,Eintracht Frankfurt,2,2
+VfB Stuttgart,FC Koln,2,1
+Borussia M.Gladbach,Hoffenheim,5,1
+Union Berlin,Bochum,3,2
+Bayer Leverkusen,Freiburg,2,1
+Wolfsburg,Bayern Munich,2,2
+Borussia Dortmund,Hertha Berlin,2,1
+Borussia M.Gladbach,RB Leipzig,3,1
+Bayer Leverkusen,Eintracht Frankfurt,2,0
+Bochum,Arminia Bielefeld,2,1
+FC Koln,Wolfsburg,0,1
+Greuther Fuerth,Borussia Dortmund,1,3
+Hoffenheim,Bayer Leverkusen,2,4
+Freiburg,Union Berlin,1,4
+Hertha Berlin,Mainz 05,1,2
+Eintracht Frankfurt,Borussia M.Gladbach,1,1
+Bayern Munich,VfB Stuttgart,2,2
+RB Leipzig,Augsburg,4,0
+Union Berlin,Greuther Fuerth,1,1
+Borussia Dortmund,Bochum,3,4
+VfB Stuttgart,Wolfsburg,1,1
+Arminia Bielefeld,Hertha Berlin,1,1
+Augsburg,FC Koln,1,4
+Mainz 05,Bayern Munich,3,1
+Hoffenheim,Freiburg,3,4
+Wolfsburg,Mainz 05,5,0
+RB Leipzig,Union Berlin,1,2
+Greuther Fuerth,Bayer Leverkusen,1,4
+FC Koln,Arminia Bielefeld,3,1
+Freiburg,Borussia M.Gladbach,3,3
+Eintracht Frankfurt,Hoffenheim,2,2
+Bayern Munich,Borussia Dortmund,3,1
+Bochum,Augsburg,0,2
+Hertha Berlin,VfB Stuttgart,2,0
+Freiburg,Bochum,3,0
+Augsburg,Hertha Berlin,0,1
+Mainz 05,VfB Stuttgart,0,0
+Borussia Dortmund,Wolfsburg,6,1
+Borussia M.Gladbach,FC Koln,1,3
+Arminia Bielefeld,Bayern Munich,0,3
+Union Berlin,Eintracht Frankfurt,2,0
+Hoffenheim,Greuther Fuerth,0,0
+Bayer Leverkusen,RB Leipzig,0,1
+Augsburg,Mainz 05,2,1
+VfB Stuttgart,Borussia Dortmund,0,2
+Wolfsburg,Arminia Bielefeld,4,0
+Greuther Fuerth,Borussia M.Gladbach,0,2
+FC Koln,Mainz 05,3,2
+Bayern Munich,Augsburg,1,0
+Hertha Berlin,Union Berlin,1,4
+Bochum,Bayer Leverkusen,0,0
+Eintracht Frankfurt,Freiburg,1,2
+RB Leipzig,Hoffenheim,3,0
+Union Berlin,FC Koln,1,0
+Bayer Leverkusen,Hertha Berlin,2,1
+Eintracht Frankfurt,Greuther Fuerth,0,0
+Arminia Bielefeld,VfB Stuttgart,1,1
+Hoffenheim,Bochum,1,2
+Freiburg,Bayern Munich,1,4
+Borussia Dortmund,RB Leipzig,1,4
+Augsburg,Wolfsburg,3,0
+Borussia M.Gladbach,Mainz 05,1,1
+Mainz 05,Borussia Dortmund,0,1
+Bochum,Borussia M.Gladbach,0,2
+Greuther Fuerth,Freiburg,0,0
+Hertha Berlin,Hoffenheim,3,0
+Mainz 05,Arminia Bielefeld,4,0
+VfB Stuttgart,Augsburg,3,2
+Bayern Munich,Union Berlin,4,0
+RB Leipzig,Eintracht Frankfurt,0,0
+Wolfsburg,Bayer Leverkusen,0,2
+FC Koln,Borussia Dortmund,1,1
+Hoffenheim,Bayern Munich,1,1
+Freiburg,Wolfsburg,3,2
+Union Berlin,VfB Stuttgart,1,1
+Borussia M.Gladbach,Hertha Berlin,2,0
+Bayer Leverkusen,FC Koln,0,1
+Eintracht Frankfurt,Bochum,2,1
+Borussia Dortmund,Arminia Bielefeld,1,0
+Greuther Fuerth,RB Leipzig,1,6
+Arminia Bielefeld,Augsburg,0,1
+Hertha Berlin,Eintracht Frankfurt,1,4
+Wolfsburg,Union Berlin,1,0
+RB Leipzig,Freiburg,1,1
+Bayern Munich,Bayer Leverkusen,1,1
+Bochum,Greuther Fuerth,2,1
+VfB Stuttgart,Borussia M.Gladbach,3,2
+FC Koln,Hoffenheim,0,1
+Hoffenheim,VfB Stuttgart,2,1
+Freiburg,Hertha Berlin,3,0
+Borussia M.Gladbach,Wolfsburg,2,2
+Union Berlin,Mainz 05,3,1
+Bayer Leverkusen,Arminia Bielefeld,3,0
+Greuther Fuerth,FC Koln,1,1
+Eintracht Frankfurt,Bayern Munich,0,1
+Bochum,RB Leipzig,0,1
+Augsburg,Borussia Dortmund,1,1
+Mainz 05,Bayer Leverkusen,3,2
+VfB Stuttgart,Bochum,1,1
+Wolfsburg,Hoffenheim,1,2
+Arminia Bielefeld,Union Berlin,1,0
+Augsburg,Freiburg,1,2
+FC Koln,Eintracht Frankfurt,1,0
+Bayern Munich,Greuther Fuerth,4,1
+Borussia Dortmund,Borussia M.Gladbach,6,0
+Hertha Berlin,RB Leipzig,1,6
+RB Leipzig,FC Koln,3,1
+Eintracht Frankfurt,Wolfsburg,0,2
+Freiburg,Mainz 05,1,1
+Borussia M.Gladbach,Augsburg,3,2
+Greuther Fuerth,Hertha Berlin,2,1
+Bochum,Bayern Munich,4,2
+Bayer Leverkusen,VfB Stuttgart,4,2
+Union Berlin,Borussia Dortmund,0,3
+Hoffenheim,Arminia Bielefeld,2,0
+Hertha Berlin,Bochum,1,1
+Augsburg,Union Berlin,2,0
+Mainz 05,Hoffenheim,2,0
+VfB Stuttgart,Eintracht Frankfurt,2,3
+FC Koln,Freiburg,1,0
+Arminia Bielefeld,Borussia M.Gladbach,1,1
+Bayern Munich,RB Leipzig,3,2
+Borussia Dortmund,Bayer Leverkusen,2,5
+Wolfsburg,Greuther Fuerth,4,1
+Eintracht Frankfurt,Arminia Bielefeld,0,2
+Greuther Fuerth,Mainz 05,2,1
+Hoffenheim,Borussia Dortmund,2,3
+Freiburg,VfB Stuttgart,2,0
+Borussia M.Gladbach,Union Berlin,1,2
+Bayer Leverkusen,Augsburg,5,1
+Bochum,FC Koln,2,2
+RB Leipzig,Wolfsburg,2,0
+Hertha Berlin,Bayern Munich,1,4
+Borussia Dortmund,Freiburg,5,1
+FC Koln,Bayern Munich,0,4
+Mainz 05,Bochum,1,0
+VfB Stuttgart,RB Leipzig,0,2
+Union Berlin,Hoffenheim,2,1
+Wolfsburg,Hertha Berlin,0,0
+Borussia M.Gladbach,Bayer Leverkusen,1,2
+Augsburg,Eintracht Frankfurt,1,1
+Arminia Bielefeld,Greuther Fuerth,2,2
+Bayern Munich,Borussia M.Gladbach,1,2
+Hoffenheim,Augsburg,3,1
+Freiburg,Arminia Bielefeld,2,2
+Bayer Leverkusen,Union Berlin,2,2
+Greuther Fuerth,VfB Stuttgart,0,0
+RB Leipzig,Mainz 05,4,1
+Eintracht Frankfurt,Borussia Dortmund,2,3
+Hertha Berlin,FC Koln,1,3
+Bochum,Wolfsburg,1,0
+VfB Stuttgart,Bayern Munich,0,5
+Wolfsburg,FC Koln,2,3
+Arminia Bielefeld,Bochum,2,0
+Mainz 05,Hertha Berlin,4,0
+Borussia M.Gladbach,Eintracht Frankfurt,2,3
+Union Berlin,Freiburg,0,0
+Bayer Leverkusen,Hoffenheim,2,2
+Borussia Dortmund,Greuther Fuerth,3,0
+Augsburg,RB Leipzig,1,1
+Bayern Munich,Wolfsburg,4,0
+Hoffenheim,Borussia M.Gladbach,1,1
+Eintracht Frankfurt,Mainz 05,1,0
+RB Leipzig,Arminia Bielefeld,0,2
+Greuther Fuerth,Augsburg,0,0
+Bochum,Union Berlin,0,1
+Hertha Berlin,Borussia Dortmund,3,2
+Freiburg,Bayer Leverkusen,2,1
+FC Koln,VfB Stuttgart,1,0
+FC Koln,Augsburg,0,2
+Hertha Berlin,Arminia Bielefeld,2,0
+Freiburg,Hoffenheim,1,2
+RB Leipzig,Borussia M.Gladbach,4,1
+Bayern Munich,Mainz 05,2,1
+Bochum,Borussia Dortmund,1,1
+Wolfsburg,VfB Stuttgart,0,2
+Greuther Fuerth,Union Berlin,1,0
+Eintracht Frankfurt,Bayer Leverkusen,5,2
+Union Berlin,RB Leipzig,2,1
+Bayer Leverkusen,Greuther Fuerth,7,1
+Arminia Bielefeld,FC Koln,1,1
+Augsburg,Bochum,2,3
+Mainz 05,Wolfsburg,3,0
+Hoffenheim,Eintracht Frankfurt,3,2
+Borussia Dortmund,Bayern Munich,2,3
+VfB Stuttgart,Hertha Berlin,2,2
+Borussia M.Gladbach,Freiburg,0,6
+VfB Stuttgart,Mainz 05,2,1
+Wolfsburg,Borussia Dortmund,1,3
+Greuther Fuerth,Hoffenheim,3,6
+Bochum,Freiburg,2,1
+FC Koln,Borussia M.Gladbach,4,1
+Hertha Berlin,Augsburg,1,1
+Bayern Munich,Arminia Bielefeld,1,0
+Eintracht Frankfurt,Union Berlin,2,1
+RB Leipzig,Bayer Leverkusen,1,3
+Augsburg,Bayern Munich,2,1
+Hoffenheim,RB Leipzig,2,0
+Borussia M.Gladbach,Greuther Fuerth,4,0
+Bayer Leverkusen,Bochum,1,0
+Borussia Dortmund,VfB Stuttgart,2,1
+Arminia Bielefeld,Wolfsburg,2,2
+Union Berlin,Hertha Berlin,2,0
+Freiburg,Eintracht Frankfurt,0,2
+Mainz 05,FC Koln,1,1
+Mainz 05,Borussia M.Gladbach,1,1
+VfB Stuttgart,Arminia Bielefeld,0,1
+Wolfsburg,Augsburg,1,0
+Bochum,Hoffenheim,2,0
+Bayern Munich,Freiburg,2,1
+RB Leipzig,Borussia Dortmund,2,1
+Hertha Berlin,Bayer Leverkusen,1,1
+FC Koln,Union Berlin,2,2
+Greuther Fuerth,Eintracht Frankfurt,1,2
+Hoffenheim,Hertha Berlin,2,0
+Freiburg,Greuther Fuerth,3,1
+Union Berlin,Bayern Munich,2,5
+Bayer Leverkusen,Wolfsburg,0,2
+Arminia Bielefeld,Mainz 05,1,2
+Borussia Dortmund,FC Koln,2,0
+Eintracht Frankfurt,RB Leipzig,1,1
+Augsburg,VfB Stuttgart,4,1
+Borussia M.Gladbach,Bochum,2,1
+Mainz 05,Augsburg,4,1
+Arminia Bielefeld,Borussia Dortmund,1,3
+Wolfsburg,Freiburg,0,2
+RB Leipzig,Greuther Fuerth,4,1
+Bayern Munich,Hoffenheim,4,0
+Hertha Berlin,Borussia M.Gladbach,1,0
+FC Koln,Bayer Leverkusen,2,2
+VfB Stuttgart,Union Berlin,1,1
+Bochum,Eintracht Frankfurt,2,0
+Hoffenheim,FC Koln,5,0
+Freiburg,RB Leipzig,1,1
+Greuther Fuerth,Bochum,0,1
+Union Berlin,Wolfsburg,2,0
+Eintracht Frankfurt,Hertha Berlin,1,2
+Borussia Dortmund,Mainz 05,3,1
+Borussia M.Gladbach,VfB Stuttgart,1,1
+Bayer Leverkusen,Bayern Munich,1,5
+Augsburg,Arminia Bielefeld,1,1
+FC Koln,Greuther Fuerth,3,1
+VfB Stuttgart,Hoffenheim,3,1
+Wolfsburg,Borussia M.Gladbach,1,3
+Borussia Dortmund,Augsburg,2,1
+Hertha Berlin,Freiburg,1,2
+RB Leipzig,Bochum,3,0
+Mainz 05,Union Berlin,1,2
+Bayern Munich,Eintracht Frankfurt,1,2
+Arminia Bielefeld,Bayer Leverkusen,0,4
+Greuther Fuerth,Bayern Munich,1,3
+Union Berlin,Arminia Bielefeld,1,0
+Bayer Leverkusen,Mainz 05,1,0
+Eintracht Frankfurt,FC Koln,1,1
+RB Leipzig,Hertha Berlin,6,0
+Hoffenheim,Wolfsburg,3,1
+Borussia M.Gladbach,Borussia Dortmund,1,0
+Bochum,VfB Stuttgart,0,0
+Freiburg,Augsburg,3,0
+Hertha Berlin,Greuther Fuerth,2,1
+Augsburg,Borussia M.Gladbach,1,0
+Mainz 05,Freiburg,0,0
+Arminia Bielefeld,Hoffenheim,0,0
+Bayern Munich,Bochum,7,0
+FC Koln,RB Leipzig,1,1
+VfB Stuttgart,Bayer Leverkusen,1,3
+Borussia Dortmund,Union Berlin,4,2
+Wolfsburg,Eintracht Frankfurt,1,1
+Greuther Fuerth,Wolfsburg,0,2
+Hoffenheim,Mainz 05,0,2
+Freiburg,FC Koln,1,1
+Union Berlin,Augsburg,0,0
+Bayer Leverkusen,Borussia Dortmund,3,4
+RB Leipzig,Bayern Munich,1,4
+Eintracht Frankfurt,VfB Stuttgart,1,1
+Bochum,Hertha Berlin,1,3
+Borussia M.Gladbach,Arminia Bielefeld,3,1
+Borussia Dortmund,Hoffenheim,3,2
+FC Koln,Bochum,2,1
+Arminia Bielefeld,Eintracht Frankfurt,1,1
+Augsburg,Bayer Leverkusen,1,4
+Mainz 05,Greuther Fuerth,3,0
+VfB Stuttgart,Freiburg,2,3
+Bayern Munich,Hertha Berlin,5,0
+Union Berlin,Borussia M.Gladbach,2,1
+Wolfsburg,RB Leipzig,1,0
+RB Leipzig,VfB Stuttgart,4,0
+Eintracht Frankfurt,Augsburg,0,0
+Freiburg,Borussia Dortmund,2,1
+Greuther Fuerth,Arminia Bielefeld,1,1
+Bochum,Mainz 05,2,0
+Hertha Berlin,Wolfsburg,1,2
+Bayer Leverkusen,Borussia M.Gladbach,4,0
+Hoffenheim,Union Berlin,2,2
+Bayern Munich,FC Koln,3,2

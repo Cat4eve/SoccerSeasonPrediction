@@ -1,0 +1,488 @@
+name,team,min,goal,assist,shot,pass,aer,mom,rating
+Thiago Alcântara,Bayern,2291,6,5,1.3,0.902,1.7,6,8.28
+Arjen Robben,Bayern,1830,13,9,3.2,0.812,0.3,5,7.82
+Emil Forsberg,RBL,2349,8,19,1.6,0.762,0.6,9,7.75
+Robert Lewandowski,Bayern,2777,30,5,4.3,0.752,1.9,6,7.74
+Naby Keïta,RBL,2416,8,7,1.4,0.818,0.6,3,7.6
+Max Kruse,Werder Bremen,2047,15,7,1.8,0.7609999999999999,1.9,3,7.54
+Kerem Demirbay,Hoffenheim,2182,6,8,1.8,0.7879999999999999,0.4,6,7.49
+Ousmane Dembélé,Borussia Dortmund,2042,6,12,1.7,0.67,0.2,5,7.44
+Sebastian Rudy,Hoffenheim,2789,2,7,0.8,0.8079999999999999,1.3,3,7.43
+Pierre Emerick Aubameyang,Borussia Dortmund,2782,31,2,3.6,0.6970000000000001,1.3,3,7.42
+Thiago Alcântara,Bayern,2291,6,5,1.3,0.902,1.7,6,8.28
+Arjen Robben,Bayern,1830,13,9,3.2,0.812,0.3,5,7.82
+Emil Forsberg,RBL,2349,8,19,1.6,0.762,0.6,9,7.75
+Robert Lewandowski,Bayern,2777,30,5,4.3,0.752,1.9,6,7.74
+Naby Keïta,RBL,2416,8,7,1.4,0.818,0.6,3,7.6
+Max Kruse,Werder Bremen,2047,15,7,1.8,0.7609999999999999,1.9,3,7.54
+Hakan Çalhanoglu,Leverkusen,1217,6,5,3.1,0.7759999999999999,1.7,3,7.49
+Kerem Demirbay,Hoffenheim,2182,6,8,1.8,0.7879999999999999,0.4,6,7.49
+Andreas Luthe,Augsburg,180,0,0,0.0,0.41200000000000003,0.0,1,7.48
+Ousmane Dembélé,Borussia Dortmund,2042,6,12,1.7,0.67,0.2,5,7.44
+Kyriakos Papadopoulos,Hamburg,1291,2,0,1.0,0.648,4.6,3,7.43
+Sebastian Rudy,Hoffenheim,2789,2,7,0.8,0.8079999999999999,1.3,3,7.43
+Pierre Emerick Aubameyang,Borussia Dortmund,2782,31,2,3.6,0.6970000000000001,1.3,3,7.42
+Benjamin Hübner,Hoffenheim,2149,2,3,0.7,0.877,2.6,2,7.39
+Franck Ribéry,Bayern,1242,5,11,1.0,0.8390000000000001,0.4,1,7.38
+Lukas Klünter,FC Koln,720,1,1,0.3,0.599,0.9,0,7.37
+Sven Müller,FC Koln,90,0,0,0.0,0.40700000000000003,0.0,0,7.35
+Tom Starke,Bayern,270,0,0,0.0,0.797,0.0,0,7.35
+Frederik Sørensen,FC Koln,2680,0,2,0.6,0.72,2.6,3,7.34
+Anthony Modeste,FC Koln,2978,25,2,3.0,0.635,4.4,7,7.34
+Mats Hummels,Bayern,2181,1,1,1.1,0.888,3.4,2,7.32
+Sead Kolasinac,Schalke,2070,3,5,0.7,0.7170000000000001,1.8,2,7.32
+Thomas Müller,Bayern,2265,5,12,2.2,0.76,1.8,1,7.3
+Johannes Geis,Schalke,1334,0,0,0.8,0.7859999999999999,2.3,1,7.29
+Timo Werner,RBL,2435,21,5,2.4,0.675,0.9,4,7.29
+Arturo Vidal,Bayern,1824,4,2,1.4,0.878,2.1,1,7.28
+Willi Orbán,RBL,2518,3,1,0.8,0.815,4.5,0,7.28
+Markus Suttner,Ingolstadt,2737,4,5,1.4,0.604,2.2,1,7.28
+Javi Martínez,Bayern,2135,1,1,0.4,0.9159999999999999,2.4,0,7.27
+Jonas Hector,FC Koln,2970,1,2,0.5,0.812,2.3,2,7.26
+Naldo,Schalke,1624,1,0,1.5,0.851,3.6,3,7.25
+Bernardo,RBL,1894,0,1,0.6,0.7440000000000001,3.3,0,7.24
+Raffael,Borussia M.Gladbach,1504,7,0,2.3,0.764,0.5,1,7.24
+Marcel Risse,FC Koln,1104,2,4,1.7,0.621,0.3,1,7.24
+Marc Bartra,Borussia Dortmund,1561,0,3,1.1,0.823,2.7,0,7.24
+Xabi Alonso,Bayern,1906,3,2,0.9,0.894,1.6,1,7.22
+Leon Goretzka,Schalke,2569,5,3,1.7,0.78,1.6,1,7.21
+Alexander Hack,Mainz,1295,0,1,0.5,0.769,4.3,0,7.21
+Sokratis Papastathopoulos,Borussia Dortmund,2300,2,0,0.8,0.878,3.7,2,7.21
+Konstantinos Stafylidis,Augsburg,2244,4,0,1.7,0.7140000000000001,1.4,6,7.21
+Marcel Halstenberg,RBL,2659,0,1,0.9,0.722,3.2,1,7.2
+Steven Zuber,Hoffenheim,2027,4,4,1.5,0.8140000000000001,0.3,0,7.2
+Jannik Vestergaard,Borussia M.Gladbach,2657,4,1,1.0,0.8490000000000001,3.9,3,7.19
+Marco Fabián,Eintracht Frankfurt,2058,7,4,2.7,0.7859999999999999,0.9,3,7.18
+Raphaël Guerreiro,Borussia Dortmund,1483,6,3,1.4,0.8009999999999999,0.3,3,7.18
+Mergim Mavraj,FC Koln,1440,0,0,0.4,0.8809999999999999,3.4,0,7.17
+Douglas Costa,Bayern,1374,4,3,1.9,0.802,0.1,0,7.17
+Benedikt Höwedes,Schalke,2790,1,1,0.6,0.863,2.2,1,7.16
+Vincenzo Grifo,Freiburg,2495,6,8,2.8,0.728,0.6,1,7.15
+Marco Reus,Borussia Dortmund,1190,7,4,2.5,0.755,0.4,1,7.15
+Diego Demme,RBL,2872,1,3,0.4,0.7909999999999999,0.9,1,7.15
+David Alaba,Bayern,2508,4,4,1.0,0.8859999999999999,0.7,1,7.14
+Philipp Lahm,Bayern,2090,1,2,0.3,0.9,0.7,0,7.14
+Pawel Olkowski,FC Koln,1106,0,1,0.1,0.603,1.9,1,7.13
+Juan Bernat,Bayern,1236,2,2,0.6,0.899,0.9,2,7.13
+Mario Gomez,Wolfsburg,2854,16,1,2.5,0.626,4.0,3,7.13
+Thomas Delaney,Werder Bremen,920,4,1,1.1,0.698,3.2,1,7.13
+Alessandro Schöpf,Schalke,2038,6,2,1.0,0.775,0.8,2,7.12
+Josuha Guilavogui,Wolfsburg,1541,0,0,0.4,0.8220000000000001,1.8,1,7.12
+Lukasz Piszczek,Borussia Dortmund,2036,5,1,0.8,0.805,2.0,2,7.1
+Julian Draxler,Wolfsburg,1055,0,2,2.2,0.8240000000000001,1.3,0,7.09
+Andrej Kramaric,Hoffenheim,2374,15,8,2.9,0.831,0.2,3,7.09
+Mahmoud Dahoud,Borussia M.Gladbach,2281,2,6,1.6,0.8140000000000001,0.5,1,7.09
+Jeffrey Gouweleeuw,Augsburg,1550,2,1,0.4,0.765,1.6,0,7.09
+Omar Mascarell,Eintracht Frankfurt,2450,0,0,0.4,0.807,2.4,1,7.09
+Marc Stendera,Eintracht Frankfurt,131,0,0,0.0,0.609,0.0,0,7.09
+Lars Stindl,Borussia M.Gladbach,2597,11,3,2.3,0.8,1.6,2,7.08
+Marvin Compper,RBL,2102,2,0,0.3,0.795,2.4,2,7.08
+Thorgan Hazard,Borussia M.Gladbach,1632,6,4,1.8,0.7440000000000001,0.8,2,7.08
+Mitchell Weiser,Hertha Berlin,1126,2,4,0.6,0.701,0.6,2,7.08
+Julian Weigl,Borussia Dortmund,2416,0,0,0.2,0.895,1.8,0,7.07
+Daniel Baier,Augsburg,2399,1,3,0.9,0.7340000000000001,1.3,2,7.07
+Marcel Sabitzer,RBL,2601,8,4,2.5,0.6809999999999999,0.7,1,7.06
+Fin Bartels,Werder Bremen,2224,8,7,1.4,0.7490000000000001,0.6,2,7.06
+Sebastian Langkamp,Hertha Berlin,2312,0,0,0.3,0.863,3.6,2,7.06
+Benjamin Henrichs,Leverkusen,2427,0,2,0.2,0.759,0.9,0,7.06
+Roberto Hilbert,Leverkusen,586,0,0,0.3,0.7070000000000001,2.4,0,7.06
+Stefan Ilsanker,RBL,2644,0,0,0.3,0.782,2.7,0,7.06
+Niklas Schmidt,Werder Bremen,14,0,1,0.0,0.75,0.0,0,7.05
+David Abraham,Eintracht Frankfurt,2585,1,2,0.6,0.828,3.0,4,7.05
+Christoph Kramer,Borussia M.Gladbach,1964,0,4,0.1,0.8490000000000001,2.3,3,7.05
+Jérôme Gondorf,Darmstadt,2552,3,4,1.1,0.6459999999999999,2.7,4,7.03
+Yuya Osako,FC Koln,2377,7,6,1.4,0.701,1.3,2,7.03
+Sandro Wagner,Hoffenheim,2601,11,2,2.1,0.631,3.3,3,7.03
+Pascal Groß,Ingolstadt,2731,5,4,1.5,0.6940000000000001,1.0,2,7.03
+Adrián Ramos,Borussia Dortmund,356,2,1,1.7,0.6629999999999999,3.0,0,7.02
+Andreas Christensen,Borussia M.Gladbach,2782,2,0,0.4,0.915,2.7,1,7.01
+Yussuf Poulsen,RBL,2068,5,4,1.6,0.657,4.0,0,7.01
+Marvin Plattenhardt,Hertha Berlin,2430,3,3,0.9,0.753,1.0,4,7.01
+Leonardo Bittencourt,FC Koln,977,3,5,1.4,0.65,0.2,0,7.01
+Wendell,Leverkusen,2529,2,2,0.6,0.799,1.2,0,7.01
+Vedad Ibisevic,Hertha Berlin,2723,12,4,2.3,0.626,3.8,2,7.0
+Yunus Malli,Mainz,1381,6,6,1.9,0.688,0.2,2,7.0
+Zlatko Junuzovic,Werder Bremen,2497,4,8,1.4,0.745,0.4,1,6.99
+Stefan Bell,Mainz,2744,5,1,0.8,0.75,3.2,0,6.99
+Niklas Süle,Hoffenheim,2887,2,2,0.8,0.8959999999999999,1.9,1,6.99
+Danny Latza,Mainz,1580,4,0,1.3,0.764,2.8,1,6.99
+Florent Hadërgjonaj,Ingolstadt,2222,1,2,0.4,0.557,2.0,1,6.99
+Joshua Kimmich,Bayern,1542,6,1,1.1,0.899,0.9,2,6.99
+Mergim Mavraj,Hamburg,1260,0,0,0.6,0.6559999999999999,4.2,0,6.98
+Hamit Altintop,Darmstadt,1361,0,0,1.3,0.8490000000000001,0.3,1,6.98
+John Anthony Brooks,Hertha Berlin,2116,2,0,0.5,0.861,2.4,1,6.98
+Makoto Hasebe,Eintracht Frankfurt,1887,1,1,0.4,0.823,1.8,0,6.97
+Gonzalo Castro,Borussia Dortmund,1927,3,6,1.1,0.84,0.4,1,6.97
+Santiago García,Werder Bremen,1445,1,2,0.6,0.735,3.5,0,6.97
+Maximilian Philipp,Freiburg,1939,9,2,2.1,0.6970000000000001,1.6,2,6.97
+Kai Havertz,Leverkusen,1451,4,5,1.3,0.737,3.7,1,6.96
+Dominique Heintz,FC Koln,2774,0,0,0.2,0.816,2.3,0,6.96
+Bastian Oczipka,Eintracht Frankfurt,2952,1,4,0.3,0.778,0.9,1,6.96
+Eric Choupo Moting,Schalke,1689,3,4,2.1,0.733,2.7,0,6.96
+Martin Hinteregger,Augsburg,2773,3,0,0.8,0.73,2.6,3,6.96
+Niklas Stark,Hertha Berlin,2355,1,0,0.8,0.8490000000000001,1.8,0,6.96
+Dominik Kohr,Augsburg,1965,2,0,1.1,0.735,1.8,1,6.96
+Serge Gnabry,Werder Bremen,1971,11,1,2.3,0.768,0.5,0,6.95
+Ibrahima Traoré,Borussia M.Gladbach,841,1,3,0.6,0.79,0.1,0,6.95
+Giulio Donati,Mainz,2805,0,0,0.3,0.6920000000000001,1.2,1,6.95
+Julian Brandt,Leverkusen,2306,3,8,1.4,0.777,0.7,1,6.95
+Pavel Kaderábek,Hoffenheim,1976,0,3,0.3,0.745,1.1,0,6.94
+Thilo Kehrer,Schalke,1078,1,1,0.8,0.818,2.2,1,6.94
+Kevin Kampl,Leverkusen,2539,1,2,1.1,0.838,0.4,0,6.94
+Marcel Schmelzer,Borussia Dortmund,2195,0,1,1.0,0.826,1.7,1,6.94
+Nicolai Müller,Hamburg,1902,5,6,1.7,0.622,1.2,1,6.94
+Mario Vrancic,Darmstadt,1542,4,2,1.3,0.695,1.3,0,6.94
+Christian Träsch,Wolfsburg,696,0,1,0.5,0.713,0.9,1,6.94
+Nabil Bentaleb,Schalke,2554,5,5,1.3,0.813,1.4,2,6.93
+Daniel Caligiuri,Schalke,1112,2,3,1.1,0.7609999999999999,1.3,0,6.93
+Walace,Hamburg,722,1,0,0.7,0.75,2.1,0,6.93
+Karim Bellarabi,Leverkusen,1119,2,6,2.2,0.723,0.4,1,6.93
+Mark Uth,Hoffenheim,1154,7,3,1.8,0.746,0.7,0,6.92
+Theodor Gebre Selassie,Werder Bremen,2341,5,2,0.9,0.75,3.3,1,6.92
+Jonathan Tah,Leverkusen,1637,1,1,0.5,0.8290000000000001,2.4,0,6.92
+Marco Höger,FC Koln,2062,0,1,0.3,0.813,1.9,0,6.92
+Philipp Wollscheid,Wolfsburg,541,0,0,0.9,0.81,4.7,0,6.92
+Breel Embolo,Schalke,342,2,1,1.1,0.7120000000000001,0.7,1,6.92
+Robert Bauer,Werder Bremen,2125,1,3,0.4,0.7140000000000001,1.0,2,6.92
+Robin Knoche,Wolfsburg,1871,1,1,0.5,0.8270000000000001,2.8,0,6.92
+Mathew Leckie,Ingolstadt,2088,0,2,1.6,0.662,4.6,0,6.91
+Lars Bender,Leverkusen,610,0,1,0.6,0.7659999999999999,1.7,0,6.91
+Marvin Matip,Ingolstadt,2970,0,0,0.8,0.7340000000000001,3.1,0,6.91
+Rafinha,Bayern,1021,1,1,0.3,0.897,0.5,0,6.91
+Florian Jungwirth,Darmstadt,1143,0,0,0.6,0.655,2.3,2,6.91
+Fabio Coltorti,RBL,90,0,0,0.0,0.735,2.0,0,6.9
+Almog Cohen,Ingolstadt,2500,7,1,1.9,0.7340000000000001,1.5,2,6.9
+Luiz Gustavo,Wolfsburg,2344,0,0,0.7,0.841,1.4,1,6.89
+André Schürrle,Borussia Dortmund,745,2,2,2.4,0.721,0.6,1,6.89
+Nico Elvedi,Borussia M.Gladbach,2111,0,0,0.2,0.846,2.7,0,6.89
+Chicharito,Leverkusen,1815,11,3,2.0,0.7340000000000001,1.3,2,6.89
+Jesús Vallejo,Eintracht Frankfurt,2055,1,0,0.2,0.852,2.2,0,6.88
+Timothy Chandler,Eintracht Frankfurt,2817,0,3,0.6,0.731,2.2,2,6.88
+Christian Pulisic,Borussia Dortmund,1518,3,6,1.1,0.732,0.7,0,6.88
+Bas Dost,Wolfsburg,81,0,1,0.0,0.483,4.0,0,6.88
+Felix Platte,Darmstadt,469,2,1,1.3,0.6,4.1,0,6.88
+Fabian Lustenberger,Hertha Berlin,1500,0,1,0.1,0.8190000000000001,1.4,0,6.88
+Oliver Baumann,Hoffenheim,3060,0,0,0.0,0.746,0.3,2,6.87
+Çaglar Söyüncü,Freiburg,2072,0,1,0.4,0.7659999999999999,3.5,1,6.86
+Guido Burgstaller,Schalke,1474,9,2,2.5,0.708,1.1,1,6.86
+Sebastian Jung,Wolfsburg,296,0,1,0.0,0.78,1.3,0,6.86
+Salomon Kalou,Hertha Berlin,1998,7,4,1.5,0.736,1.1,1,6.85
+Oscar Wendt,Borussia M.Gladbach,2462,2,2,0.9,0.8,0.6,0,6.85
+Niklas Moisander,Werder Bremen,2655,0,1,0.3,0.82,1.4,0,6.85
+Dayot Upamecano,RBL,666,0,0,0.1,0.7859999999999999,2.8,0,6.85
+Filip Kostic,Hamburg,2532,4,3,1.7,0.643,1.0,2,6.85
+Lukas Kübler,Freiburg,1160,0,1,0.3,0.7290000000000001,1.7,1,6.85
+Lamine Sané,Werder Bremen,2364,1,1,0.2,0.847,2.6,1,6.84
+Milos Jojic,FC Koln,1088,4,4,0.9,0.735,0.8,1,6.84
+Lewis Holtby,Hamburg,2421,1,6,1.0,0.73,1.4,1,6.84
+Nicolas Höfler,Freiburg,2369,1,1,0.3,0.835,2.5,0,6.84
+Gaëtan Bussmann,Mainz,1048,0,1,0.7,0.5579999999999999,2.9,0,6.84
+Per Ciljan Skjelbred,Hertha Berlin,2144,0,0,0.2,0.848,1.3,0,6.83
+Daniel Caligiuri,Wolfsburg,1112,2,1,1.3,0.743,1.3,2,6.83
+Jhon Córdoba,Mainz,2356,5,3,2.0,0.684,2.8,1,6.83
+Romain Brégerie,Ingolstadt,1527,3,0,0.8,0.713,3.8,1,6.83
+Ermin Bicakcic,Hoffenheim,1052,1,0,0.5,0.894,2.3,0,6.83
+Kingsley Coman,Bayern,917,2,1,1.2,0.843,0.5,0,6.83
+Darío Lezcano,Ingolstadt,2519,6,3,1.8,0.73,3.1,1,6.82
+Paul Verhaegh,Augsburg,2765,3,2,0.3,0.775,0.8,0,6.82
+Shinji Kagawa,Borussia Dortmund,1259,1,6,1.0,0.853,0.6,1,6.82
+Mijat Gacinovic,Eintracht Frankfurt,2234,2,0,1.0,0.71,1.2,0,6.82
+Heinz Lindner,Eintracht Frankfurt,174,0,0,0.0,0.35,0.5,0,6.82
+Douglas Santos,Hamburg,1712,0,0,0.4,0.68,1.6,1,6.81
+Florian Niederlechner,Freiburg,2424,11,2,2.3,0.682,1.6,2,6.81
+Coke,Schalke,629,1,0,1.0,0.7559999999999999,1.0,1,6.81
+Ralf Fährmann,Schalke,3060,0,0,0.0,0.63,0.7,2,6.8
+Matthias Ginter,Borussia Dortmund,2475,0,1,0.7,0.872,3.2,0,6.8
+Erik Durm,Borussia Dortmund,976,0,2,0.7,0.73,0.9,0,6.8
+Marc Oliver Kempf,Freiburg,1146,0,0,0.2,0.7829999999999999,2.6,0,6.8
+Timo Horn,FC Koln,1800,0,0,0.0,0.5710000000000001,0.4,0,6.8
+Kevin Vogt,Hoffenheim,2597,0,0,0.1,0.9179999999999999,1.0,1,6.8
+Holger Badstuber,Schalke,864,0,0,0.1,0.912,1.7,0,6.79
+Florian Grillitsch,Werder Bremen,1721,2,0,0.8,0.797,1.7,0,6.79
+Neven Subotic,FC Koln,887,0,0,0.2,0.728,2.3,1,6.79
+Raphael Framberger,Augsburg,143,0,1,0.0,0.735,0.0,0,6.79
+Daniel Brosinski,Mainz,2453,1,2,1.2,0.7140000000000001,1.5,1,6.79
+Ji Dong Won,Augsburg,2295,3,2,1.3,0.6809999999999999,3.6,1,6.79
+Matija Nastasic,Schalke,1921,0,0,0.1,0.848,1.9,0,6.78
+Benno Schmitz,RBL,990,0,2,0.6,0.677,1.4,0,6.77
+André Ramalho,Mainz,1134,0,0,0.7,0.768,1.4,1,6.77
+Tony Jantschke,Borussia M.Gladbach,1488,0,0,0.1,0.752,2.3,0,6.77
+Christian Clemens,FC Koln,793,1,1,0.9,0.706,0.3,1,6.77
+Maximilian Arnold,Wolfsburg,2425,2,3,1.5,0.831,0.9,3,6.76
+Levin Öztunali,Mainz,1974,5,6,1.0,0.604,0.6,2,6.76
+Jeffrey Bruma,Wolfsburg,1718,1,0,0.6,0.826,2.7,1,6.76
+Alexander Meier,Eintracht Frankfurt,1396,5,2,2.0,0.6509999999999999,3.3,0,6.76
+Lukas Rupp,Hoffenheim,790,2,1,1.1,0.774,0.6,0,6.76
+Nadiem Amiri,Hoffenheim,1940,2,4,1.5,0.836,0.2,1,6.75
+Vladlen Yurchenko,Leverkusen,146,0,0,1.3,0.8140000000000001,1.0,0,6.74
+Thomas Kessler,FC Koln,1170,0,0,0.0,0.536,0.5,1,6.74
+Ádám Szalai,Hoffenheim,772,8,1,0.8,0.687,1.1,1,6.74
+Kyriakos Papadopoulos,RBL,27,0,0,0.0,0.33299999999999996,6.0,0,6.73
+Szabolcs Huszti,Eintracht Frankfurt,1047,2,2,0.7,0.78,0.8,1,6.73
+Jérôme Boateng,Bayern,828,0,1,0.3,0.8759999999999999,1.2,0,6.73
+Bobby Wood,Hamburg,2085,5,2,1.4,0.616,3.8,2,6.72
+Abdul Rahman Baba,Schalke,707,0,2,0.5,0.728,0.9,0,6.72
+Tin Jedvaj,Leverkusen,1423,1,0,0.6,0.733,2.7,0,6.72
+Ricardo Rodríguez,Wolfsburg,2019,2,3,0.9,0.8220000000000001,1.4,2,6.72
+Vieirinha,Wolfsburg,1219,0,0,1.0,0.748,1.5,1,6.72
+Ömer Toprak,Leverkusen,2104,1,0,0.4,0.8440000000000001,2.9,0,6.72
+Aytac Sulu,Darmstadt,2430,2,0,0.9,0.768,2.7,1,6.72
+Mike Frantz,Freiburg,2502,0,1,0.8,0.7440000000000001,2.2,1,6.72
+Matthias Ostrzolek,Hamburg,1995,1,1,0.5,0.629,1.9,1,6.72
+Konstantin Rausch,FC Koln,1937,0,2,0.9,0.754,0.6,0,6.72
+Yannick Gerhardt,Wolfsburg,2214,0,2,0.6,0.7709999999999999,1.8,1,6.72
+Clemens Fritz,Werder Bremen,1300,0,3,0.3,0.7120000000000001,1.3,0,6.72
+Yunus Malli,Wolfsburg,1178,1,1,1.8,0.711,0.8,0,6.72
+Julian Baumgartlinger,Leverkusen,1566,0,1,0.6,0.863,0.9,1,6.71
+Jakub Blaszczykowski,Wolfsburg,1693,0,1,0.4,0.763,0.5,0,6.71
+Janik Haberer,Freiburg,1956,3,4,0.9,0.6970000000000001,2.3,1,6.71
+Kevin Volland,Leverkusen,1472,6,2,1.5,0.685,1.3,1,6.71
+Emre Mor,Borussia Dortmund,476,1,2,0.8,0.75,0.3,0,6.71
+Vladimír Darida,Hertha Berlin,1983,2,2,1.2,0.809,0.7,0,6.71
+Koo Ja Cheol,Augsburg,1817,2,3,1.3,0.7809999999999999,2.5,1,6.7
+Genki Haraguchi,Hertha Berlin,2053,1,2,0.9,0.745,1.0,1,6.7
+Mario Götze,Borussia Dortmund,763,1,1,0.5,0.825,0.2,0,6.7
+Raúl Bobadilla,Augsburg,1047,4,1,1.9,0.721,0.9,0,6.7
+Alfred Finnbogason,Augsburg,1132,3,1,1.7,0.682,1.6,1,6.7
+Nils Petersen,Freiburg,1233,10,4,1.6,0.5710000000000001,3.1,1,6.69
+Matthias Lehmann,FC Koln,1823,0,2,0.5,0.835,0.7,0,6.69
+Markus Steinhöfer,Darmstadt,319,0,1,0.4,0.736,0.4,0,6.69
+Marcel Tisserand,Ingolstadt,2389,0,1,0.6,0.7070000000000001,3.3,1,6.69
+Peter Pekarík,Hertha Berlin,2712,1,1,0.4,0.755,1.1,0,6.69
+Daniel Heuer Fernandes,Darmstadt,575,0,0,0.0,0.667,0.1,0,6.68
+Gideon Jung,Hamburg,2372,0,0,0.4,0.6940000000000001,2.1,0,6.68
+Roman Bürki,Borussia Dortmund,2430,0,0,0.0,0.7440000000000001,0.3,0,6.67
+Gotoku Sakai,Hamburg,2692,1,2,0.6,0.698,1.4,0,6.67
+Lukas Klostermann,RBL,90,0,0,1.0,0.625,1.0,0,6.67
+Manuel Gulde,Freiburg,1687,0,0,0.1,0.848,1.6,0,6.67
+Maximilian Eggestein,Werder Bremen,889,1,0,0.1,0.758,2.0,0,6.67
+Felix Wiedwald,Werder Bremen,2208,0,0,0.0,0.521,0.2,1,6.67
+Fabian Frei,Mainz,1668,0,1,0.7,0.765,1.1,0,6.66
+Charles Aránguiz,Leverkusen,1822,2,2,0.7,0.7959999999999999,0.7,0,6.66
+Joel Pohjanpalo,Leverkusen,185,6,0,1.6,0.633,1.3,1,6.66
+Valentin Stocker,Hertha Berlin,1164,4,1,1.4,0.6409999999999999,1.2,0,6.66
+Fabian Johnson,Borussia M.Gladbach,1251,3,2,1.1,0.7290000000000001,1.1,2,6.66
+Philipp Max,Augsburg,1818,1,2,0.7,0.725,0.6,1,6.66
+Rune Jarstein,Hertha Berlin,3060,0,0,0.0,0.586,0.3,1,6.65
+Manuel Neuer,Bayern,2340,0,0,0.0,0.809,0.1,0,6.65
+Christian Mathenia,Hamburg,1260,0,0,0.0,0.457,0.6,0,6.65
+Aymen Barkok,Eintracht Frankfurt,653,2,2,0.4,0.7020000000000001,0.6,0,6.65
+Fabian Holland,Darmstadt,2259,0,0,0.1,0.665,0.9,0,6.65
+Caiuby,Augsburg,245,0,0,1.4,0.604,5.4,0,6.65
+Tom Mickel,Hamburg,90,0,0,0.0,0.478,1.0,0,6.65
+Yann Sommer,Borussia M.Gladbach,3060,0,0,0.0,0.743,0.2,1,6.65
+Aaron Hunt,Hamburg,1305,4,2,0.6,0.736,0.6,1,6.65
+Leon Balogun,Mainz,1024,0,0,0.2,0.753,2.6,0,6.65
+Niko Bungert,Mainz,758,1,0,0.3,0.7859999999999999,2.6,0,6.65
+Pascal Stenzel,Freiburg,1303,1,1,0.7,0.767,1.0,0,6.65
+Guillermo Varela,Eintracht Frankfurt,431,0,0,0.0,0.775,0.9,0,6.64
+Ousman Manneh,Werder Bremen,488,1,1,3.2,0.59,2.7,1,6.63
+Jonathan Schmid,Augsburg,1701,1,3,1.0,0.693,1.0,0,6.63
+Stefan Kießling,Leverkusen,749,4,1,1.2,0.65,2.9,2,6.62
+Danny da Costa,Leverkusen,110,0,1,0.0,0.737,2.0,0,6.62
+Nabil Bahoui,Hamburg,67,0,0,1.0,0.813,0.0,0,6.62
+Felix Passlack,Borussia Dortmund,534,0,0,0.3,0.8959999999999999,0.4,0,6.62
+Jonas Hofmann,Borussia M.Gladbach,1386,0,1,1.2,0.77,0.1,0,6.61
+Alfredo Morales,Ingolstadt,1712,1,0,0.9,0.638,2.7,0,6.61
+Ante Rebic,Eintracht Frankfurt,1407,2,2,1.8,0.524,1.4,1,6.61
+Michael Gregoritsch,Hamburg,1305,5,1,1.7,0.615,3.6,1,6.61
+Amir Abrashi,Freiburg,1322,1,0,0.5,0.767,1.6,2,6.61
+Emir Spahic,Hamburg,777,0,0,0.3,0.7509999999999999,3.0,0,6.6
+Bojan,Mainz,631,1,1,1.2,0.8,0.4,0,6.6
+László Bénes,Borussia M.Gladbach,286,1,0,0.4,0.852,0.8,1,6.6
+Aleksandar Dragovic,Leverkusen,1258,0,1,0.3,0.846,2.1,0,6.6
+Michael Esser,Darmstadt,2485,0,0,0.0,0.5539999999999999,0.4,0,6.6
+Pablo De Blasis,Mainz,1658,5,4,1.1,0.667,1.0,1,6.59
+Julian Korb,Borussia M.Gladbach,754,0,0,0.2,0.769,0.5,0,6.59
+Nuri Sahin,Borussia Dortmund,232,0,0,0.2,0.88,0.4,0,6.59
+Philipp Bargfrede,Werder Bremen,452,1,1,0.2,0.773,0.5,0,6.58
+Bernd Leno,Leverkusen,3060,0,0,0.0,0.652,0.1,1,6.58
+Koen Casteels,Wolfsburg,1800,0,0,0.0,0.7020000000000001,0.4,1,6.57
+Daniel Didavi,Wolfsburg,992,4,2,1.6,0.7809999999999999,0.7,0,6.57
+Patrick Banggaard,Darmstadt,810,0,0,0.6,0.79,3.3,0,6.57
+Marco Terrazzino,Hoffenheim,364,1,2,0.7,0.809,0.8,0,6.57
+Marwin Hitz,Augsburg,2880,0,0,0.0,0.584,0.4,0,6.57
+Roger Bernardo,Ingolstadt,2287,1,0,0.5,0.674,1.6,0,6.57
+Andersson Ordóñez,Eintracht Frankfurt,186,0,0,0.0,0.878,1.5,0,6.57
+Gojko Kacar,Augsburg,1098,0,1,0.3,0.757,1.8,0,6.56
+Dominic Maroh,FC Koln,644,0,0,0.3,0.852,1.3,0,6.56
+Tobias Strobl,Borussia M.Gladbach,1567,0,2,0.4,0.861,1.6,0,6.55
+Max Meyer,Schalke,1669,1,1,1.1,0.85,0.3,0,6.54
+Albin Ekdal,Hamburg,1246,1,1,0.3,0.703,1.7,1,6.54
+Jens Hegeler,Hertha Berlin,207,0,0,0.2,0.8420000000000001,1.0,0,6.54
+Florian Kainz,Werder Bremen,302,2,3,0.1,0.797,0.4,0,6.54
+Jannes Horn,Wolfsburg,975,0,1,0.2,0.8220000000000001,0.8,1,6.54
+Jeremy Toljan,Hoffenheim,1316,1,1,0.7,0.773,0.3,0,6.54
+Mikel Merino,Borussia Dortmund,293,0,0,0.6,0.8370000000000001,1.6,0,6.54
+Jean Philippe Gbamin,Mainz,1825,0,0,0.9,0.713,2.0,0,6.53
+Peter Niemeyer,Darmstadt,1111,0,0,0.3,0.679,1.9,0,6.53
+Dennis Diekmeier,Hamburg,1783,0,1,0.2,0.626,1.0,0,6.53
+Leon Guwara,Darmstadt,1100,0,0,0.1,0.6920000000000001,1.0,0,6.53
+Jordan Torunarigha,Hertha Berlin,482,1,0,0.3,0.755,3.0,1,6.53
+Anthony Jung,Ingolstadt,703,1,1,0.4,0.606,1.6,0,6.53
+Admir Mehmedi,Leverkusen,1264,3,0,0.7,0.7559999999999999,1.1,0,6.52
+Michael Hector,Eintracht Frankfurt,1356,1,0,0.3,0.706,1.5,0,6.52
+André Hahn,Borussia M.Gladbach,1599,3,1,1.1,0.588,2.7,0,6.52
+Branimir Hrgota,Eintracht Frankfurt,1750,5,1,1.4,0.773,0.6,1,6.52
+Alexander Schwolow,Freiburg,3060,0,0,0.0,0.561,0.3,1,6.52
+Jonas Lössl,Mainz,2430,0,0,0.0,0.573,0.4,0,6.52
+Kevin Danso,Augsburg,613,0,0,0.4,0.7170000000000001,2.9,0,6.51
+Yoshinori Muto,Mainz,1021,5,0,0.9,0.628,1.0,0,6.51
+Claudio Pizarro,Werder Bremen,854,1,1,1.1,0.6559999999999999,1.6,0,6.51
+Luca Caldirola,Werder Bremen,412,0,0,0.4,0.703,1.6,0,6.5
+Julian Schuster,Freiburg,847,0,0,0.2,0.772,1.0,0,6.5
+Nico Schulz,Borussia M.Gladbach,409,1,2,0.3,0.85,0.2,0,6.5
+Maximilian Mittelstädt,Hertha Berlin,462,0,1,0.3,0.6509999999999999,1.2,1,6.5
+Eugen Polanski,Hoffenheim,632,0,0,0.4,0.89,0.9,0,6.5
+Hendrik Hansen,Wolfsburg,83,0,0,0.0,0.667,2.0,0,6.5
+Izet Hajrovic,Werder Bremen,493,1,0,1.2,0.672,0.4,1,6.5
+Sandro Sirigu,Darmstadt,1810,2,1,0.6,0.7040000000000001,1.4,0,6.5
+Marc Torrejón,Freiburg,931,0,0,0.5,0.8240000000000001,2.3,0,6.49
+Sven Bender,Borussia Dortmund,273,0,1,0.3,0.93,0.3,0,6.49
+Jonas Meffert,Freiburg,58,0,0,0.0,0.7929999999999999,2.0,0,6.49
+Halil Altintop,Augsburg,1604,6,2,0.5,0.722,0.9,0,6.49
+Immanuel Höhn,Darmstadt,1069,0,0,0.2,0.723,1.2,0,6.48
+Paul Seguin,Wolfsburg,1325,1,1,0.5,0.841,1.0,0,6.48
+Alexander Milosevic,Darmstadt,1598,0,0,0.6,0.752,1.7,0,6.48
+Allan,Hertha Berlin,792,0,0,0.5,0.78,0.8,0,6.47
+Diego Benaglio,Wolfsburg,1260,0,0,0.0,0.565,0.2,0,6.47
+Lukás Hrádecký,Eintracht Frankfurt,2883,0,0,0.0,0.634,0.3,0,6.47
+Artem Fedetskyy,Darmstadt,1113,0,0,0.3,0.652,1.1,0,6.47
+Péter Gulácsi,RBL,2970,0,0,0.0,0.627,0.2,0,6.47
+Jan Morávek,Augsburg,699,0,0,0.2,0.7170000000000001,1.3,0,6.47
+Pirmin Schwegler,Hoffenheim,391,0,1,0.4,0.8170000000000001,1.7,0,6.47
+Tobias Levels,Ingolstadt,720,0,0,0.6,0.713,1.9,0,6.47
+Sidney Sam,Darmstadt,886,2,1,1.0,0.733,0.6,1,6.46
+Paul Georges Ntep,Wolfsburg,504,0,2,1.1,0.657,0.2,0,6.46
+Sebastian Rode,Borussia Dortmund,575,1,0,0.4,0.889,0.9,0,6.46
+Benjamin Stambouli,Schalke,1296,0,0,0.2,0.8340000000000001,1.3,0,6.46
+Aleksandar Ignjovski,Freiburg,1052,0,0,0.2,0.737,0.7,0,6.46
+Bakery Jatta,Hamburg,180,0,0,0.7,0.537,1.3,0,6.46
+Moritz Hartmann,Ingolstadt,949,1,0,1.4,0.655,2.4,1,6.46
+Alexander Esswein,Hertha Berlin,1325,2,2,0.9,0.7240000000000001,0.5,1,6.45
+Vasilije Janjicic,Hamburg,176,0,0,0.3,0.7240000000000001,1.5,0,6.45
+Artjoms Rudnevs,FC Koln,689,3,3,1.2,0.601,1.2,0,6.45
+Jairo Samperio,Mainz,943,2,1,1.6,0.628,0.6,0,6.45
+Marcel Heller,Darmstadt,2721,3,3,1.3,0.654,0.3,0,6.44
+Danny Blum,Eintracht Frankfurt,453,1,1,1.6,0.6729999999999999,0.7,0,6.44
+Milos Veljkovic,Werder Bremen,1810,0,0,0.1,0.768,1.5,0,6.44
+Karim Guédé,Freiburg,187,0,0,0.6,0.373,3.0,0,6.44
+Suat Serdar,Mainz,328,0,0,0.1,0.6920000000000001,0.9,1,6.43
+Renato Sanches,Bayern,618,0,0,0.7,0.88,0.4,0,6.43
+Franco Di Santo,Schalke,318,0,2,0.5,0.635,1.7,0,6.43
+Johan Djourou,Hamburg,1142,0,0,0.3,0.8240000000000001,3.2,1,6.43
+Sven Schipplock,Darmstadt,1108,2,0,0.7,0.544,2.7,0,6.43
+Karim Onisiwo,Mainz,912,1,0,0.9,0.633,1.4,0,6.42
+Marcel Hartel,FC Koln,91,0,0,2.0,0.83,0.0,0,6.42
+Wilson Kamavuaka,Darmstadt,506,0,0,0.3,0.6809999999999999,2.0,0,6.41
+Onur Bulut,Freiburg,999,0,1,0.4,0.631,1.1,0,6.41
+Christoph Janker,Augsburg,1087,0,0,0.1,0.8420000000000001,1.8,1,6.4
+Julian Schieber,Hertha Berlin,422,3,1,0.8,0.564,1.6,0,6.4
+Dennis Aogo,Schalke,288,0,1,0.0,0.8240000000000001,0.6,0,6.4
+Christian Günter,Freiburg,2696,0,2,0.5,0.72,0.5,1,6.4
+Takashi Usami,Augsburg,437,0,0,0.2,0.667,0.4,0,6.4
+Dominik Kaiser,RBL,952,1,0,0.6,0.7090000000000001,0.5,1,6.4
+Thanos Petsos,Werder Bremen,144,0,0,0.3,0.805,3.7,0,6.39
+Riechedly Bazoer,Wolfsburg,974,0,1,1.6,0.82,0.4,0,6.38
+Antonio Mirko Colak,Darmstadt,1271,4,1,1.5,0.639,2.9,0,6.38
+Cléber Reis,Hamburg,326,0,0,0.0,0.703,2.6,0,6.38
+Jaroslav Drobny,Werder Bremen,849,0,0,0.0,0.544,0.3,0,6.37
+Simon Zoller,FC Koln,1024,2,2,0.5,0.7,1.0,0,6.37
+Ulisses Garcia,Werder Bremen,350,0,1,0.3,0.79,0.9,0,6.37
+Jannik Huth,Mainz,630,0,0,0.0,0.6509999999999999,0.1,0,6.36
+Donis Avdijaj,Schalke,294,2,0,1.3,0.713,0.1,0,6.36
+Denys Olinyk,Darmstadt,47,1,0,0.3,0.8,0.0,0,6.36
+Federico Palacios,RBL,55,0,0,1.0,0.43799999999999994,0.5,0,6.36
+Patrick Herrmann,Borussia M.Gladbach,699,1,1,0.4,0.6579999999999999,0.2,0,6.35
+Fabian Schär,Hoffenheim,284,0,0,0.3,0.846,0.7,0,6.35
+Victor Obinna,Darmstadt,37,0,0,0.5,0.895,0.0,0,6.35
+Christian Clemens,Mainz,188,0,0,1.3,0.7709999999999999,0.0,0,6.34
+Martin Hansen,Ingolstadt,2038,0,0,0.0,0.491,0.3,0,6.34
+Davie Selke,RBL,436,4,1,0.6,0.619,1.5,1,6.34
+Dzenis Burnic,Borussia Dortmund,90,0,0,0.0,0.8029999999999999,1.0,0,6.33
+Bruno Henrique,Wolfsburg,179,0,0,0.6,0.6729999999999999,1.1,0,6.33
+Yevhen Konoplyanka,Schalke,605,1,1,0.9,0.775,0.2,0,6.32
+Leon Bailey,Leverkusen,133,0,0,0.8,0.659,0.1,0,6.32
+Roman Bezjak,Darmstadt,590,0,0,0.8,0.535,1.6,0,6.32
+Sonny Kittel,Ingolstadt,790,2,1,1.1,0.76,0.3,0,6.32
+Aaron Seydel,Mainz,172,1,0,0.7,0.551,2.2,1,6.32
+Georg Teigl,Augsburg,659,0,1,0.4,0.736,0.3,0,6.31
+Jan Rosenthal,Darmstadt,838,0,0,0.8,0.655,2.4,0,6.31
+Klaas Jan Huntelaar,Schalke,753,2,0,1.5,0.748,1.4,0,6.3
+Marius Wolf,Eintracht Frankfurt,168,0,0,0.3,0.727,1.0,0,6.29
+Sven Ulreich,Bayern,450,0,0,0.0,0.8759999999999999,0.0,0,6.29
+Park Joo Ho,Borussia Dortmund,65,0,0,0.0,0.9329999999999999,1.0,0,6.29
+Lukas Hinterseer,Ingolstadt,955,3,1,0.7,0.635,1.9,0,6.28
+Haris Seferovic,Eintracht Frankfurt,1061,3,0,1.2,0.62,1.2,0,6.28
+Taleb Tawatha,Eintracht Frankfurt,694,0,0,0.1,0.763,0.5,0,6.28
+Luca Waldschmidt,Hamburg,349,1,1,0.6,0.695,0.3,0,6.28
+René Adler,Hamburg,1710,0,1,0.0,0.49200000000000005,0.2,1,6.27
+Robin Quaison,Mainz,482,1,0,0.5,0.624,0.5,0,6.27
+Fabian Reese,Schalke,73,0,0,0.7,0.65,2.0,0,6.27
+László Kleinheisler,Darmstadt,782,1,1,1.2,0.682,0.8,1,6.27
+Borja Mayoral,Wolfsburg,375,2,0,0.6,0.767,0.3,0,6.26
+Oliver Burke,RBL,617,1,2,0.4,0.7240000000000001,0.9,0,6.26
+Massimo Bruno,RBL,4,0,0,1.0,0.0,0.0,0,6.26
+Terrence Boyd,Darmstadt,379,1,0,0.7,0.6609999999999999,2.7,0,6.26
+Philipp Ochs,Hoffenheim,145,0,0,0.0,0.773,0.0,0,6.26
+Sascha Riether,Schalke,284,0,0,0.0,0.835,0.8,0,6.26
+Lennart Thy,Werder Bremen,84,1,0,0.8,0.667,1.2,0,6.23
+Ondrej Duda,Hertha Berlin,67,0,0,0.0,0.741,0.7,0,6.23
+Julius Kade,Hertha Berlin,9,0,0,0.0,0.75,1.0,0,6.23
+Marco Russ,Eintracht Frankfurt,243,0,0,1.0,0.805,0.5,0,6.23
+Ørjan Nyland,Ingolstadt,1022,0,0,0.0,0.509,0.3,0,6.23
+Marcel Schäfer,Wolfsburg,109,0,0,0.3,0.7859999999999999,0.3,0,6.23
+Max Christiansen,Ingolstadt,440,0,0,0.4,0.7609999999999999,1.2,0,6.22
+Salih Özcan,FC Koln,363,0,2,0.3,0.7979999999999999,0.6,0,6.22
+Jonas Föhrenbach,Freiburg,101,0,0,0.0,0.7240000000000001,1.7,0,6.22
+Änis Ben Hatira,Darmstadt,590,1,0,0.9,0.5920000000000001,0.6,0,6.22
+Gerrit Holtmann,Mainz,125,0,1,0.4,0.775,0.2,0,6.21
+Eduardo Vargas,Hoffenheim,96,0,0,0.6,0.795,0.8,0,6.21
+Baris Atik,Hoffenheim,68,0,0,0.3,0.7829999999999999,0.7,0,6.21
+Pierre Michel Lasogga,Hamburg,543,1,0,0.9,0.643,2.3,0,6.2
+Rani Khedira,RBL,157,0,0,0.2,0.7979999999999999,0.6,0,6.19
+Júnior Caiçara,Schalke,107,0,0,0.0,0.745,1.0,0,6.19
+Shani Tarashaj,Eintracht Frankfurt,325,1,0,0.5,0.701,0.1,0,6.19
+Josip Brekalo,Wolfsburg,76,0,0,1.0,0.9059999999999999,0.0,0,6.18
+Victor Osimhen,Wolfsburg,45,0,0,0.5,0.75,1.0,0,6.18
+Tim Rieder,Augsburg,214,0,0,0.2,0.782,0.4,0,6.16
+Benjamin Gorka,Darmstadt,6,0,0,0.0,0.2,1.0,0,6.16
+Josip Drmic,Borussia M.Gladbach,276,0,0,0.8,0.639,1.7,0,6.16
+Markus Feulner,Augsburg,17,0,0,0.0,0.667,0.0,0,6.15
+Moritz Leitner,Augsburg,235,0,0,0.8,0.672,0.3,0,6.15
+Janek Sternberg,Werder Bremen,71,0,0,0.5,0.85,0.5,0,6.14
+Stefan Lex,Ingolstadt,325,0,0,0.7,0.5770000000000001,0.4,0,6.13
+Aron Jóhannsson,Werder Bremen,269,1,1,1.2,0.725,0.8,0,6.13
+Justin Möbius,Wolfsburg,46,0,0,0.0,0.8,0.5,0,6.12
+Georg Niedermeier,Freiburg,91,0,0,0.2,0.805,0.3,0,6.11
+Max Besuschkow,Eintracht Frankfurt,86,0,0,0.3,0.591,0.0,0,6.11
+Holger Badstuber,Bayern,28,0,0,0.0,0.9640000000000001,0.0,0,6.11
+Jan Ingwer Callsen Bracker,Augsburg,2,0,0,0.0,0.5,1.0,0,6.11
+Silas Zehnder,Darmstadt,1,0,0,0.0,1.0,0.0,0,6.08
+Sami Allagui,Hertha Berlin,174,1,1,0.4,0.6940000000000001,0.3,0,6.08
+Havard Nielsen,Freiburg,24,0,1,0.0,0.5,0.8,0,6.07
+Dominik Stroh Engel,Darmstadt,42,0,0,0.0,0.47100000000000003,1.5,0,6.07
+Roman Weidenfeller,Borussia Dortmund,630,0,0,0.0,0.757,0.0,0,6.06
+Julian Günther Schmidt,Augsburg,42,0,0,0.8,0.7859999999999999,0.3,0,6.05
+Bernard Tekpetey,Schalke,4,0,0,0.0,0.667,0.5,0,6.03
+Robert Leipertz,Ingolstadt,32,0,0,0.5,0.7140000000000001,0.0,0,6.03
+Filip Mladenovic,FC Koln,9,0,0,0.0,1.0,0.0,0,6.02
+Sambou Yatabaré,Werder Bremen,176,0,0,1.0,0.659,3.5,0,6.02
+Weston McKennie,Schalke,13,0,0,0.0,0.444,1.0,0,6.01
+Arne Maier,Hertha Berlin,1,0,0,0.0,0.0,0.0,0,6.0
+Ba Muaka Simakala,Borussia M.Gladbach,10,0,0,0.0,0.75,0.0,0,6.0
+Djibril Sow,Borussia M.Gladbach,1,0,0,0.0,0.0,0.0,0,6.0
+Finn Porath,Hamburg,1,0,0,0.0,0.0,0.0,0,6.0
+Sinan Kurt,Hertha Berlin,5,0,0,0.0,1.0,0.0,0,6.0
+Tobias Sippel,Borussia M.Gladbach,1,0,0,0.0,0.0,0.0,0,6.0
+Mats Møller Dæhli,Freiburg,23,0,0,0.0,0.7140000000000001,0.0,0,5.99
+Timothée Kolodziejczak,Borussia M.Gladbach,8,0,0,0.0,0.33299999999999996,0.0,0,5.97
+Florian Baak,Hertha Berlin,12,0,0,0.0,0.667,0.0,0,5.96
+Maurice Multhaup,Ingolstadt,7,0,0,0.0,0.5,0.0,0,5.95
+Serhou Guirassy,FC Koln,79,0,0,0.2,0.643,0.8,0,5.95
+Mounir Bouziane,Mainz,13,0,0,0.0,0.5,0.0,0,5.93
+Alen Halilovic,Hamburg,139,0,0,0.2,0.758,0.0,0,5.92
+Lukas Fröde,Werder Bremen,13,0,0,0.0,0.25,0.0,0,5.91
+Fallou Diagne,Werder Bremen,136,0,0,0.0,0.759,0.0,0,5.84
+Ashton Götz,Hamburg,66,0,0,0.0,0.789,0.0,0,5.48
+José Rodríguez,Mainz,6,0,0,0.0,0.5,0.0,0,5.46

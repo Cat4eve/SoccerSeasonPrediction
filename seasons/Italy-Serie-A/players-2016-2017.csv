@@ -1,0 +1,593 @@
+name,team,min,goal,assist,shot,pass,aer,mom,rating
+Edin Dzeko,Roma,3056,29,9,4.8,0.6970000000000001,3.8,11,7.85
+Dries Mertens,Napoli,2566,28,9,4.2,0.763,0.1,10,7.76
+Papu Gómez,Atalanta,3140,16,10,3.2,0.8059999999999999,0.1,10,7.75
+Lorenzo Insigne,Napoli,2935,18,9,4.0,0.861,0.0,8,7.67
+Alex Sandro,Juventus,2310,3,4,0.7,0.846,1.5,4,7.63
+Felipe Anderson,Lazio,2919,4,9,2.0,0.7490000000000001,0.5,7,7.62
+Andrea Belotti,Torino,3071,26,7,3.7,0.7509999999999999,2.4,7,7.58
+Federico Fazio,Roma,3117,2,1,0.6,0.856,3.4,7,7.5
+Giacomo Bonaventura,AC Milan,1574,3,2,2.5,0.853,0.5,1,7.5
+Gonzalo Higuaín,Juventus,2968,24,3,3.5,0.826,0.4,7,7.5
+Luca Crosta,Cagliari,90,0,0,0.0,0.34600000000000003,0.0,0,8.32
+Edin Dzeko,Roma,3056,29,9,4.8,0.6970000000000001,3.8,11,7.85
+Dries Mertens,Napoli,2566,28,9,4.2,0.763,0.1,10,7.76
+Papu Gómez,Atalanta,3140,16,10,3.2,0.8059999999999999,0.1,10,7.75
+Lorenzo Insigne,Napoli,2935,18,9,4.0,0.861,0.0,8,7.67
+Marcos Alonso,Fiorentina,180,0,0,0.0,0.8109999999999999,3.5,1,7.66
+Alex Sandro,Juventus,2310,3,4,0.7,0.846,1.5,4,7.63
+Felipe Anderson,Lazio,2919,4,9,2.0,0.7490000000000001,0.5,7,7.62
+Andrea Belotti,Torino,3071,26,7,3.7,0.7509999999999999,2.4,7,7.58
+Federico Fazio,Roma,3117,2,1,0.6,0.856,3.4,7,7.5
+Giacomo Bonaventura,AC Milan,1574,3,2,2.5,0.853,0.5,1,7.5
+Gonzalo Higuaín,Juventus,2968,24,3,3.5,0.826,0.4,7,7.5
+Mohamed Salah,Roma,2487,15,11,2.6,0.804,0.3,4,7.48
+Paulo Dybala,Juventus,2154,11,7,2.9,0.8540000000000001,0.1,4,7.46
+José Callejón,Napoli,3149,14,12,2.3,0.8540000000000001,0.6,4,7.42
+Radja Nainggolan,Roma,3044,11,5,2.4,0.8,0.8,3,7.37
+Emerson,Roma,1966,0,1,0.7,0.88,1.2,0,7.37
+Marek Hamsík,Napoli,3050,12,10,2.3,0.884,0.8,3,7.37
+Senad Lulic,Lazio,2492,3,9,1.0,0.774,1.0,3,7.32
+Miralem Pjanic,Juventus,2173,5,9,1.7,0.867,0.7,2,7.31
+Gerard Deulofeu,AC Milan,1463,4,3,2.2,0.823,0.1,1,7.3
+Mauro Icardi,Inter,3029,24,8,3.2,0.715,1.4,7,7.3
+Sergej Milinkovic Savic,Lazio,2734,4,7,2.0,0.7340000000000001,4.4,2,7.3
+Kevin Strootman,Roma,2789,4,7,0.7,0.8540000000000001,0.9,1,7.29
+Mattia Caldara,Atalanta,2656,7,0,0.5,0.85,1.4,3,7.28
+Ivan Perisic,Inter,2757,11,8,2.9,0.7140000000000001,1.6,2,7.28
+Dani Alves,Juventus,1347,2,2,1.0,0.8540000000000001,1.2,2,7.28
+Roberto Gagliardini,Inter,1576,2,1,1.3,0.846,2.4,1,7.27
+Domenico Berardi,Sassuolo,1739,5,9,2.0,0.713,1.1,3,7.27
+Ciro Immobile,Lazio,3124,23,3,3.8,0.784,0.6,3,7.26
+Jorginho,Napoli,2148,0,3,0.9,0.905,0.5,1,7.24
+Danilo Avelar,Torino,263,0,0,0.0,0.785,1.0,1,7.23
+Samir,Udinese,1784,0,2,0.2,0.789,1.8,1,7.23
+Cesare Bovo,Torino,360,0,0,1.8,0.823,1.3,0,7.23
+Lucas Biglia,Lazio,2279,4,3,0.9,0.873,0.6,1,7.22
+Kalidou Koulibaly,Napoli,2472,2,0,0.4,0.894,2.2,0,7.22
+Alessandro Florenzi,Roma,750,0,3,1.4,0.809,1.3,0,7.21
+Ivan Strinic,Napoli,1037,0,2,0.1,0.9179999999999999,1.1,1,7.21
+Suso,AC Milan,2820,7,9,2.7,0.795,0.1,5,7.21
+Adem Ljajic,Torino,2521,10,8,2.8,0.872,0.0,3,7.18
+Keita Baldé,Lazio,1932,16,3,2.3,0.81,0.2,2,7.18
+Francesco Acerbi,Sassuolo,3420,4,0,0.4,0.856,2.3,3,7.18
+Miranda,Inter,2880,0,0,0.5,0.8440000000000001,2.1,0,7.16
+Éver Banega,Inter,1559,6,6,1.5,0.8540000000000001,0.2,2,7.16
+Diego Perotti,Roma,1750,8,6,1.5,0.8190000000000001,0.4,2,7.16
+Francesco Magnanelli,Sassuolo,1193,1,0,0.3,0.823,1.2,1,7.15
+Medhi Benatia,Juventus,1183,1,0,0.6,0.907,1.6,1,7.14
+Remo Freuler,Atalanta,2608,5,4,1.1,0.883,0.5,2,7.14
+Marcelo Brozovic,Inter,1738,4,2,1.7,0.848,0.5,1,7.14
+Lucas Castro,Chievo,2768,5,6,1.5,0.797,1.3,4,7.13
+Daniele Rugani,Juventus,1077,2,0,0.2,0.889,1.7,1,7.13
+Mirko Valdifiori,Napoli,90,0,1,2.0,0.907,0.0,0,7.13
+Giorgio Chiellini,Juventus,1638,2,1,0.6,0.87,1.6,0,7.12
+Leandro Paredes,Roma,1469,3,1,1.1,0.884,0.4,2,7.12
+Juan Cuadrado,Juventus,2099,2,6,1.2,0.857,0.3,2,7.12
+Andrea Conti,Atalanta,2668,8,5,1.0,0.779,1.2,1,7.11
+Andrea Masiello,Atalanta,2930,3,1,0.3,0.8340000000000001,1.5,2,7.11
+Antonio Candreva,Inter,3022,6,10,2.3,0.799,0.0,0,7.11
+Konstantinos Manolas,Roma,2780,0,2,0.5,0.873,2.3,1,7.09
+Davide Santon,Inter,1018,0,1,0.1,0.871,1.4,0,7.09
+Danilo D 39 Ambrosio,Inter,2831,3,3,0.8,0.816,1.4,3,7.09
+Kwadwo Asamoah,Juventus,1470,0,1,0.4,0.898,0.9,2,7.08
+Daniele De Rossi,Roma,2346,4,4,0.6,0.857,0.7,0,7.07
+Rafael Tolói,Atalanta,2722,0,0,0.6,0.82,0.8,1,7.07
+Marco Parolo,Lazio,2980,5,1,1.7,0.815,1.8,1,7.06
+Vlad Chiriches,Napoli,1124,2,0,0.4,0.93,1.9,0,7.06
+Nikola Maksimovic,Napoli,677,1,0,0.1,0.93,2.1,1,7.06
+Hernanes,Juventus,723,1,0,1.7,0.8740000000000001,2.1,0,7.05
+Gianluigi Donnarumma,AC Milan,3420,0,0,0.0,0.747,0.1,4,7.05
+Stefan de Vrij,Lazio,2273,2,3,0.3,0.857,1.6,0,7.05
+Geoffrey Kondogbia,Inter,1716,1,2,1.4,0.8440000000000001,1.4,1,7.04
+Faouzi Ghoulam,Napoli,2379,0,6,0.6,0.8740000000000001,1.4,0,7.04
+Valter Birsa,Chievo,2786,7,9,1.5,0.8059999999999999,0.7,4,7.04
+Luis Muriel,Sampdoria,2257,11,5,2.7,0.695,0.7,6,7.03
+Panagiotis Tachtsidis,Cagliari,2140,0,5,1.0,0.75,1.6,1,7.03
+Bruno Peres,Roma,2225,2,2,1.2,0.8490000000000001,0.5,0,7.03
+Iago Falque,Torino,2533,12,8,1.9,0.84,0.3,3,7.03
+Mario Mandzukic,Juventus,2488,7,4,1.6,0.7290000000000001,2.4,1,7.03
+Davide Astori,Fiorentina,2967,2,0,0.5,0.852,1.8,1,7.03
+Andrea Fulignati,Palermo,810,0,0,0.0,0.494,0.7,0,7.03
+Sami Khedira,Juventus,2548,5,4,1.3,0.863,0.7,2,7.02
+Borja Valero,Fiorentina,2682,1,10,1.1,0.895,0.3,2,7.02
+Lorenzo Tonelli,Napoli,270,2,0,0.7,0.879,3.3,0,7.02
+Federico Bernardeschi,Fiorentina,2311,11,4,2.2,0.778,0.2,4,7.02
+Rafael,Cagliari,1802,0,0,0.0,0.525,0.1,1,7.01
+Andrea Petagna,Atalanta,2626,5,7,2.0,0.8140000000000001,0.5,2,7.0
+Lukasz Skorupski,Empoli,3150,0,0,0.0,0.5710000000000001,0.3,1,7.0
+Simone Verdi,Bologna,2126,6,3,2.0,0.785,0.1,2,7.0
+João Galvão,Cagliari,1460,7,3,1.8,0.667,1.6,4,6.99
+Wojciech Szczesny,Roma,3420,0,0,0.0,0.758,0.2,0,6.99
+Davide Di Gennaro,Cagliari,1436,2,5,1.2,0.795,0.1,2,6.99
+Seko Fofana,Udinese,1824,5,1,1.2,0.855,0.3,3,6.98
+Lucas Torreira,Sampdoria,3049,0,0,0.5,0.866,0.4,1,6.98
+Davide Calabria,AC Milan,988,0,1,0.8,0.8009999999999999,0.6,1,6.98
+Matías Vecino,Fiorentina,2351,3,4,1.9,0.882,1.3,0,6.98
+Blerim Dzemaili,Bologna,2584,8,3,2.0,0.7829999999999999,1.0,1,6.98
+Piotr Zielinski,Napoli,1850,5,7,0.9,0.877,0.4,1,6.98
+João Mário,Inter,2005,3,5,1.1,0.833,0.8,3,6.98
+Omar El Kaddouri,Empoli,1251,3,1,1.9,0.8109999999999999,0.7,2,6.97
+Leonardo Spinazzola,Atalanta,2501,0,5,0.5,0.799,0.4,0,6.97
+Raúl Albiol,Napoli,2297,0,1,0.3,0.8640000000000001,3.0,0,6.95
+Bryan Cristante,Atalanta,663,3,2,1.1,0.825,1.3,1,6.95
+Luca Lezzerini,Fiorentina,50,0,0,0.0,0.4,1.0,0,6.95
+Tomás Rincón,Genoa,1394,0,2,0.9,0.836,1.9,1,6.95
+Emiliano Moretti,Torino,2064,1,3,0.2,0.87,1.4,1,6.94
+Alessio Romagnoli,AC Milan,2370,1,1,0.5,0.88,2.4,0,6.94
+Cristian Molinaro,Torino,753,0,2,0.4,0.77,1.5,0,6.94
+Roberto Gagliardini,Atalanta,775,0,2,1.5,0.848,1.9,1,6.94
+Luca Antei,Sassuolo,1111,1,0,0.5,0.779,1.3,0,6.94
+Lorenzo Pellegrini,Sassuolo,1953,6,6,1.6,0.75,1.0,1,6.94
+Nikola Kalinic,Fiorentina,2487,15,2,2.8,0.784,1.6,4,6.94
+Federico Ceccherini,Crotone,3100,1,0,0.4,0.726,2.0,3,6.94
+Luca Rossettini,Torino,2655,1,0,0.4,0.816,2.6,1,6.93
+Federico Viviani,Bologna,1122,2,2,1.8,0.848,0.3,2,6.93
+Pierluigi Gollini,Atalanta,360,0,0,0.0,0.618,0.3,0,6.93
+Riccardo Montolivo,AC Milan,780,0,0,0.8,0.866,0.6,0,6.93
+Leonardo Bonucci,Juventus,2406,3,0,0.7,0.872,1.3,1,6.93
+Cyril Théréau,Udinese,2502,12,2,2.1,0.772,2.8,3,6.93
+Josip Ilicic,Fiorentina,1881,5,4,3.2,0.816,0.1,1,6.92
+Rade Krunic,Empoli,2441,2,1,1.3,0.7609999999999999,1.4,2,6.92
+Andrea Consigli,Sassuolo,3330,0,0,0.0,0.5529999999999999,0.2,0,6.92
+Allan,Napoli,1618,1,6,0.5,0.866,0.4,0,6.92
+Bartosz Bereszynski,Sampdoria,1049,0,0,0.0,0.76,1.5,0,6.92
+Ivan Radovanovic,Chievo,2892,0,0,0.8,0.8420000000000001,3.2,1,6.92
+Milan Badelj,Fiorentina,2513,2,2,0.5,0.861,0.9,2,6.92
+Castán,Torino,1176,0,0,0.1,0.8390000000000001,1.3,0,6.91
+Davide Zappacosta,Torino,2334,1,5,1.0,0.828,0.7,1,6.91
+Elseid Hysaj,Napoli,3032,0,1,0.2,0.865,1.2,0,6.91
+Boukary Dramé,Atalanta,638,0,0,0.5,0.828,0.4,1,6.91
+Armando Izzo,Genoa,2589,0,2,0.3,0.8440000000000001,1.2,3,6.9
+Felipe,Udinese,2812,1,1,0.5,0.836,1.5,1,6.89
+Nicolas Frey,Chievo,1183,0,0,0.1,0.737,1.4,0,6.89
+Franck Kessié,Atalanta,2223,6,3,1.6,0.8440000000000001,0.7,1,6.89
+Ivaylo Chochev,Palermo,2286,3,3,1.3,0.813,2.1,3,6.89
+Stephan El Shaarawy,Roma,1628,8,4,2.0,0.804,0.5,0,6.89
+Adam Masina,Bologna,2428,1,0,0.6,0.731,2.8,2,6.88
+Luca Cigarini,Sampdoria,275,0,0,0.5,0.88,0.3,0,6.88
+Jasmin Kurtic,Atalanta,2760,6,3,1.8,0.821,2.2,2,6.88
+Grégoire Defrel,Sassuolo,1962,12,2,1.5,0.8390000000000001,0.2,2,6.88
+Matteo Politano,Sassuolo,2319,5,6,2.5,0.722,0.3,0,6.88
+Marco Borriello,Cagliari,2597,16,1,2.3,0.748,1.6,2,6.88
+Alessandro Gamberini,Chievo,1672,1,0,0.4,0.8140000000000001,3.0,1,6.87
+Gabriel Paletta,AC Milan,2593,2,1,0.7,0.863,2.3,1,6.87
+Antonio Rüdiger,Roma,2206,0,2,0.4,0.833,1.7,0,6.86
+Neto,Juventus,675,0,0,0.0,0.863,0.1,0,6.86
+Claudio Marchisio,Juventus,1261,1,2,0.5,0.8759999999999999,0.4,0,6.86
+Stefan Radu,Lazio,2416,2,1,0.4,0.85,1.1,1,6.85
+Domenico Maietta,Bologna,2379,0,1,0.1,0.836,1.0,0,6.85
+Federico Peluso,Sassuolo,2980,1,2,0.2,0.726,1.9,0,6.85
+Gianluca Caprari,Pescara,3112,9,4,3.1,0.813,0.2,4,6.85
+Thiago Cionek,Palermo,2328,0,0,0.2,0.794,1.7,0,6.84
+Wesley Hoedt,Lazio,1882,2,0,0.9,0.872,2.3,1,6.84
+Ervin Zukanovic,Atalanta,1381,0,0,0.5,0.853,1.8,0,6.84
+Uros Cosic,Empoli,956,0,0,0.1,0.8,1.6,1,6.84
+Silvan Widmer,Udinese,2492,0,4,0.2,0.787,0.7,1,6.84
+Diego Falcinelli,Crotone,3130,13,3,2.8,0.7,2.1,4,6.83
+Dario Dainelli,Chievo,2190,0,0,0.0,0.8370000000000001,1.4,0,6.83
+Jeison Murillo,Inter,2077,0,0,0.4,0.866,2.4,0,6.83
+Rodrigo De Paul,Udinese,2361,4,2,1.3,0.7879999999999999,0.1,2,6.83
+Andrea Ranocchia,Inter,380,0,0,1.0,0.809,3.8,0,6.83
+Miguel Veloso,Genoa,1783,0,4,1.3,0.843,0.9,1,6.83
+Stefano Sensi,Sassuolo,1203,1,0,1.0,0.826,0.4,0,6.82
+Daniele Baselli,Torino,2300,6,5,1.1,0.833,0.3,0,6.81
+Giuseppe Bellusci,Empoli,2970,1,0,0.4,0.823,2.4,0,6.81
+Khouma Babacar,Fiorentina,1321,10,1,2.1,0.81,1.1,1,6.81
+Christian Maggio,Napoli,392,0,0,0.1,0.82,1.1,0,6.81
+Duván Zapata,Udinese,3154,10,3,2.1,0.7020000000000001,1.8,2,6.81
+Manuel Locatelli,AC Milan,1691,2,0,0.8,0.8220000000000001,1.2,2,6.8
+Diego Farias,Cagliari,1164,7,2,1.7,0.825,0.2,2,6.8
+Cristian Tello,Fiorentina,2072,4,4,1.5,0.831,0.1,2,6.8
+Ignazio Abate,AC Milan,1925,0,2,0.2,0.8009999999999999,0.5,0,6.8
+Gonzalo Rodríguez,Fiorentina,2209,1,0,0.5,0.871,1.4,0,6.8
+Emiliano Viviano,Sampdoria,1530,0,0,0.0,0.5479999999999999,0.2,2,6.79
+Diego Laxalt,Genoa,3141,1,4,0.8,0.747,0.5,1,6.79
+Hrvoje Milic,Fiorentina,1257,0,4,0.3,0.845,0.6,1,6.79
+Ibrahima Mbaye,Bologna,1066,0,1,0.3,0.8,1.5,0,6.79
+José Sosa,AC Milan,1243,0,3,1.3,0.8009999999999999,0.8,1,6.79
+Christian Puggioni,Sampdoria,1890,0,0,0.0,0.5710000000000001,0.2,1,6.78
+Luca Antonelli,AC Milan,309,0,0,0.4,0.762,1.0,0,6.78
+Paolo Cannavaro,Sassuolo,1425,1,0,0.3,0.785,1.0,1,6.78
+Fabio Quagliarella,Sampdoria,2885,12,4,3.0,0.669,1.1,0,6.78
+Cristián Zapata,AC Milan,1169,1,0,0.4,0.877,2.1,1,6.78
+Andrea Costa,Empoli,2085,2,1,0.4,0.809,2.9,2,6.78
+Cristian Dell 39 Orco,Sassuolo,776,0,0,0.0,0.735,1.3,0,6.77
+Gastón Brugman,Pescara,1933,1,1,0.5,0.821,0.6,1,6.77
+Senna Miangué,Inter,123,0,0,0.0,0.8029999999999999,1.0,1,6.77
+Giuseppe Vives,Torino,226,0,0,0.7,0.835,0.0,0,6.77
+Emil Hallfredsson,Udinese,1990,0,4,0.7,0.855,0.8,0,6.77
+Manuel Pasqual,Empoli,2813,2,3,0.4,0.777,0.4,0,6.77
+Etrit Berisha,Atalanta,2340,0,0,0.0,0.5529999999999999,0.1,0,6.76
+Edgar Barreto,Sampdoria,2696,2,0,1.1,0.8109999999999999,1.3,0,6.76
+Daniele Croce,Empoli,2930,1,1,0.5,0.855,0.6,2,6.76
+Gian Marco Ferrari,Crotone,3330,3,1,0.3,0.7,1.4,1,6.76
+Luis Alberto,Lazio,363,1,2,1.3,0.7240000000000001,0.1,1,6.76
+Antonio Barreca,Torino,2360,0,2,0.5,0.8,1.4,0,6.76
+Juraj Kucka,AC Milan,2078,3,1,1.0,0.8059999999999999,2.4,3,6.76
+Alex Cordaz,Crotone,3236,0,0,0.0,0.35,0.2,2,6.75
+Pol Lirola,Sassuolo,1547,0,3,0.3,0.705,0.6,1,6.75
+Antonino Ragusa,Sassuolo,1435,4,2,1.1,0.706,0.4,2,6.75
+Marco Benassi,Torino,2058,5,2,1.6,0.826,0.6,0,6.75
+Abdoulay Konko,Atalanta,618,0,0,0.4,0.799,1.0,0,6.75
+Andrea Rispoli,Palermo,2686,6,3,0.8,0.7759999999999999,0.8,1,6.75
+Vincent Laurini,Empoli,1921,0,0,0.1,0.778,1.4,1,6.75
+Fabio Pisacane,Cagliari,2554,1,1,0.3,0.7709999999999999,1.2,0,6.75
+Samir Handanovic,Inter,3330,0,0,0.0,0.71,0.0,0,6.75
+Darko Lazovic,Genoa,2463,2,4,0.8,0.721,0.3,0,6.75
+Vasco Regini,Sampdoria,2779,0,4,0.3,0.748,1.0,2,6.75
+Éder,Inter,1480,8,4,1.6,0.8420000000000001,0.3,2,6.74
+Saphir Taïder,Bologna,1902,3,0,1.6,0.902,0.3,0,6.74
+Mattia De Sciglio,AC Milan,2091,0,2,0.4,0.858,1.6,0,6.74
+Sven Kums,Udinese,1831,0,1,0.3,0.875,0.6,0,6.74
+Mirko Valdifiori,Torino,1784,0,0,0.4,0.81,0.7,0,6.74
+Nicolás Spolli,Chievo,1591,0,0,0.4,0.855,1.4,0,6.74
+Jean Christophe Bahebeck,Pescara,821,4,1,2.0,0.7290000000000001,1.1,0,6.74
+Karol Linetty,Sampdoria,2386,1,4,0.6,0.8270000000000001,0.7,0,6.74
+Aleandro Rosi,Crotone,2564,1,1,0.5,0.669,1.0,2,6.73
+Gabriele Angella,Udinese,1014,1,0,0.5,0.78,2.6,1,6.73
+Riccardo Meggiorini,Chievo,1737,3,0,1.9,0.629,3.2,1,6.73
+Jakub Jankto,Udinese,1906,5,4,1.1,0.7959999999999999,0.5,2,6.73
+Andrea Nalini,Crotone,815,2,2,0.7,0.6559999999999999,1.7,1,6.72
+Antonio Mirante,Bologna,1880,0,0,0.0,0.6509999999999999,0.2,1,6.72
+Ângelo da Costa,Bologna,1540,0,0,0.0,0.625,0.0,0,6.72
+Lucas Ocampos,AC Milan,535,0,1,1.5,0.831,1.1,1,6.72
+Pepe Reina,Napoli,3330,0,0,0.0,0.769,0.1,1,6.72
+Mattia Destro,Bologna,2475,11,0,2.0,0.7240000000000001,1.6,2,6.72
+Ladislav Krejcí,Bologna,2785,1,8,1.0,0.833,0.6,1,6.72
+Sinisa Andjelkovic,Palermo,1840,0,1,0.3,0.8690000000000001,1.8,0,6.72
+Luca Mazzitelli,Sassuolo,1048,1,2,0.8,0.777,1.5,0,6.72
+Federico Marchetti,Lazio,1486,0,0,0.0,0.6509999999999999,0.1,1,6.72
+Bruno Alves,Cagliari,3240,1,0,0.8,0.8,3.2,0,6.72
+Leonel Vangioni,AC Milan,946,0,0,0.4,0.7659999999999999,0.9,1,6.72
+Leonardo Pavoletti,Genoa,581,3,0,3.2,0.7090000000000001,2.8,1,6.71
+Carlos Sánchez,Fiorentina,2150,1,1,0.5,0.878,1.4,0,6.71
+Mário Rui,Roma,344,0,0,0.4,0.775,0.8,0,6.71
+Lucas Evangelista,Udinese,206,0,1,0.5,0.8170000000000001,0.5,0,6.7
+Danilo,Udinese,3204,2,1,0.4,0.768,1.7,1,6.7
+Patrik Schick,Sampdoria,1507,11,3,1.3,0.7490000000000001,1.1,0,6.7
+Filippo Melegoni,Atalanta,46,0,0,0.0,0.87,0.0,0,6.7
+Pedro Pereira,Sampdoria,788,0,0,0.0,0.7190000000000001,0.5,1,6.7
+Andrea Barzagli,Juventus,1527,0,0,0.1,0.907,1.1,0,6.7
+Gianluca Lapadula,AC Milan,1256,8,3,1.6,0.8109999999999999,0.8,0,6.7
+Nicola Murru,Cagliari,2176,0,1,0.3,0.7240000000000001,1.0,0,6.69
+Milan Skriniar,Sampdoria,2998,0,0,0.3,0.914,1.4,0,6.69
+Danilo Cataldi,Lazio,590,1,1,0.8,0.8370000000000001,0.3,0,6.69
+Carlão,Torino,336,0,0,0.3,0.8959999999999999,3.3,0,6.69
+Massimo Gobbi,Chievo,2604,1,2,0.4,0.7759999999999999,1.1,0,6.69
+Levan Mchedlidze,Empoli,947,6,0,1.8,0.665,2.6,1,6.69
+Molla Wagué,Udinese,540,0,0,0.8,0.8220000000000001,2.0,0,6.69
+Hugo Campagnaro,Pescara,1566,2,0,0.3,0.826,1.5,1,6.68
+Matías Silvestre,Sampdoria,3211,0,3,0.4,0.88,1.7,1,6.68
+Mauricio Isla,Cagliari,2875,1,7,0.3,0.804,1.2,0,6.68
+Federico Chiesa,Fiorentina,1495,3,2,2.0,0.8490000000000001,0.1,1,6.68
+Daniele Gastaldello,Bologna,1925,0,1,0.2,0.8590000000000001,1.5,1,6.68
+Juan Jesus,Roma,1189,0,0,0.2,0.8240000000000001,0.8,0,6.68
+Ledian Memushaj,Pescara,2961,1,3,1.5,0.8,0.6,0,6.68
+Gianluigi Buffon,Juventus,2656,0,0,0.0,0.7759999999999999,0.0,0,6.68
+Filip Helander,Bologna,835,1,0,0.3,0.83,1.1,1,6.68
+Stefano Sorrentino,Chievo,3060,0,0,0.0,0.5329999999999999,0.2,1,6.68
+Mario Pasalic,AC Milan,1762,5,1,1.7,0.84,1.3,1,6.67
+Alessandro Bastoni,Atalanta,153,0,0,0.3,0.774,0.7,0,6.67
+Simone Missiroli,Sassuolo,766,0,0,0.3,0.7190000000000001,2.4,0,6.67
+Përparim Hetemaj,Chievo,1876,0,0,0.7,0.8420000000000001,0.8,0,6.67
+Lucas Ocampos,Genoa,850,3,0,1.8,0.7170000000000001,1.7,0,6.67
+Patrice Evra,Juventus,247,0,0,0.2,0.894,0.5,0,6.67
+Artur Ionita,Cagliari,1304,3,0,0.8,0.782,2.0,1,6.66
+Gustavo Gómez,AC Milan,1083,0,0,0.3,0.866,1.7,0,6.66
+Mario Lemina,Juventus,896,1,1,0.9,0.9,0.2,0,6.66
+Ilija Nestorovski,Palermo,3109,11,3,2.1,0.701,1.7,1,6.66
+Fabrizio Cacciatore,Chievo,2509,1,2,0.6,0.7909999999999999,0.8,1,6.66
+Matías Fernández,AC Milan,654,1,2,0.6,0.9129999999999999,0.2,1,6.65
+Carlos Salcedo,Fiorentina,1346,0,1,0.2,0.851,1.1,0,6.65
+Alberto Aquilani,Pescara,551,1,1,0.7,0.856,0.7,1,6.65
+Jacopo Sala,Sampdoria,1568,0,0,0.2,0.8170000000000001,0.4,0,6.65
+Cristiano Biraghi,Pescara,2990,1,4,0.8,0.762,0.5,0,6.65
+Fabio Depaoli,Chievo,444,0,1,0.0,0.77,0.7,1,6.65
+Stephan Lichtsteiner,Juventus,1871,1,2,0.2,0.787,0.7,0,6.65
+Cesare Bovo,Pescara,818,0,0,0.4,0.812,1.7,0,6.65
+Roberto Inglese,Chievo,1967,10,4,1.3,0.698,1.8,1,6.64
+Haitam Aleesami,Palermo,2631,1,3,0.4,0.7440000000000001,1.2,0,6.64
+Nicolás Burdisso,Genoa,3127,0,0,0.4,0.8029999999999999,1.9,1,6.64
+Luca Ceppitelli,Cagliari,1691,0,0,0.4,0.7959999999999999,2.2,0,6.64
+Riccardo Saponara,Empoli,1533,2,1,1.6,0.785,0.3,1,6.64
+Norbert Gyömbér,Pescara,847,0,0,0.1,0.8740000000000001,1.4,0,6.64
+Francesco Zampano,Pescara,2926,0,5,0.4,0.807,0.3,1,6.64
+Bruno Martella,Crotone,2325,0,0,0.5,0.705,1.6,0,6.64
+Thomas Strakosha,Lazio,1845,0,0,0.0,0.7140000000000001,0.1,0,6.64
+Ezequiel Muñoz,Genoa,2344,0,0,0.3,0.826,1.8,1,6.64
+Riccardo Saponara,Fiorentina,417,2,2,1.6,0.833,0.3,0,6.64
+Cristian Ansaldi,Inter,1507,0,1,0.3,0.7509999999999999,0.3,0,6.63
+Andrea Barberis,Crotone,2063,0,3,0.7,0.701,1.0,0,6.63
+Mauro Zárate,Fiorentina,207,2,1,1.7,0.847,0.1,0,6.63
+Archimede Morleo,Bologna,24,0,0,0.0,0.9229999999999999,1.0,0,6.63
+Carlos Bacca,AC Milan,2128,13,3,1.8,0.7609999999999999,0.7,1,6.63
+Gary Medel,Inter,2171,0,0,0.4,0.9,0.7,0,6.63
+Amadou Diawara,Napoli,1040,0,0,0.3,0.898,0.4,0,6.62
+Isaac Cofie,Genoa,1003,0,1,0.3,0.802,0.7,0,6.62
+Andrea Seculin,Chievo,360,0,0,0.0,0.63,0.3,0,6.62
+Marco Sau,Cagliari,2342,7,5,1.4,0.8,0.1,1,6.62
+Robin Quaison,Palermo,1079,4,0,1.4,0.746,0.5,0,6.62
+Alberto Pelagotti,Empoli,270,0,0,0.0,0.7809999999999999,0.7,0,6.62
+Alberto Aquilani,Sassuolo,1236,0,0,0.6,0.81,1.1,0,6.62
+Marco Faraoni,Udinese,328,0,0,0.8,0.809,0.2,0,6.61
+Alfred Duncan,Sassuolo,1328,1,1,0.9,0.695,0.9,0,6.61
+Bruno Fernandes,Sampdoria,1725,5,2,1.8,0.747,0.2,1,6.61
+Yuto Nagatomo,Inter,1019,0,0,0.2,0.7709999999999999,1.1,0,6.61
+Marco Festa,Crotone,183,0,0,0.0,0.39399999999999996,0.0,0,6.6
+Dennis Praet,Sampdoria,1801,1,1,1.0,0.7979999999999999,0.6,0,6.6
+Eugenio Lamanna,Genoa,1881,0,0,0.0,0.569,0.2,2,6.6
+Giuseppe Pezzella,Palermo,805,0,0,0.5,0.693,0.6,0,6.6
+Vincenzo Fiorillo,Pescara,810,0,0,0.0,0.5539999999999999,0.3,0,6.6
+Godfred Donsah,Bologna,888,0,2,0.7,0.77,1.0,0,6.59
+Daniel Pavlovic,Sampdoria,721,0,0,0.7,0.725,0.9,1,6.59
+Emmanuel Badu,Udinese,2031,0,3,0.7,0.804,1.3,0,6.59
+Wallace,Lazio,1736,1,0,0.3,0.816,2.0,0,6.59
+Alessandro Gazzi,Palermo,1941,0,0,0.1,0.8809999999999999,1.7,0,6.59
+Marios Oikonomou,Bologna,1244,0,0,0.3,0.847,1.5,1,6.59
+Lucas Orbán,Genoa,774,0,0,0.1,0.852,1.0,0,6.58
+Marcello Trotta,Crotone,1886,3,5,2.0,0.7140000000000001,0.6,0,6.58
+Jordan Lukaku,Lazio,846,0,1,0.1,0.858,0.4,0,6.58
+Federico Melchiorri,Cagliari,461,3,0,1.4,0.491,1.1,1,6.58
+Sasa Lukic,Torino,773,0,0,0.5,0.882,0.4,0,6.57
+Nikola Ninkovic,Genoa,653,2,1,1.7,0.728,0.3,0,6.57
+Marcello Gazzola,Sassuolo,1375,0,1,0.4,0.71,1.6,0,6.57
+Mato Jajalo,Palermo,1861,1,1,0.9,0.841,0.7,1,6.57
+Claud Adjapong,Sassuolo,509,1,0,1.1,0.7040000000000001,0.9,0,6.57
+Juan Iturbe,Torino,539,1,3,0.6,0.762,0.2,0,6.57
+Luca Rigoni,Genoa,2359,3,1,0.9,0.805,1.2,0,6.56
+Dusan Basta,Lazio,2125,1,2,0.4,0.8,0.6,0,6.56
+Orestis Karnezis,Udinese,2959,0,0,0.0,0.48200000000000004,0.3,1,6.56
+Nicolò Barella,Cagliari,1910,0,1,0.6,0.804,0.8,0,6.56
+Erick Pulgar,Bologna,1585,1,1,0.6,0.835,0.7,1,6.56
+Bartosz Salamon,Cagliari,831,0,0,0.5,0.816,1.7,0,6.56
+Raffaele Palladino,Genoa,855,0,0,1.1,0.753,0.5,0,6.56
+Lorenzo Crisetig,Crotone,2539,0,1,0.4,0.764,1.2,0,6.56
+Edoardo Goldaniga,Palermo,2327,2,1,0.4,0.769,1.5,1,6.55
+Ciprian Tatarusanu,Fiorentina,3100,0,0,0.0,0.688,0.1,1,6.55
+Alessandro Diamanti,Palermo,1701,1,5,1.4,0.763,0.1,0,6.55
+Giovanni Simeone,Genoa,2618,12,1,2.2,0.6579999999999999,1.6,2,6.55
+Andrija Balic,Udinese,242,1,0,1.0,0.8640000000000001,0.0,0,6.55
+Lorenzo De Silvestri,Torino,1258,1,4,0.3,0.736,1.6,0,6.55
+Stefano Sturaro,Juventus,1036,0,1,1.0,0.8029999999999999,0.8,0,6.55
+Timo Letschert,Sassuolo,664,0,0,0.0,0.809,1.4,0,6.55
+M 39 Baye Niang,AC Milan,1123,3,2,1.9,0.762,0.8,0,6.55
+Ádám Nagy,Bologna,1813,0,1,0.3,0.899,0.2,0,6.54
+Ricardo Álvarez,Sampdoria,979,2,2,1.6,0.8290000000000001,0.6,0,6.54
+Santiago Gentiletti,Genoa,1220,0,1,0.2,0.8540000000000001,0.8,0,6.54
+Angelo Palombo,Sampdoria,218,0,0,0.5,0.879,1.5,0,6.53
+Marco D 39 Alessandro,Atalanta,749,1,1,0.5,0.7809999999999999,0.1,0,6.53
+Pablo Armero,Udinese,180,0,0,0.0,0.72,0.0,0,6.53
+Nenad Tomovic,Fiorentina,1819,0,1,0.2,0.868,1.0,0,6.53
+Claiton,Crotone,709,0,1,0.3,0.785,1.2,0,6.53
+Patric,Lazio,1011,0,1,0.8,0.8540000000000001,0.6,0,6.53
+Keisuke Honda,AC Milan,220,1,0,0.5,0.813,0.3,0,6.52
+José Mauri,Empoli,873,0,0,0.3,0.858,0.3,0,6.52
+Adrian Stoian,Crotone,1570,3,2,0.7,0.624,0.3,0,6.52
+Guglielmo Stendardo,Atalanta,45,0,0,0.0,0.667,1.0,0,6.52
+Marcus Rohdén,Crotone,2458,1,4,0.5,0.6890000000000001,1.0,0,6.52
+Edenílson,Genoa,899,0,3,0.2,0.7909999999999999,0.1,0,6.52
+Mattia Perin,Genoa,1359,0,0,0.0,0.56,0.0,0,6.52
+Robert Muric,Pescara,185,1,0,1.0,0.782,0.0,0,6.51
+Joe Hart,Torino,3240,0,0,0.0,0.6890000000000001,0.1,1,6.51
+Hans Hateboer,Atalanta,289,0,1,0.5,0.691,0.5,0,6.51
+Vasilis Torosidis,Bologna,1940,1,0,0.4,0.8170000000000001,0.7,0,6.51
+Bruno Henrique,Palermo,2216,1,3,0.7,0.843,0.6,0,6.51
+Clément Grenier,Roma,150,0,1,0.2,0.807,0.8,0,6.5
+Joel Obi,Torino,773,0,3,0.6,0.879,0.4,0,6.5
+Djamel Mesbah,Crotone,680,0,0,0.2,0.674,0.6,0,6.5
+Assane Dioussé,Empoli,2405,0,0,0.3,0.8640000000000001,0.6,0,6.5
+Paolo Faragò,Cagliari,339,0,0,0.3,0.693,0.9,0,6.5
+Andrea Bertolacci,AC Milan,748,1,0,0.6,0.8290000000000001,0.4,0,6.49
+Arkadiusz Milik,Napoli,547,5,0,1.3,0.805,0.2,0,6.49
+Maximiliano Olivera,Fiorentina,1113,0,2,0.0,0.782,0.6,0,6.49
+Raffaele Palladino,Crotone,1434,2,1,1.5,0.722,0.8,0,6.48
+Adel Taarabt,Genoa,209,0,3,1.0,0.8290000000000001,0.0,0,6.48
+Federico Ricci,Sassuolo,1060,2,0,0.9,0.7659999999999999,0.4,0,6.48
+Manuel Pucciarelli,Empoli,2304,3,1,1.2,0.7979999999999999,0.3,0,6.48
+Josef Martínez,Torino,524,1,0,1.5,0.81,1.2,0,6.48
+Alberto Cerri,Pescara,696,2,0,1.2,0.708,1.9,0,6.48
+Giancarlo González,Palermo,1660,1,0,0.2,0.795,1.7,0,6.47
+Mauricio Pinilla,Atalanta,157,1,0,1.5,0.644,2.0,0,6.47
+Ahmed Benali,Pescara,2503,6,2,1.1,0.8390000000000001,0.4,0,6.47
+Eddy Gnahoré,Crotone,26,0,0,0.0,0.7240000000000001,1.0,0,6.47
+Matheus Pereira,Empoli,5,0,0,1.0,0.667,0.0,0,6.47
+Stipe Perica,Udinese,1065,6,1,1.2,0.732,0.9,0,6.47
+Sergio Pellissier,Chievo,1732,9,2,1.2,0.6970000000000001,1.3,0,6.47
+Bruno Petkovic,Bologna,524,0,0,0.8,0.6729999999999999,1.8,0,6.46
+Alessandro Murgia,Lazio,483,2,0,0.4,0.843,0.2,0,6.46
+Bastos,Lazio,774,0,0,0.3,0.884,1.2,0,6.46
+Lucas Boyé,Torino,1449,1,2,1.2,0.727,0.2,0,6.46
+Thomas Vermaelen,Roma,388,0,0,0.0,0.8809999999999999,1.3,0,6.46
+Francesco Totti,Roma,364,2,3,1.1,0.767,0.0,0,6.45
+Valerio Verre,Pescara,1913,0,2,1.3,0.78,0.7,0,6.45
+Federico Barba,Empoli,811,0,0,0.4,0.8590000000000001,2.0,0,6.45
+Alberto Grassi,Atalanta,690,1,0,0.7,0.8320000000000001,0.8,0,6.45
+Andrea Beghetto,Genoa,150,0,0,0.3,0.718,0.0,0,6.44
+Toni Sunjic,Palermo,242,0,0,0.3,0.866,1.9,1,6.44
+Gennaro Ruggiero,Palermo,150,0,0,0.5,0.6970000000000001,0.0,0,6.44
+Bryan Cristante,Pescara,979,0,0,0.9,0.75,1.9,0,6.44
+Frédéric Veseli,Empoli,1177,0,2,0.1,0.841,1.1,0,6.44
+Rodrigo Palacio,Inter,427,0,3,0.9,0.74,0.9,0,6.43
+Carlos Embaló,Palermo,623,0,1,0.9,0.7559999999999999,0.3,0,6.43
+Tomás Rincón,Juventus,301,0,1,0.1,0.9,0.4,0,6.43
+Marco Andreolli,Inter,362,1,0,0.8,0.8959999999999999,1.2,0,6.43
+Ianis Hagi,Fiorentina,48,0,0,1.0,1.0,0.0,0,6.43
+Federico Dimarco,Empoli,647,0,1,0.8,0.757,0.1,0,6.42
+Federico Di Francesco,Bologna,1083,4,3,1.0,0.755,0.0,0,6.42
+Andrés Tello,Empoli,819,0,0,0.4,0.787,0.7,0,6.42
+Leonardo Capezzi,Crotone,1634,0,0,1.0,0.715,0.7,0,6.41
+Mame Thiam,Empoli,872,1,1,1.9,0.741,1.1,0,6.41
+Marko Rog,Napoli,373,0,0,0.7,0.9159999999999999,0.1,0,6.41
+Noë Dussenne,Crotone,463,0,0,0.4,0.784,1.5,0,6.41
+Afriyie Acquah,Torino,1073,2,0,0.8,0.8340000000000001,0.8,0,6.41
+Ali Adnan,Udinese,867,0,0,0.6,0.748,1.0,0,6.41
+Mario Sampirisi,Crotone,1198,1,1,0.1,0.6890000000000001,0.4,0,6.4
+Olivier Ntcham,Genoa,970,3,1,1.1,0.8370000000000001,0.4,0,6.4
+Samuel Bastien,Chievo,799,1,0,0.4,0.89,0.3,0,6.4
+Raffaele Maiello,Empoli,60,0,0,0.0,0.773,0.0,0,6.4
+Alessandro Matri,Sassuolo,1460,8,0,1.0,0.75,0.4,1,6.4
+Miha Zajc,Empoli,103,1,1,0.8,0.8420000000000001,0.4,0,6.4
+Daniele Dessena,Cagliari,1193,2,0,0.8,0.723,0.6,1,6.39
+Serge Gakpé,Genoa,309,1,0,1.0,0.6990000000000001,0.5,0,6.39
+Mariano Izco,Chievo,1166,0,1,0.5,0.818,0.3,0,6.39
+Oscar Hiljemark,Genoa,804,2,0,0.6,0.8640000000000001,0.6,0,6.39
+Alessandro Deiola,Cagliari,245,0,0,1.0,0.805,0.4,0,6.39
+Davide Biraschi,Genoa,392,0,0,0.4,0.805,0.1,0,6.39
+Bostjan Cesar,Chievo,1435,1,0,0.5,0.852,1.5,0,6.38
+Albano Bizzarri,Pescara,2610,0,0,0.0,0.64,0.1,0,6.38
+Stefano Pettinari,Pescara,255,0,0,1.5,0.795,0.8,0,6.38
+Antonio Floro Flores,Chievo,554,0,1,1.8,0.7190000000000001,1.6,0,6.38
+Sergio Floccari,Bologna,242,0,0,0.4,0.7859999999999999,1.4,0,6.38
+Filip Djuricic,Sampdoria,502,0,1,0.3,0.833,0.2,1,6.38
+Josip Posavec,Palermo,2610,0,0,0.0,0.5579999999999999,0.1,0,6.38
+Patrick Cutrone,AC Milan,5,0,0,1.0,0.0,0.0,0,6.37
+Pietro Iemmello,Sassuolo,502,5,0,1.2,0.705,0.4,1,6.37
+Boadu Maxwell Acosty,Crotone,373,0,0,0.7,0.83,0.6,0,6.37
+Dodô,Sampdoria,369,0,0,0.0,0.755,0.0,0,6.37
+Manolo Gabbiadini,Napoli,514,3,0,1.8,0.701,0.1,0,6.36
+Simone Scuffet,Udinese,461,0,0,0.0,0.424,0.0,0,6.36
+Oscar Hiljemark,Palermo,1054,0,0,0.8,0.85,0.5,0,6.36
+Roberto Biancu,Cagliari,10,0,0,0.0,0.6,0.0,0,6.36
+Riccardo Fiamozzi,Genoa,105,0,0,0.3,0.9229999999999999,0.3,0,6.36
+Moise Kean,Juventus,18,1,0,0.3,1.0,0.0,0,6.35
+Guido Marilungo,Empoli,944,0,4,0.5,0.716,0.2,0,6.35
+Jonathan de Guzmán,Chievo,1357,2,1,0.5,0.8270000000000001,0.3,0,6.35
+Emil Krafth,Bologna,1651,0,0,0.2,0.797,0.7,0,6.35
+Alessandro Crescenzi,Pescara,1404,0,1,0.3,0.8079999999999999,0.6,0,6.35
+Nicola Rigoni,Chievo,501,1,0,0.6,0.716,0.6,1,6.34
+Simone Padoin,Cagliari,2174,1,1,0.3,0.797,0.2,0,6.34
+Guglielmo Stendardo,Pescara,647,0,0,0.3,0.8109999999999999,0.8,0,6.34
+Danilo Cataldi,Genoa,930,0,0,0.5,0.868,0.2,0,6.34
+Juan Carrizo,Inter,90,0,0,0.0,0.654,0.0,0,6.34
+Alessandro Bruno,Pescara,973,0,0,0.0,0.821,0.9,0,6.34
+Davide Biondini,Sassuolo,853,0,0,0.3,0.825,0.7,0,6.34
+Panagiotis Kone,Udinese,300,0,0,1.2,0.858,0.4,0,6.33
+Gabriel Barbosa,Inter,113,1,0,1.1,0.8590000000000001,0.0,0,6.33
+Anthony Mounier,Atalanta,99,0,0,1.0,0.742,0.4,0,6.32
+Ricardo Kishna,Lazio,157,0,0,0.4,0.708,0.6,0,6.32
+Marco Storari,Cagliari,1257,0,0,0.0,0.494,0.0,0,6.32
+Mirko Eramo,Sampdoria,4,0,0,1.0,0.33299999999999996,0.0,0,6.32
+Massimo Maccarone,Empoli,1511,5,2,1.8,0.679,0.5,0,6.32
+Andrea Pinamonti,Inter,19,0,0,1.0,0.667,0.5,0,6.32
+Michele Fornasier,Pescara,1614,0,1,0.0,0.847,1.1,0,6.31
+Hrvoje Milicevic,Pescara,132,0,0,0.3,0.8079999999999999,0.7,0,6.31
+Luca Crecco,Lazio,53,1,0,0.7,0.643,0.7,0,6.31
+Han Kwang Song,Cagliari,59,1,0,0.8,0.6920000000000001,0.4,0,6.31
+Andrea Coda,Pescara,1004,0,0,0.2,0.763,1.2,0,6.31
+Marko Pjaca,Juventus,448,0,0,0.9,0.726,0.4,0,6.31
+Goran Pandev,Genoa,852,3,0,1.1,0.762,0.5,0,6.3
+Emanuele Terranova,Sassuolo,196,0,0,0.3,0.875,1.0,0,6.3
+Sebastián Cristóforo,Fiorentina,684,0,2,0.3,0.878,0.3,0,6.3
+Marcel Büchel,Empoli,823,0,0,0.6,0.8220000000000001,1.0,0,6.3
+Luca Rizzo,Bologna,452,0,0,0.4,0.718,0.7,0,6.3
+Leonardo Pavoletti,Napoli,194,0,0,1.2,0.7709999999999999,0.5,0,6.3
+Daniele Padelli,Torino,180,0,0,0.0,0.841,0.0,0,6.3
+Gerson,Roma,132,0,0,0.0,0.895,0.3,0,6.29
+Marco Zambelli,Empoli,395,0,0,0.1,0.805,0.3,0,6.29
+Assane Gnoukouri,Inter,140,0,0,0.3,0.863,0.8,0,6.29
+Ryder,Udinese,541,0,0,0.7,0.8290000000000001,0.3,0,6.28
+Andrea Poli,AC Milan,380,0,0,0.2,0.9329999999999999,0.2,0,6.28
+Roberto Vitiello,Palermo,373,0,0,0.0,0.867,0.6,0,6.27
+Alexandru Mitrita,Pescara,484,1,2,0.7,0.804,0.1,0,6.27
+Marco Capuano,Cagliari,769,1,0,0.3,0.784,0.5,0,6.27
+Orji Okwonkwo,Bologna,244,0,2,0.3,0.831,0.6,0,6.27
+Cristian Raimondi,Atalanta,331,0,0,0.4,0.828,0.6,0,6.27
+Mauricio Pinilla,Genoa,552,0,1,1.9,0.569,3.0,0,6.26
+Accursio Bentivegna,Palermo,90,0,0,0.3,0.733,0.0,0,6.25
+Luca Bittante,Cagliari,309,0,0,0.2,0.6970000000000001,0.2,0,6.24
+Giorgio Spizzichino,Lazio,11,0,0,0.0,0.5710000000000001,0.0,0,6.24
+Samuel Gustafson,Torino,221,0,0,0.0,0.815,0.2,0,6.24
+Senna Miangué,Cagliari,133,0,0,0.0,0.72,0.3,0,6.24
+Felipe Melo,Inter,177,0,0,0.2,0.81,1.6,0,6.23
+Aleksandar Trajkovski,Palermo,437,1,0,0.6,0.8190000000000001,0.2,0,6.23
+Bartlomiej Dragowski,Fiorentina,90,0,0,0.0,0.826,0.0,0,6.23
+Pietro Pellegri,Genoa,74,1,0,0.7,0.6,0.0,0,6.23
+Thomas Heurtaux,Udinese,526,0,1,0.3,0.775,0.3,0,6.23
+Aleksandar Tonev,Crotone,750,1,0,1.7,0.655,0.3,0,6.22
+Ante Budimir,Sampdoria,304,0,0,0.9,0.6559999999999999,0.8,0,6.22
+Gianluca Pegolo,Sassuolo,90,0,0,0.0,0.75,0.0,0,6.22
+Rey Manaj,Pescara,470,2,0,1.2,0.691,1.1,0,6.22
+Cristiano Lombardi,Lazio,426,1,0,0.6,0.69,0.2,0,6.22
+Sulley Muntari,Pescara,533,1,0,0.4,0.7340000000000001,0.8,0,6.21
+Adalberto Peñaranda,Udinese,156,0,0,1.0,0.878,0.2,0,6.21
+Serge Gakpé,Chievo,249,0,0,1.4,0.6709999999999999,0.3,0,6.2
+Simone Pepe,Pescara,391,0,0,1.3,0.759,0.4,0,6.2
+Bryan Cabezas,Atalanta,22,0,0,1.0,0.875,0.0,0,6.2
+Maximiliano López,Torino,427,2,0,0.8,0.6729999999999999,0.5,0,6.2
+Gabriel Silva,Udinese,232,0,0,0.0,0.8029999999999999,0.8,0,6.19
+Giovanni Marchese,Genoa,8,0,0,0.0,0.6,0.0,0,6.19
+Giulio Migliaccio,Atalanta,10,0,0,0.0,0.75,0.3,0,6.18
+Arlind Ajeti,Torino,250,1,0,0.8,0.7879999999999999,1.5,0,6.18
+Aniello Salzano,Crotone,500,0,0,0.4,0.754,0.7,0,6.18
+Anthony Mounier,Bologna,293,0,0,0.5,0.713,0.5,0,6.17
+Filippo Costa,Chievo,49,0,0,0.0,0.667,2.0,0,6.17
+Trent Sainsbury,Inter,19,0,0,0.0,0.857,0.0,0,6.17
+Simy,Crotone,564,3,0,0.7,0.669,0.9,0,6.17
+Filip Djordjevic,Lazio,458,0,0,0.4,0.695,0.9,0,6.17
+Norbert Balogh,Palermo,528,0,0,0.6,0.6829999999999999,0.8,0,6.16
+Marco Sportiello,Atalanta,720,0,0,0.0,0.5710000000000001,0.3,0,6.15
+Stevan Jovetic,Inter,69,0,0,0.0,0.733,0.8,0,6.15
+Umar Sadiq,Bologna,230,0,1,0.7,0.746,0.6,0,6.14
+Roland Sallai,Palermo,958,1,0,1.4,0.825,0.6,0,6.14
+Ewandro,Udinese,56,0,0,0.2,0.75,0.0,0,6.14
+Juan Iturbe,Roma,38,0,0,1.0,0.688,0.2,0,6.14
+Moritz Leitner,Lazio,13,0,0,0.0,0.9129999999999999,0.0,0,6.14
+Stefan Silva,Palermo,16,0,0,0.0,0.833,0.0,0,6.13
+Omar El Kaddouri,Napoli,39,0,0,0.4,0.8290000000000001,0.4,0,6.12
+Sebastien De Maio,Fiorentina,540,0,0,0.2,0.925,0.2,0,6.12
+Alex Ferrari,Bologna,90,0,0,0.0,0.7559999999999999,0.0,0,6.12
+Mattia Aramu,Torino,46,0,0,1.0,0.5,1.0,0,6.12
+Michel Morganella,Palermo,650,0,0,0.5,0.691,1.0,0,6.11
+Mamadou Coulibaly,Pescara,487,0,0,0.1,0.721,0.8,0,6.11
+Sofian Kiyine,Chievo,65,0,0,0.6,0.8270000000000001,0.3,0,6.11
+Emanuele Giaccherini,Napoli,286,1,0,0.4,0.8290000000000001,0.1,0,6.11
+Niccolò Giannetti,Cagliari,240,0,0,1.1,0.633,1.4,0,6.1
+Grigoris Kastanos,Pescara,279,0,0,0.6,0.7959999999999999,0.8,0,6.1
+Emanuel Vignato,Chievo,31,0,0,0.0,0.625,0.0,0,6.1
+Alberto Paloschi,Atalanta,436,0,0,0.7,0.6779999999999999,0.4,0,6.09
+Dario Zuparic,Pescara,338,0,0,0.3,0.792,0.7,0,6.09
+Cazim Suljic,Crotone,11,0,0,0.0,0.5,0.0,0,6.09
+Giuseppe Cuomo,Crotone,3,0,0,0.0,1.0,0.0,0,6.09
+Gennaro Sardo,Chievo,6,0,0,0.0,0.0,1.0,0,6.08
+Simone Lo Faso,Palermo,246,0,0,0.7,0.8270000000000001,0.0,0,6.08
+Lamin Jallow,Chievo,14,0,0,0.5,0.8,0.5,0,6.07
+Mamadou Tounkara,Lazio,4,0,0,0.0,0.0,1.0,0,6.07
+Rolando Mandragora,Juventus,4,0,0,1.0,1.0,0.0,0,6.07
+Alessandro Rossi,Lazio,43,0,0,0.3,0.615,0.3,0,6.07
+Federico Serra,Cagliari,11,0,0,0.0,0.0,0.0,0,6.06
+Luiz Adriano,AC Milan,121,0,0,0.4,0.6759999999999999,0.9,0,6.06
+Gianni Munari,Cagliari,350,0,0,0.0,0.8240000000000001,0.5,0,6.06
+Andrej Kotnik,Crotone,30,0,0,1.0,0.778,1.0,0,6.06
+Arnel Jakupovic,Empoli,2,0,0,0.0,0.75,1.0,0,6.05
+Diego Falcinelli,Sassuolo,16,0,0,0.0,1.0,0.0,0,6.04
+Pietro De Giorgio,Crotone,9,0,0,0.0,0.667,0.0,0,6.04
+Leonardo Morosini,Genoa,91,0,0,0.5,0.7240000000000001,0.0,0,6.03
+Nunzio Di Roberto,Crotone,6,0,0,0.0,1.0,0.0,0,6.03
+Slobodan Rajkovic,Palermo,299,0,0,0.5,0.846,1.5,0,6.03
+Giuseppe Rossi,Fiorentina,10,0,0,0.0,1.0,0.0,0,6.02
+Ouasim Bouy,Palermo,36,0,0,0.5,0.762,0.0,0,6.02
+Aleksandar Pesic,Atalanta,83,0,0,0.7,0.667,0.2,0,6.02
+Davide Vitturini,Pescara,145,0,0,0.0,0.7959999999999999,0.0,0,6.01
+Alberto Gilardino,Empoli,593,0,0,0.4,0.696,0.4,0,6.0
+Giuseppe Borello,Crotone,1,0,0,0.0,0.0,0.0,0,6.0
+Jonathan Biabiany,Inter,1,0,0,1.0,0.0,0.0,0,6.0
+Roberto Colombo,Cagliari,3,0,0,0.0,0.5,0.0,0,6.0
+Victor Ibarbo,Cagliari,36,0,0,0.3,1.0,0.0,0,6.0
+Emil Audero,Juventus,90,0,0,0.0,0.8,0.0,0,5.99
+Gabriel Vasconcelos,Cagliari,270,0,0,0.0,0.322,0.7,0,5.98
+Kevin Diks,Fiorentina,5,0,0,0.0,0.9229999999999999,0.0,0,5.98
+Vittorio Parigini,Chievo,23,0,0,0.0,0.8,0.0,0,5.97
+Franjo Prce,Lazio,1,0,0,0.0,0.33299999999999996,0.0,0,5.96
+Andrés Cubas,Pescara,8,0,0,0.0,0.667,0.0,0,5.95
+Rafael Cabral,Napoli,90,0,0,0.0,0.833,0.0,0,5.95
+Alberto Gilardino,Pescara,101,0,0,1.0,0.818,0.3,0,5.93
+Marco Sportiello,Fiorentina,180,0,0,0.0,0.78,0.0,0,5.9
+Nicolò Fazzi,Crotone,6,0,0,0.0,1.0,0.0,0,5.88
+Francesco Lodi,Udinese,11,0,0,0.0,0.75,0.0,0,5.85
+Joshua Pérez,Fiorentina,16,0,0,0.0,1.0,0.0,0,5.82
+Jan Mlakar,Fiorentina,20,0,0,1.0,1.0,0.0,0,5.8
+Marko Pajac,Cagliari,8,0,0,0.0,1.0,0.0,0,5.74
+Ivan Vargic,Lazio,90,0,0,0.0,0.96,0.0,0,5.66
+Rubinho,Genoa,180,0,0,0.0,0.564,0.0,0,5.6
+Carlos Carmona,Atalanta,101,0,0,0.0,0.826,0.0,0,5.56

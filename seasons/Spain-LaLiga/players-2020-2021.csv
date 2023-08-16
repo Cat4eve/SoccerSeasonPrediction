@@ -1,0 +1,604 @@
+name,team,min,goal,assist,shot,pass,aer,mom,rating
+Lionel Messi,Barcelona,3023,30,9,5.6,0.851,0.2,22,8.52
+Gerard Moreno,Villarreal,2683,23,7,2.9,0.6970000000000001,1.9,12,7.62
+Karim Benzema,Real Madrid,2902,23,9,3.6,0.846,0.8,8,7.57
+Casemiro,Real Madrid,2903,6,4,1.4,0.8390000000000001,3.0,4,7.36
+Iago Aspas,Celta Vigo,2871,14,13,1.5,0.7879999999999999,0.5,8,7.32
+Marcos Llorente,Atletico,2960,12,11,1.3,0.846,0.6,4,7.26
+Mikel Merino,Real Sociedad,2157,2,4,1.3,0.767,3.2,4,7.24
+Toni Kroos,Real Madrid,2122,3,10,1.2,0.9359999999999999,0.4,3,7.22
+Joselu,Deportivo Alaves,3038,11,3,2.5,0.586,6.9,5,7.22
+Kieran Trippier,Atletico,2477,0,6,0.1,0.794,1.5,2,7.2
+Lionel Messi,Barcelona,3023,30,9,5.6,0.851,0.2,22,8.52
+Ángel Jiménez,Granada,90,0,0,0.0,0.452,1.0,0,8.24
+Gerard Moreno,Villarreal,2683,23,7,2.9,0.6970000000000001,1.9,12,7.62
+Karim Benzema,Real Madrid,2902,23,9,3.6,0.846,0.8,8,7.57
+Ansu Fati,Barcelona,437,4,0,2.0,0.838,0.3,2,7.38
+Casemiro,Real Madrid,2903,6,4,1.4,0.8390000000000001,3.0,4,7.36
+Iago Aspas,Celta Vigo,2871,14,13,1.5,0.7879999999999999,0.5,8,7.32
+Marcos Llorente,Atletico,2960,12,11,1.3,0.846,0.6,4,7.26
+Mikel Merino,Real Sociedad,2157,2,4,1.3,0.767,3.2,4,7.24
+Toni Kroos,Real Madrid,2122,3,10,1.2,0.9359999999999999,0.4,3,7.22
+Joselu,Deportivo Alaves,3038,11,3,2.5,0.586,6.9,5,7.22
+Kieran Trippier,Atletico,2477,0,6,0.1,0.794,1.5,2,7.2
+Lucas Vázquez,Real Madrid,1851,2,5,0.9,0.877,0.4,2,7.2
+Geoffrey Kondogbia,Valencia,441,0,0,0.8,0.856,1.4,1,7.19
+Diego Llorente,Real Sociedad,90,0,0,0.0,0.828,3.0,0,7.18
+Antoine Griezmann,Barcelona,2621,13,7,2.0,0.873,0.5,4,7.17
+Javi Galán,SD Huesca,3068,1,2,0.2,0.802,0.4,5,7.16
+Yannick Carrasco,Atletico,2189,6,10,1.4,0.807,0.1,4,7.16
+Luis Suárez,Atletico,2521,21,3,3.3,0.718,0.8,4,7.16
+Luka Modric,Real Madrid,2744,5,3,1.3,0.8809999999999999,0.5,5,7.15
+Frenkie de Jong,Barcelona,3159,3,4,0.5,0.919,1.1,2,7.13
+Nabil Fekir,Real Betis,2637,5,5,2.6,0.853,0.8,6,7.12
+José Campaña,Levante,747,1,2,1.4,0.825,0.4,3,7.12
+Dani Parejo,Villarreal,3120,3,4,0.8,0.902,0.7,1,7.1
+Thomas Partey,Atletico,199,0,0,1.7,0.8909999999999999,0.7,1,7.09
+Jony Álamo,Elche,74,0,0,1.0,0.875,0.0,0,7.09
+Carlos Soler,Valencia,2737,11,8,1.2,0.858,0.6,4,7.05
+Mikel Oyarzabal,Real Sociedad,2432,11,8,1.9,0.767,0.6,2,7.05
+Alexander Isak,Real Sociedad,2361,17,2,2.4,0.727,1.2,6,7.03
+Rober Correa,Eibar,1140,0,2,0.4,0.7070000000000001,3.2,1,7.01
+Ousmane Dembélé,Barcelona,1781,6,3,1.8,0.858,0.3,3,7.01
+Jules Koundé,Sevilla,2976,2,1,0.6,0.9009999999999999,3.0,4,7.01
+Fernando,Sevilla,2547,3,4,0.2,0.897,1.8,1,7.0
+Jordi Alba,Barcelona,3030,3,5,0.8,0.8690000000000001,0.1,0,7.0
+David Silva,Real Sociedad,1408,2,5,1.0,0.85,0.5,0,6.99
+Emerson Royal,Real Betis,2993,1,4,0.3,0.812,1.8,2,6.98
+Bryan Gil,Eibar,2273,4,3,1.4,0.78,0.5,1,6.96
+Manu Sánchez,Atletico,50,0,1,0.0,0.76,0.0,0,6.96
+Sergio Barcia,Granada,90,0,0,0.0,0.478,2.0,0,6.96
+Sergio Ramos,Real Madrid,1277,2,0,1.1,0.919,2.0,1,6.96
+Sergio Canales,Real Betis,2502,8,6,1.5,0.8740000000000001,0.3,0,6.95
+Guido Rodríguez,Real Betis,2873,1,0,0.9,0.84,1.6,3,6.95
+Kike García,Eibar,3105,12,2,2.4,0.6809999999999999,5.1,3,6.95
+Ángel Correa,Atletico,2412,9,8,1.4,0.8,0.3,2,6.94
+Dani Carvajal,Real Madrid,952,0,2,0.7,0.847,1.1,0,6.93
+Lucas Ocampos,Sevilla,2648,5,4,2.0,0.773,0.9,4,6.93
+Stefan Savic,Atletico,2954,1,0,0.2,0.852,2.8,2,6.91
+Koke,Atletico,3026,1,2,0.5,0.893,0.7,0,6.9
+Maximiliano Gómez,Valencia,2699,7,1,1.7,0.6579999999999999,3.8,0,6.9
+Suso,Sevilla,2234,3,4,1.4,0.86,0.1,1,6.89
+Jesús Navas,Sevilla,2836,0,6,0.4,0.821,0.6,2,6.88
+Sergio Busquets,Barcelona,2530,0,5,0.1,0.9129999999999999,1.1,0,6.88
+Renato Tapia,Celta Vigo,2710,0,1,0.5,0.812,2.0,4,6.88
+Youssef En Nesyri,Sevilla,2314,18,0,2.1,0.682,2.5,6,6.87
+Jan Oblak,Atletico,3420,0,0,0.0,0.589,0.2,2,6.87
+Santi Mina,Celta Vigo,2423,12,3,1.3,0.72,3.0,2,6.87
+Éder Militão,Real Madrid,1134,1,0,0.9,0.9059999999999999,2.2,1,6.86
+Fidel,Elche,2404,6,3,0.6,0.778,0.3,1,6.86
+Mauro Arambarri,Getafe,2990,3,0,1.4,0.732,1.6,1,6.86
+Raphaël Varane,Real Madrid,2717,2,0,0.5,0.8959999999999999,2.4,0,6.85
+Jasper Cillessen,Valencia,900,0,0,0.0,0.547,0.1,0,6.84
+Marcos Acuña,Sevilla,2331,1,2,0.6,0.8420000000000001,0.8,2,6.84
+Ferland Mendy,Real Madrid,2207,1,0,0.5,0.903,0.4,1,6.84
+David García,Osasuna,3150,1,0,0.4,0.7190000000000001,4.6,3,6.84
+Jawad El Yamiq,Real Valladolid,1377,0,1,0.4,0.785,2.6,2,6.83
+Gonçalo Guedes,Valencia,2301,5,5,1.6,0.75,0.3,3,6.83
+Thomas Lemar,Atletico,1376,1,3,0.9,0.856,0.3,2,6.83
+Yeray Álvarez,Athletic Bilbao,1949,1,0,0.4,0.8240000000000001,2.6,0,6.83
+Alex Berenguer,Athletic Bilbao,2289,8,4,1.4,0.753,0.7,2,6.83
+Nolito,Celta Vigo,2628,7,5,1.5,0.755,0.4,0,6.83
+Adnan Januzaj,Real Sociedad,1011,4,5,1.2,0.763,0.3,2,6.83
+Iker Muniain,Athletic Bilbao,1955,5,3,0.8,0.86,0.4,1,6.82
+Carlos Domínguez,Celta Vigo,360,0,0,0.3,0.8029999999999999,2.8,0,6.82
+Joan Jordán,Sevilla,2424,1,6,0.7,0.882,0.5,1,6.82
+Sergio Escudero,Sevilla,567,1,0,0.7,0.884,0.9,0,6.82
+Gabriel Paulista,Valencia,2717,4,1,0.5,0.88,2.3,1,6.82
+Florian Lejeune,Deportivo Alaves,3016,1,1,0.7,0.77,2.9,0,6.82
+Aridane Hernández,Osasuna,2028,0,0,0.1,0.7879999999999999,2.7,1,6.81
+Daniel Wass,Valencia,2991,4,1,1.1,0.779,1.7,0,6.81
+Luis Milla,Granada,1259,1,1,0.6,0.805,0.9,1,6.81
+Mario Hermoso,Atletico,2584,1,1,0.6,0.8420000000000001,1.1,0,6.8
+Aritz Elustondo,Real Sociedad,1887,1,0,0.2,0.8540000000000001,2.9,2,6.8
+Gerard Piqué,Barcelona,1486,0,0,0.5,0.941,3.2,0,6.8
+Yangel Herrera,Granada,2314,3,1,1.0,0.6729999999999999,3.9,1,6.79
+Lucas Torró,Osasuna,1547,0,1,0.7,0.754,3.5,0,6.79
+Ante Budimir,Osasuna,1622,11,0,1.6,0.601,4.5,4,6.79
+Antonio Sivera,Deportivo Alaves,72,0,0,0.0,0.389,1.0,0,6.79
+Philippe Coutinho,Barcelona,657,2,2,2.3,0.8909999999999999,0.2,0,6.79
+Nacho,Real Madrid,2000,1,0,0.5,0.905,1.3,0,6.78
+Federico Valverde,Real Madrid,1333,3,1,0.9,0.89,0.4,1,6.78
+Rubén García,Osasuna,2739,3,5,0.8,0.6920000000000001,1.4,1,6.78
+José Giménez,Atletico,1766,0,0,0.7,0.875,2.2,0,6.78
+Pablo Maffeo,SD Huesca,1977,1,4,0.4,0.7190000000000001,1.6,0,6.78
+Thibaut Courtois,Real Madrid,3420,0,0,0.0,0.7829999999999999,0.3,2,6.78
+Mario Gaspar,Villarreal,1852,0,2,0.6,0.825,1.4,1,6.77
+Óscar Mingueza,Barcelona,1907,2,2,0.4,0.929,0.5,0,6.76
+Sandro Ramírez,SD Huesca,1294,5,1,1.5,0.8029999999999999,0.5,1,6.76
+Iza Carcelén,Cadiz,2587,0,1,0.3,0.742,0.9,1,6.76
+Unai Núñez,Athletic Bilbao,2108,1,1,0.5,0.83,2.6,1,6.76
+Hugo Mallo,Celta Vigo,2604,3,1,0.6,0.7609999999999999,2.1,0,6.76
+Pau Torres,Villarreal,2970,2,2,0.2,0.878,1.7,0,6.76
+Dimitrios Siovas,SD Huesca,3073,2,0,0.8,0.8109999999999999,3.4,0,6.76
+Papu Gómez,Sevilla,917,3,1,1.0,0.889,0.2,0,6.76
+Claudio Bravo,Real Betis,1800,0,0,0.0,0.605,0.2,1,6.76
+Saúl Ñíguez,Atletico,2034,2,1,1.0,0.8440000000000001,1.9,1,6.76
+Álex Moreno,Real Betis,1787,0,2,0.5,0.785,1.0,0,6.75
+Pedri,Barcelona,2430,3,3,0.7,0.877,0.1,0,6.75
+Brais Méndez,Celta Vigo,2679,9,0,1.5,0.7859999999999999,1.0,1,6.75
+Álvaro Negredo,Cadiz,2217,8,4,1.4,0.573,3.7,4,6.75
+Sergio Herrera,Osasuna,2957,0,0,0.0,0.498,0.4,4,6.75
+David Ferreiro,SD Huesca,2543,2,4,0.7,0.758,0.3,1,6.74
+Ronald Araújo,Barcelona,1509,2,1,0.5,0.9179999999999999,2.1,0,6.74
+Paulo Oliveira,Eibar,2640,0,1,0.4,0.6829999999999999,3.1,2,6.74
+Alberto Perea,Cadiz,1552,2,3,1.0,0.79,0.1,1,6.73
+Denis Suárez,Celta Vigo,2864,0,9,0.5,0.8440000000000001,0.4,0,6.73
+João Félix,Atletico,1570,7,5,1.3,0.84,0.7,4,6.73
+Sergi Roberto,Barcelona,947,1,2,0.3,0.9009999999999999,0.8,0,6.73
+Darwin Machís,Granada,2035,5,5,1.5,0.693,0.4,1,6.73
+Yuri Berchiche,Athletic Bilbao,1685,1,3,0.7,0.8290000000000001,1.0,0,6.73
+Rafa Mir,SD Huesca,2880,13,1,3.2,0.574,2.8,5,6.73
+Rubén Sobrino,Cadiz,1115,1,0,0.6,0.743,1.9,1,6.73
+Felipe,Atletico,2053,0,0,0.4,0.848,2.5,0,6.73
+Antonio Blanco,Real Madrid,218,0,0,0.5,0.934,0.0,0,6.73
+Juan Iglesias,Getafe,605,0,0,0.4,0.5660000000000001,1.0,0,6.73
+Mathías Olivera,Getafe,2619,0,0,0.6,0.657,2.5,2,6.72
+Edu Expósito,Eibar,2461,0,3,1.4,0.775,1.1,0,6.72
+José Gayà,Valencia,2848,1,7,0.7,0.821,0.8,2,6.72
+Juan Foyth,Villarreal,1170,0,0,0.1,0.873,1.8,0,6.72
+Lucas Olaza,Celta Vigo,1618,0,2,0.6,0.78,1.5,0,6.72
+Jaume Domènech,Valencia,2520,0,0,0.0,0.649,0.1,1,6.71
+Rubén Duarte,Deportivo Alaves,2551,1,1,0.5,0.7140000000000001,1.5,0,6.71
+Yassine Bounou,Sevilla,2970,1,0,0.0,0.757,0.2,0,6.71
+Renan Lodi,Atletico,1126,1,2,0.5,0.83,0.4,0,6.71
+Alfonso Espino,Cadiz,2609,0,3,0.3,0.6409999999999999,1.1,0,6.71
+Marcelo,Real Madrid,1052,0,2,0.8,0.8270000000000001,0.3,0,6.71
+Andoni Gorosabel,Real Sociedad,2391,0,1,0.3,0.8079999999999999,0.7,0,6.71
+Thierry Correia,Valencia,2140,1,1,0.3,0.747,1.1,1,6.7
+Iborra,Villarreal,928,0,0,0.2,0.9009999999999999,1.5,0,6.7
+Marc Cucurella,Getafe,3250,3,2,0.7,0.73,1.9,1,6.7
+Javier Ontiveros,SD Huesca,915,2,1,1.8,0.792,0.4,2,6.69
+Miguel Gutiérrez,Real Madrid,314,0,1,0.0,0.8859999999999999,1.0,0,6.69
+Diego Carlos,Sevilla,2791,1,0,0.5,0.899,1.8,1,6.69
+Jorge de Frutos,Levante,2187,4,9,0.7,0.741,0.4,6,6.69
+José Luís Morales,Levante,2455,13,3,1.5,0.747,0.3,5,6.68
+Robin Le Normand,Real Sociedad,2748,0,1,0.5,0.851,3.6,0,6.68
+Asier Illarramendi,Real Sociedad,343,0,0,0.0,0.9259999999999999,1.8,1,6.68
+Aarón Escandell,Granada,450,0,0,0.0,0.44799999999999995,0.2,0,6.68
+Uros Racic,Valencia,2191,1,1,1.1,0.795,2.3,0,6.68
+Étienne Capoue,Villarreal,1195,1,0,0.5,0.9,1.4,0,6.68
+Marco Asensio,Real Madrid,1876,5,2,1.1,0.851,0.3,1,6.67
+Aïssa Mandi,Real Betis,2394,3,1,0.3,0.91,1.5,0,6.67
+José Mari Martín,Cadiz,1462,1,0,0.8,0.6990000000000001,1.4,0,6.67
+Djené Dakonam,Getafe,2945,0,1,0.1,0.733,2.1,0,6.67
+Lucas Boyé,Elche,2713,7,2,1.7,0.775,1.3,3,6.66
+Nacho Monreal,Real Sociedad,2082,1,1,0.5,0.816,1.2,2,6.66
+Eden Hazard,Real Madrid,533,3,2,0.7,0.884,0.1,0,6.66
+Manu Trigueros,Villarreal,2540,1,7,0.9,0.866,0.4,2,6.66
+Miguel Ángel Rubio,Real Valladolid,135,0,0,0.5,0.736,4.5,0,6.66
+Raúl Carnero,Real Valladolid,502,1,0,0.4,0.733,2.3,1,6.66
+Rubén Peña,Villarreal,1113,1,1,0.3,0.789,0.8,1,6.66
+Guido Carrillo,Elche,1001,3,2,1.2,0.7170000000000001,4.0,1,6.66
+Iñaki Williams,Athletic Bilbao,2393,6,6,1.4,0.69,1.0,1,6.65
+Melero,Levante,1857,7,1,0.9,0.884,1.4,1,6.65
+Anaitz Arbilla,Eibar,2803,0,1,0.8,0.758,2.0,1,6.65
+Edgar Badia,Elche,2700,0,0,0.0,0.72,0.2,2,6.65
+Kenedy,Granada,1479,4,3,1.3,0.73,0.4,0,6.65
+Joaquín,Real Betis,1298,2,5,0.4,0.8490000000000001,0.5,2,6.65
+Alfonso Pedraza,Villarreal,2102,1,2,0.8,0.8029999999999999,1.1,1,6.64
+Sergi Gómez,Sevilla,723,0,0,0.1,0.934,2.2,0,6.64
+Álvaro Fernández,SD Huesca,1980,0,0,0.0,0.726,0.3,1,6.64
+Ander Capa,Athletic Bilbao,2141,2,1,0.4,0.76,0.8,0,6.64
+Rodrygo,Real Madrid,979,1,6,1.1,0.8320000000000001,0.2,0,6.64
+Victor Chust,Real Madrid,94,0,0,0.0,0.893,1.5,0,6.64
+Lucas Olaza,Real Valladolid,1260,1,1,0.8,0.7659999999999999,1.1,0,6.64
+Marc Bartra,Real Betis,1695,0,1,0.5,0.8059999999999999,3.1,1,6.64
+Jonathan Calleri,Osasuna,1559,5,2,1.9,0.615,3.6,3,6.64
+Clerc,Levante,2777,0,3,0.2,0.778,1.2,0,6.64
+Rubén Rochina,Levante,1407,0,1,1.4,0.7559999999999999,0.6,0,6.64
+Neto,Barcelona,630,0,0,0.0,0.858,0.0,0,6.64
+Lucas Pérez,Deportivo Alaves,1769,4,4,1.1,0.703,0.1,3,6.63
+Sergiño Dest,Barcelona,1919,2,1,0.5,0.9,0.2,0,6.63
+Carlos Akapo,Cadiz,867,1,0,0.2,0.6970000000000001,1.1,1,6.63
+Juan Miranda,Real Betis,1653,1,2,0.5,0.7609999999999999,1.2,0,6.63
+Ilaix Moriba,Barcelona,538,1,2,0.9,0.9159999999999999,0.9,0,6.63
+Gonzalo Verdú,Elche,2945,0,2,0.3,0.8420000000000001,1.9,1,6.63
+Marc André ter Stegen,Barcelona,2790,0,0,0.0,0.8690000000000001,0.2,1,6.63
+Víctor Ruiz,Real Betis,2158,2,0,0.1,0.863,2.4,1,6.63
+Álvaro Odriozola,Real Madrid,830,2,0,0.2,0.9059999999999999,0.2,0,6.63
+Ramiro Mori,Villarreal,726,0,0,0.4,0.87,2.2,0,6.63
+Vinícius Júnior,Real Madrid,1975,3,3,1.1,0.861,0.1,0,6.62
+Roque Mesa,Real Valladolid,1772,1,0,1.0,0.809,0.6,1,6.62
+Martín Zubimendi,Real Sociedad,1873,0,0,0.2,0.884,1.5,0,6.62
+Antonio Sanabria,Real Betis,936,3,0,1.6,0.7290000000000001,2.7,0,6.62
+Aleix Vidal,Sevilla,590,0,1,0.1,0.862,1.2,0,6.61
+Óscar Plano,Real Valladolid,2530,5,5,1.1,0.757,1.5,2,6.61
+Lee Kang In,Valencia,1267,0,4,1.0,0.862,0.2,1,6.61
+Nemanja Maksimovic,Getafe,2745,1,0,0.5,0.748,1.4,0,6.61
+Moi Gómez,Villarreal,2573,4,0,0.7,0.865,0.2,0,6.6
+Álex Fernández,Cadiz,1950,4,1,0.4,0.82,0.8,0,6.6
+Nacho Vidal,Osasuna,2343,0,0,0.3,0.7120000000000001,1.6,0,6.6
+Joaquín Fernández,Real Valladolid,2076,1,0,0.3,0.7909999999999999,2.0,0,6.6
+Sime Vrsaljko,Atletico,521,0,0,0.0,0.726,2.0,0,6.6
+Tete Morente,Elche,2027,2,5,0.6,0.8029999999999999,0.7,0,6.6
+Cucho Hernández,Getafe,1475,2,3,1.2,0.6970000000000001,2.0,2,6.6
+Saidy Janko,Real Valladolid,1224,0,1,0.2,0.769,1.5,0,6.6
+Jeison Murillo,Celta Vigo,2700,2,0,0.3,0.8809999999999999,2.9,2,6.59
+Ivan Rakitic,Sevilla,2243,4,2,1.1,0.872,0.8,2,6.59
+Roger Martí,Levante,2209,12,4,1.4,0.705,0.6,1,6.59
+Raúl García,Athletic Bilbao,1744,5,1,1.4,0.622,3.5,2,6.59
+Héctor Herrera,Atletico,681,0,1,0.4,0.9009999999999999,0.9,0,6.59
+Íñigo Martínez,Athletic Bilbao,2520,1,0,0.6,0.828,2.6,0,6.59
+Clément Lenglet,Barcelona,2478,1,0,0.3,0.9209999999999999,1.8,0,6.59
+Borja Iglesias,Real Betis,1414,11,0,1.4,0.705,1.2,1,6.58
+Ximo Navarro,Deportivo Alaves,2381,1,1,0.4,0.759,0.7,0,6.58
+Hugo Guillamón,Valencia,1991,1,0,0.3,0.8759999999999999,2.1,0,6.58
+Aarón Martín,Celta Vigo,1540,0,3,0.3,0.823,0.8,0,6.58
+Willian José,Real Sociedad,689,3,1,1.1,0.765,1.1,1,6.58
+Esteban Burgos,Eibar,1116,3,1,0.4,0.7509999999999999,2.2,1,6.58
+Sergi Enrich,Eibar,1402,3,0,1.7,0.769,3.2,1,6.58
+Daniel Cárdenas,Levante,720,0,0,0.0,0.715,0.4,1,6.58
+Jorge Pulido,SD Huesca,2886,1,0,0.5,0.836,1.9,0,6.57
+Kike Barja,Osasuna,1435,2,3,0.7,0.7609999999999999,0.6,2,6.57
+Raúl Albiol,Villarreal,3119,0,0,0.2,0.888,1.9,0,6.57
+Pablo Hervías,Real Valladolid,1193,0,5,0.5,0.838,0.3,0,6.57
+Igor Zubeldia,Real Sociedad,1958,1,1,0.4,0.8690000000000001,2.2,0,6.57
+Josema,Elche,1968,0,1,0.2,0.804,1.2,0,6.57
+Sergio Asenjo,Villarreal,3240,0,0,0.0,0.75,0.2,0,6.57
+Jorge Miramón,Levante,1734,0,3,0.4,0.782,0.8,0,6.57
+Aihen Muñoz,Real Sociedad,1210,0,1,0.3,0.7120000000000001,0.9,0,6.57
+Óscar Duarte,Levante,2063,1,0,0.2,0.8340000000000001,2.5,0,6.56
+Samuel Chukwueze,Villarreal,1363,4,2,1.1,0.773,0.4,1,6.56
+Enis Bardhi,Levante,1686,1,2,1.4,0.787,0.2,0,6.56
+Augusto Solari,Celta Vigo,478,2,2,0.3,0.758,0.6,0,6.56
+Josan,Elche,1935,4,2,0.5,0.823,0.2,3,6.56
+Mickaël Malsa,Levante,2342,1,0,0.7,0.846,0.7,0,6.56
+Álvaro Tejero,Eibar,109,0,0,1.0,0.818,0.5,0,6.56
+Juan Cala,Cadiz,2275,3,0,0.5,0.6990000000000001,2.1,0,6.56
+Rúben Vezo,Levante,2312,1,0,0.2,0.835,1.6,1,6.56
+Karim Rekik,Sevilla,651,0,0,0.2,0.905,1.3,0,6.56
+Jorge Molina,Granada,1614,8,2,0.7,0.616,2.6,0,6.55
+Óliver Torres,Sevilla,1397,0,3,0.3,0.863,0.1,0,6.55
+Carles Aleñá,Getafe,1369,2,2,1.4,0.708,0.6,1,6.55
+Toni Villa,Real Valladolid,970,2,0,0.7,0.754,0.3,0,6.55
+Iván Villar,Celta Vigo,1774,0,0,0.0,0.5579999999999999,0.2,0,6.55
+Luis Suárez,Granada,1670,5,1,1.7,0.612,1.0,3,6.55
+Enes Ünal,Getafe,1322,4,2,1.4,0.593,3.7,1,6.55
+Paco Alcácer,Villarreal,1557,6,4,1.4,0.733,0.5,1,6.55
+Samuel Umtiti,Barcelona,643,0,0,0.2,0.938,1.1,0,6.55
+Unai López,Athletic Bilbao,1425,3,0,1.0,0.857,0.3,1,6.55
+Aitor Ruibal,Real Betis,1606,2,2,1.2,0.759,0.5,0,6.54
+Raúl Guti,Elche,2876,3,1,0.8,0.8390000000000001,0.4,0,6.54
+Luis Rioja,Deportivo Alaves,2100,4,2,0.7,0.721,0.5,1,6.54
+Jaime Seoane,SD Huesca,2066,1,1,0.8,0.7759999999999999,0.9,1,6.54
+Junior Firpo,Barcelona,286,1,1,0.1,0.897,0.4,0,6.54
+Fabián Orellana,Real Valladolid,2153,6,2,1.0,0.7879999999999999,0.3,1,6.54
+Rubén Alcaraz,Real Valladolid,2170,1,0,0.9,0.83,1.8,1,6.53
+Pervis Estupiñán,Villarreal,1164,0,0,0.4,0.805,0.5,1,6.53
+Jens Jønsson,Cadiz,2629,0,0,0.4,0.762,1.1,0,6.53
+Antonio Barragán,Elche,2239,0,3,0.2,0.857,1.2,0,6.53
+Yeremy Pino,Villarreal,786,3,1,0.5,0.816,0.3,0,6.53
+Cristian Tello,Real Betis,1282,5,3,1.2,0.804,0.2,1,6.53
+Pablo Ínsua,SD Huesca,1588,0,0,0.2,0.855,2.1,0,6.53
+Pape Diop,Eibar,2336,1,1,0.8,0.6940000000000001,2.7,1,6.53
+Munir El Haddadi,Sevilla,839,4,2,1.3,0.8240000000000001,0.4,0,6.53
+Dani García,Athletic Bilbao,1922,0,1,0.2,0.838,1.6,0,6.53
+Rafa Soares,Eibar,1131,0,1,0.1,0.715,0.9,1,6.52
+Édgar Méndez,Deportivo Alaves,2105,5,1,1.1,0.606,1.8,0,6.52
+Maxime Gonalons,Granada,1483,0,1,0.2,0.8290000000000001,1.4,1,6.52
+Germán Sánchez,Granada,2638,3,1,0.4,0.735,2.6,2,6.52
+Antonio Puertas,Granada,2170,3,5,0.7,0.677,1.4,3,6.51
+Diego Costa,Atletico,207,2,0,0.7,0.778,1.3,0,6.51
+Álex Remiro,Real Sociedad,3420,0,0,0.0,0.6859999999999999,0.2,1,6.51
+Ángel Montoro,Granada,1371,1,1,0.7,0.7659999999999999,0.3,0,6.51
+Ander Guevara,Real Sociedad,2088,1,1,0.3,0.828,0.8,1,6.51
+Facundo Roncaglia,Osasuna,1236,1,1,0.8,0.711,1.8,1,6.51
+Damián Suárez,Getafe,2440,1,0,0.3,0.633,1.1,1,6.51
+Alberto Moreno,Villarreal,194,0,0,0.8,0.89,0.0,0,6.5
+Pere Milla,Elche,1987,4,3,0.9,0.73,1.3,2,6.5
+Marcos André,Real Valladolid,1171,4,1,1.4,0.608,1.8,2,6.5
+Bruno González,Real Valladolid,2261,1,0,0.2,0.7559999999999999,2.1,0,6.5
+Fali,Cadiz,2639,0,0,0.3,0.7020000000000001,1.1,0,6.5
+David Soria,Getafe,2520,0,0,0.0,0.45799999999999996,0.3,3,6.5
+Manu Sánchez,Osasuna,974,0,4,0.2,0.726,0.2,0,6.5
+Mouctar Diakhaby,Valencia,2082,1,0,0.4,0.85,1.8,0,6.49
+Vicente Esquerdo,Valencia,233,0,0,0.3,0.84,0.0,0,6.49
+Quini,Granada,1187,1,0,0.4,0.672,1.3,1,6.49
+Portu,Real Sociedad,2190,8,3,0.8,0.731,0.5,1,6.49
+Domingos Quina,Granada,343,2,0,1.0,0.764,0.5,0,6.49
+Rodrigo Ely,Deportivo Alaves,470,1,0,0.5,0.784,1.8,0,6.49
+Tomás Pina,Deportivo Alaves,2590,1,1,0.3,0.825,1.4,2,6.48
+Diego Lainez,Real Betis,859,0,2,0.6,0.7979999999999999,0.3,0,6.48
+Marvin Park,Real Madrid,133,0,1,0.3,0.8290000000000001,1.0,0,6.48
+Ivan Saponjic,Cadiz,387,1,0,1.2,0.728,3.4,0,6.48
+Joseph Aidoo,Celta Vigo,1285,0,0,0.4,0.82,1.7,1,6.48
+Néstor Araújo,Celta Vigo,2424,0,0,0.2,0.8320000000000001,1.8,0,6.47
+Pedro Mosquera,SD Huesca,2055,0,0,0.3,0.855,0.9,0,6.47
+Fernando Pacheco,Deportivo Alaves,3348,0,0,0.0,0.6609999999999999,0.2,3,6.47
+Sidnei,Real Betis,695,0,0,0.1,0.904,1.7,0,6.47
+Jon Moncayola,Osasuna,2665,2,0,1.1,0.8170000000000001,1.0,0,6.47
+Jon Morcillo,Athletic Bilbao,1363,2,2,0.8,0.7390000000000001,0.4,0,6.46
+Andrés Guardado,Real Betis,1322,1,0,0.5,0.8370000000000001,1.0,1,6.46
+Rubén Yáñez,Getafe,900,0,0,0.0,0.5589999999999999,0.2,0,6.46
+Luuk de Jong,Sevilla,1264,4,0,0.9,0.728,2.1,1,6.46
+Isco,Real Madrid,899,0,2,0.8,0.902,0.2,0,6.46
+Jeremías Ledesma,Cadiz,2880,0,0,0.0,0.449,0.3,4,6.46
+Jon Guridi,Real Sociedad,828,0,1,0.5,0.807,0.8,0,6.46
+Allan Roméo Nyom,Getafe,2334,0,2,0.3,0.6409999999999999,1.7,1,6.45
+Sergio Postigo,Levante,1625,0,0,0.0,0.823,1.1,0,6.45
+Rui Silva,Granada,2880,0,0,0.0,0.527,0.2,0,6.45
+Roberto Torres,Osasuna,1893,7,1,1.4,0.723,0.3,1,6.44
+Óscar De Marcos,Athletic Bilbao,1517,1,2,0.2,0.7709999999999999,0.5,1,6.44
+Mikel Vesga,Athletic Bilbao,1722,0,1,0.7,0.779,1.5,0,6.44
+Carlos Bacca,Villarreal,782,5,0,0.9,0.654,0.4,1,6.44
+Rodrigo Battaglia,Deportivo Alaves,2495,1,0,0.5,0.841,1.4,1,6.44
+Diego González,Elche,1280,1,0,0.3,0.889,1.6,0,6.44
+Dani Calvo,Elche,1779,2,0,0.3,0.8240000000000001,1.5,1,6.44
+Pedro López,SD Huesca,1064,0,1,0.1,0.86,0.8,0,6.44
+Borja García,SD Huesca,1119,1,0,0.7,0.878,0.5,0,6.43
+Róber Pier,Levante,1427,0,1,0.4,0.826,0.8,0,6.43
+Marcos Mauro,Cadiz,1831,2,0,0.3,0.826,1.5,0,6.43
+Pepe Sánchez,Granada,254,0,0,0.3,0.5,1.3,0,6.43
+Mikel Rico,SD Huesca,2200,1,4,0.6,0.8009999999999999,0.3,0,6.43
+Anthony Lozano,Cadiz,1531,3,1,1.2,0.622,2.1,1,6.43
+Marko Dmitrovic,Eibar,3121,1,0,0.1,0.502,0.3,1,6.43
+Mikel Balenziaga,Athletic Bilbao,1689,0,1,0.1,0.779,0.7,0,6.42
+Denis Cheryshev,Valencia,1105,0,3,1.0,0.669,0.6,0,6.42
+Aitor Fernández,Levante,2610,0,0,0.0,0.722,0.1,0,6.42
+Eugeni Valderrama,SD Huesca,114,0,0,0.0,0.855,0.3,0,6.42
+Kevin Vázquez,Celta Vigo,560,0,0,0.1,0.743,0.6,0,6.42
+Denis Vavro,SD Huesca,616,0,0,0.7,0.7659999999999999,1.0,0,6.42
+Ander Barrenetxea,Real Sociedad,1300,3,0,0.7,0.748,0.1,1,6.42
+Joseba Zaldúa,Real Sociedad,636,0,0,0.2,0.794,0.8,0,6.42
+Helibelton Palacios,Elche,743,0,0,0.0,0.8029999999999999,0.7,0,6.41
+Pedro Bigas,Eibar,1530,0,0,0.5,0.722,2.4,0,6.41
+Nacho Martínez,Real Valladolid,1813,0,1,0.3,0.7120000000000001,0.9,0,6.41
+Shon Weissman,Real Valladolid,2139,6,1,1.2,0.737,0.8,2,6.41
+Víctor Laguardia,Deportivo Alaves,2636,0,1,0.3,0.763,1.7,0,6.41
+Unai García,Osasuna,1244,0,0,0.3,0.7659999999999999,1.4,0,6.41
+Oihan Sancet,Athletic Bilbao,1036,2,2,0.8,0.731,0.8,0,6.41
+Oier Sanjurjo,Osasuna,2088,0,2,0.5,0.6709999999999999,1.9,1,6.41
+Cote,Eibar,905,0,0,0.1,0.7879999999999999,1.2,0,6.41
+Nemanja Radoja,Levante,1118,0,2,0.3,0.863,1.0,0,6.41
+Fernando Niño,Villarreal,594,3,0,0.8,0.727,0.8,0,6.41
+Jordi Masip,Real Valladolid,2250,0,0,0.0,0.467,0.2,0,6.41
+Jorge Pombo,Cadiz,519,1,0,1.2,0.8059999999999999,0.3,0,6.41
+Miralem Pjanic,Barcelona,623,0,0,0.8,0.914,0.5,0,6.41
+Juan Cruz,Osasuna,1966,0,0,0.0,0.721,1.1,0,6.4
+Domingos Duarte,Granada,2365,1,0,0.2,0.77,1.7,0,6.4
+Johan Mojica,Elche,1206,0,0,0.4,0.757,0.7,0,6.4
+Carlos Neva,Granada,1800,0,0,0.4,0.6809999999999999,0.7,0,6.4
+Kike Pérez,Real Valladolid,1155,0,0,0.6,0.8170000000000001,1.1,0,6.4
+Coke,Levante,839,0,0,0.5,0.792,0.9,0,6.4
+Trincão,Barcelona,683,3,2,0.8,0.863,0.1,0,6.4
+Roberto López,Real Sociedad,500,3,0,0.8,0.7929999999999999,0.3,0,6.39
+Joel Robles,Real Betis,1620,0,0,0.0,0.585,0.1,2,6.39
+Dimitri Foulquier,Granada,2672,0,4,0.3,0.706,0.6,0,6.39
+Nikola Vukcevic,Levante,815,0,0,0.2,0.855,1.4,0,6.39
+Paulo Gazzaniga,Elche,720,0,0,0.0,0.557,0.1,0,6.39
+Abdoulay Diaby,Getafe,17,0,0,1.0,0.625,0.0,0,6.39
+Emre Mor,Celta Vigo,503,0,0,0.7,0.752,0.4,0,6.39
+Jon Pacheco,Real Sociedad,31,0,0,1.0,0.92,0.0,0,6.39
+Juan Pérez,Osasuna,270,0,0,0.0,0.506,0.0,0,6.39
+Víctor Díaz,Granada,825,0,2,0.3,0.6809999999999999,1.0,0,6.39
+Pedro León,Eibar,938,1,2,0.8,0.6940000000000001,0.8,0,6.38
+Martín Aguirregabiria,Deportivo Alaves,1557,0,1,0.1,0.7140000000000001,0.7,0,6.38
+Xabier Etxeita,Getafe,881,0,0,0.4,0.625,1.8,0,6.38
+Óscar Rodríguez,Sevilla,498,0,0,0.5,0.838,0.4,0,6.38
+Iván Marcone,Elche,2651,0,0,0.1,0.871,0.7,0,6.38
+Martín Montoya,Real Betis,238,0,0,0.4,0.8170000000000001,1.6,0,6.38
+Darko Brasanac,Osasuna,910,2,0,0.5,0.713,1.7,0,6.37
+Sergi Guardiola,Real Valladolid,1795,1,2,1.2,0.67,2.0,0,6.37
+Miguel Ángel Atienza,Eibar,838,0,0,0.4,0.8009999999999999,2.1,0,6.37
+William Carvalho,Real Betis,1220,2,0,0.6,0.847,1.1,1,6.37
+Eliaquim Mangala,Valencia,320,0,0,0.3,0.6940000000000001,2.7,0,6.37
+Fran Beltrán,Celta Vigo,1392,3,0,0.6,0.9059999999999999,0.1,0,6.37
+Asier Villalibre,Athletic Bilbao,1586,4,2,1.1,0.637,1.6,0,6.37
+Tachi,Deportivo Alaves,849,0,0,0.2,0.7340000000000001,1.6,1,6.37
+Takefusa Kubo,Getafe,804,1,1,0.8,0.784,0.3,0,6.36
+Jony,Osasuna,869,0,2,0.5,0.64,0.2,0,6.36
+Takashi Inui,Eibar,1829,1,0,1.3,0.759,0.3,0,6.36
+Robert Navarro,Real Sociedad,34,0,0,0.0,0.8,1.0,0,6.36
+Martín Merquelanz,Real Sociedad,541,0,1,0.8,0.777,0.4,0,6.36
+Francis Coquelin,Villarreal,730,0,0,0.2,0.888,0.5,0,6.36
+Unai Vencedor,Athletic Bilbao,1703,0,0,0.3,0.7979999999999999,0.4,0,6.35
+Sofian Chakla,Getafe,896,0,0,0.3,0.596,3.3,0,6.35
+Bryan Gil,Sevilla,12,0,0,0.0,0.833,1.0,0,6.35
+Andrés Fernández,SD Huesca,1440,0,0,0.0,0.652,0.3,0,6.35
+Erick Cabaco,Getafe,1328,0,0,0.3,0.621,2.2,0,6.35
+Sergio Álvarez,Eibar,1565,0,0,0.2,0.77,1.7,0,6.34
+Iñigo Vicente,Athletic Bilbao,49,0,0,0.3,0.809,0.0,0,6.34
+Pere Pons,Deportivo Alaves,1184,2,0,0.4,0.785,0.6,0,6.34
+Jonás Ramalho,Osasuna,304,0,0,0.0,0.8,1.2,0,6.34
+Javi Martínez,Osasuna,460,1,1,0.2,0.691,0.4,0,6.34
+Recio,Eibar,731,1,0,0.8,0.8759999999999999,0.5,0,6.34
+Deyverson,Deportivo Alaves,872,1,3,0.5,0.512,2.3,0,6.34
+Manu Vallejo,Valencia,940,5,0,0.6,0.768,0.3,0,6.33
+Martin Braithwaite,Barcelona,1164,2,2,0.8,0.8220000000000001,0.6,0,6.33
+Fede San Emeterio,Real Valladolid,1463,0,0,0.1,0.785,1.1,0,6.33
+Yunus Musah,Valencia,1535,1,0,0.2,0.752,0.6,0,6.33
+Salvi Sánchez,Cadiz,1950,2,0,0.6,0.645,0.7,0,6.33
+Geoffrey Kondogbia,Atletico,596,0,0,0.2,0.852,0.2,0,6.32
+Tomás Vaclík,Sevilla,450,0,0,0.0,0.805,0.0,0,6.32
+Oriol Rey,Real Valladolid,14,0,0,0.0,0.833,0.0,0,6.32
+Iván Alejo,Cadiz,820,1,1,0.6,0.6729999999999999,0.6,1,6.32
+Carlos Fernández,Real Sociedad,389,1,2,0.6,0.667,1.4,0,6.32
+Riqui Puig,Barcelona,283,1,0,0.3,0.919,0.1,0,6.32
+Unai Simón,Athletic Bilbao,3330,0,0,0.0,0.634,0.2,0,6.32
+David Timor,Getafe,1388,0,0,0.6,0.64,1.4,0,6.32
+Yoshinori Muto,Eibar,1122,1,1,0.8,0.687,1.5,0,6.31
+Íñigo Lekue,Athletic Bilbao,635,0,0,0.1,0.823,0.2,0,6.31
+Carlos Fernández,Sevilla,142,0,0,0.4,0.737,1.2,0,6.31
+Jaime Mata,Getafe,2042,5,0,1.2,0.6829999999999999,2.5,0,6.31
+Luis Pérez,Real Valladolid,1298,0,0,0.1,0.708,1.0,0,6.31
+Alberto Cifuentes,Cadiz,180,0,0,0.0,0.369,0.0,0,6.31
+Álex Pozo,Eibar,2187,0,0,0.4,0.738,0.4,0,6.31
+Aleix García,Eibar,437,0,1,0.3,0.8759999999999999,0.5,0,6.31
+Alejandro Cantero,Levante,239,0,0,0.8,0.6759999999999999,0.8,0,6.31
+Pedro Alcalá,Cadiz,908,0,0,0.2,0.732,1.3,0,6.3
+Roberto Soldado,Granada,1444,9,0,1.0,0.623,0.8,1,6.3
+Kenan Kodro,Athletic Bilbao,43,1,0,0.5,0.778,0.0,0,6.3
+Sergio Arribas,Real Madrid,128,0,0,0.1,0.8240000000000001,0.3,0,6.3
+Son,Levante,1092,0,0,0.3,0.747,0.3,0,6.3
+Lucas Torreira,Atletico,507,1,0,0.2,0.872,0.2,0,6.3
+Jeison Lucumí,Elche,49,0,0,0.0,0.727,0.5,0,6.29
+Míchel Herrero,Real Valladolid,945,2,0,0.5,0.836,0.3,0,6.29
+Paul Akouokou,Real Betis,377,0,0,0.0,0.914,1.0,0,6.29
+Juanmi,Real Betis,601,2,0,0.9,0.772,0.8,0,6.29
+Nemanja Gudelj,Sevilla,1025,0,0,0.3,0.9309999999999999,0.5,1,6.29
+Toño,Levante,729,0,2,0.2,0.821,0.6,0,6.29
+Okay Yokuslu,Celta Vigo,454,0,0,0.3,0.861,1.5,0,6.29
+Sergio Gómez,SD Huesca,773,0,1,0.3,0.8220000000000001,0.0,0,6.28
+Enric Gallego,Osasuna,803,0,2,0.6,0.589,3.4,0,6.28
+Ibai Gómez,Athletic Bilbao,422,0,1,0.4,0.7709999999999999,0.5,0,6.28
+Gastón Silva,SD Huesca,599,0,0,0.0,0.84,0.9,0,6.28
+Jota,Real Valladolid,665,1,0,0.7,0.746,0.1,0,6.28
+Kévin Rodrigues,Eibar,1094,1,1,0.5,0.732,0.6,1,6.28
+Jota,Deportivo Alaves,1408,0,2,0.7,0.752,0.2,0,6.28
+Mariano Díaz,Real Madrid,508,1,0,0.9,0.695,1.3,0,6.28
+Dani Gómez,Levante,1660,2,2,0.9,0.784,0.4,0,6.27
+Alfon González,Celta Vigo,33,0,0,0.5,1.0,0.5,0,6.27
+Nico Williams,Athletic Bilbao,55,0,0,0.5,0.563,0.5,0,6.27
+Jaume Costa,Villarreal,346,0,1,0.1,0.823,0.2,0,6.27
+Sergio Carreira,Celta Vigo,261,1,0,0.7,0.725,0.0,0,6.27
+Álvaro Giménez,Cadiz,404,2,1,0.5,0.536,2.0,0,6.26
+Adrián Marín,Granada,266,0,1,0.1,0.6940000000000001,0.4,0,6.26
+Burgui,Deportivo Alaves,20,0,0,0.0,1.0,0.0,0,6.26
+Álex Blanco,Valencia,580,1,0,0.5,0.778,0.2,0,6.26
+Facundo Pellistri,Deportivo Alaves,540,0,0,0.4,0.66,0.7,0,6.26
+Roberto Jiménez,Real Valladolid,1171,0,0,0.0,0.441,0.1,0,6.26
+Javi Sánchez,Real Valladolid,920,0,0,0.2,0.7979999999999999,0.9,0,6.26
+Modibo Sagnan,Real Sociedad,620,0,0,0.3,0.883,0.8,0,6.25
+Shinji Okazaki,SD Huesca,1128,1,1,0.8,0.763,1.2,0,6.25
+Christian Oliva,Valencia,193,0,2,0.2,0.8240000000000001,0.1,0,6.25
+Kuki Zalazar,Real Valladolid,28,0,1,0.0,0.75,0.5,0,6.25
+Manu García,Deportivo Alaves,1115,0,0,0.4,0.695,1.6,0,6.24
+Emiliano Rigoni,Elche,1142,1,1,0.7,0.8220000000000001,0.2,0,6.24
+Adrián López,Osasuna,474,1,1,0.6,0.7340000000000001,1.1,0,6.24
+Kevin Gameiro,Valencia,1070,4,1,0.6,0.774,0.4,0,6.24
+Idrissa Doumbia,SD Huesca,770,0,0,0.2,0.92,0.3,0,6.24
+Toni Lato,Valencia,727,1,0,0.1,0.7709999999999999,0.6,0,6.24
+Fede Vico,Granada,768,0,0,0.5,0.736,0.2,0,6.23
+Edgar Sevikyan,Levante,7,0,0,0.0,0.75,0.0,0,6.23
+Álex Baena,Villarreal,137,0,0,0.3,0.843,0.0,0,6.23
+Omenuke Mfulu,Elche,789,0,0,0.2,0.872,0.5,0,6.23
+Kiko Olivas,Real Valladolid,173,0,0,0.0,0.856,0.4,0,6.23
+Chema Rodríguez,Getafe,557,0,0,0.3,0.611,1.0,1,6.22
+Dani Raba,Villarreal,146,0,0,1.2,0.787,0.2,0,6.22
+Oussama Idrissi,Sevilla,24,0,0,0.3,0.75,0.0,0,6.22
+Dani Escriche,SD Huesca,851,1,1,0.4,0.735,0.7,0,6.22
+Álvaro Bravo,Granada,14,0,0,0.0,0.889,1.0,0,6.22
+Rodri,Real Betis,532,0,0,0.3,0.857,0.1,0,6.22
+Guillem Molina,Valencia,153,0,0,0.0,0.7859999999999999,2.5,0,6.22
+Luka Jovic,Real Madrid,149,0,0,1.5,0.846,0.8,0,6.22
+Jesús Vallejo,Granada,1349,0,0,0.0,0.727,1.0,0,6.21
+Martin Ødegaard,Real Madrid,233,0,0,0.4,0.889,0.0,0,6.21
+Jon Ander Garrido,Cadiz,792,0,0,0.2,0.785,1.0,0,6.21
+Iñigo Pérez,Osasuna,1356,0,0,0.4,0.738,0.5,0,6.21
+Nehuén Pérez,Granada,740,0,0,0.4,0.76,1.1,0,6.21
+Pablo Piatti,Elche,359,0,0,0.4,0.8059999999999999,0.1,0,6.21
+Ante Palaversa,Getafe,7,0,0,0.0,0.5710000000000001,0.0,0,6.21
+Cifuentes,Elche,449,0,0,0.3,0.7609999999999999,0.5,0,6.2
+Jairo Izquierdo,Cadiz,1270,1,0,0.3,0.753,0.3,0,6.2
+Iñigo Córdoba,Deportivo Alaves,216,0,0,0.1,0.657,0.9,0,6.2
+Jordan Holsgrove,Celta Vigo,142,0,0,0.2,0.8909999999999999,0.0,0,6.2
+Loren Morón,Real Betis,984,1,0,0.9,0.632,1.2,0,6.2
+Luisinho,SD Huesca,178,0,0,0.2,0.8240000000000001,0.4,0,6.2
+Takefusa Kubo,Villarreal,293,0,0,0.6,0.778,0.0,0,6.19
+Franco Vázquez,Sevilla,154,1,0,0.2,0.902,0.7,0,6.19
+Ángel Rodríguez,Getafe,1364,5,0,1.2,0.6970000000000001,0.7,1,6.19
+Jon Bautista,Real Sociedad,353,0,1,0.6,0.614,1.1,0,6.19
+Abdallahi Mahmoud,Deportivo Alaves,66,0,0,0.0,0.867,0.5,0,6.19
+José Fontán,Celta Vigo,652,0,0,0.4,0.8370000000000001,0.4,0,6.19
+Hugo Duro,Real Madrid,53,0,0,0.5,0.857,0.5,0,6.19
+Iñigo Córdoba,Athletic Bilbao,95,0,0,0.7,0.484,0.7,0,6.18
+Kenan Kodro,Real Valladolid,453,0,0,0.4,0.655,1.6,0,6.18
+Kingsley Fobi,Granada,45,0,0,0.0,0.667,0.0,0,6.18
+Vitolo,Atletico,295,0,0,0.2,0.845,0.3,0,6.18
+Javi López,Deportivo Alaves,245,0,0,0.1,0.818,0.2,0,6.18
+Urko González de Zárate,Real Sociedad,47,0,0,0.0,0.903,0.0,0,6.17
+Miguel Baeza,Celta Vigo,532,1,0,0.5,0.821,0.4,0,6.17
+Manuel Nieto,Cadiz,12,0,0,0.5,1.0,0.5,0,6.17
+Moussa Dembélé,Atletico,95,0,0,1.2,0.645,1.0,0,6.16
+Juan Sánchez Miño,Elche,497,0,0,0.0,0.84,0.3,0,6.16
+Sergio León,Levante,734,2,0,0.7,0.711,0.4,0,6.16
+Augusto Fernández,Cadiz,366,0,0,0.0,0.7709999999999999,0.3,0,6.15
+Ricard Sánchez,Atletico,29,0,0,1.0,0.615,0.0,0,6.15
+Francisco Portillo,Getafe,411,0,1,0.0,0.765,0.1,0,6.15
+Chimy Avila,Osasuna,199,0,0,1.0,0.596,0.4,0,6.15
+Jason,Valencia,434,0,0,0.3,0.684,0.3,0,6.14
+Oier Zarraga,Athletic Bilbao,98,0,0,0.2,0.7859999999999999,0.0,0,6.14
+Yann Bodiger,Cadiz,246,0,0,0.0,0.7140000000000001,0.6,0,6.14
+Yan Eteki,Granada,1324,0,0,0.3,0.778,1.0,0,6.14
+Alberto Soro,Granada,384,1,2,0.1,0.7609999999999999,0.1,0,6.13
+Cheick Doukouré,Levante,96,0,0,0.0,0.8370000000000001,0.0,0,6.13
+Rubén Blanco,Celta Vigo,1645,0,0,0.0,0.6729999999999999,0.1,0,6.13
+Waldo Rubio,Real Valladolid,376,1,0,0.9,0.67,0.0,0,6.13
+Borja Sainz,Deportivo Alaves,440,1,0,0.3,0.835,0.1,0,6.12
+Aritz Arambarri,Real Sociedad,25,0,0,0.0,0.8,1.0,0,6.12
+Víctor Rodríguez,Elche,418,0,0,0.0,0.914,0.3,0,6.11
+Sofian Chakla,Villarreal,12,0,0,1.0,0.444,2.0,0,6.11
+Víctor Mollejo,Getafe,71,0,0,0.0,0.667,0.3,0,6.11
+Juan Brunet,Granada,24,0,0,0.0,0.875,1.0,0,6.11
+Damian Kadzior,Eibar,195,0,0,0.8,0.83,0.0,0,6.11
+Adrián Marín,Deportivo Alaves,91,0,0,0.2,0.682,0.6,0,6.1
+Álex Martín,Cadiz,95,0,0,0.0,0.848,1.0,0,6.1
+Sergio Benito,Real Valladolid,1,0,0,0.0,0.0,0.0,0,6.1
+Filip Malbasic,Cadiz,850,0,1,0.3,0.588,0.5,0,6.1
+Juan Carlos Real,SD Huesca,282,0,1,0.3,0.8059999999999999,0.2,0,6.1
+John Guidetti,Deportivo Alaves,201,1,0,0.5,0.731,0.4,0,6.1
+Joaquín Muñoz,SD Huesca,39,0,0,0.3,0.545,0.3,0,6.08
+Víctor Mollejo,Getafe,71,0,0,0.0,0.667,0.3,0,6.11
+Juan Brunet,Granada,24,0,0,0.0,0.875,1.0,0,6.11
+Damian Kadzior,Eibar,195,0,0,0.8,0.83,0.0,0,6.11
+Adrián Marín,Deportivo Alaves,91,0,0,0.2,0.682,0.6,0,6.1
+Álex Martín,Cadiz,95,0,0,0.0,0.848,1.0,0,6.1
+Sergio Benito,Real Valladolid,1,0,0,0.0,0.0,0.0,0,6.1
+Filip Malbasic,Cadiz,850,0,1,0.3,0.588,0.5,0,6.1
+Juan Carlos Real,SD Huesca,282,0,1,0.3,0.8059999999999999,0.2,0,6.1
+John Guidetti,Deportivo Alaves,201,1,0,0.5,0.731,0.4,0,6.1
+Joaquín Muñoz,SD Huesca,39,0,0,0.3,0.545,0.3,0,6.08
+Cristiano Piccini,Valencia,65,0,0,0.3,0.87,0.3,0,6.08
+Raúl Navas,Osasuna,169,0,0,0.0,0.741,0.0,0,6.08
+Yoel Rodríguez,Eibar,299,0,0,0.0,0.527,0.0,0,6.07
+Koffi,Getafe,45,0,0,0.0,0.7,0.0,0,6.07
+Youssouf Koné,Elche,72,0,0,0.0,0.765,0.0,0,6.06
+Carles Aleñá,Barcelona,46,0,0,0.5,0.9229999999999999,0.5,0,6.06
+Stephane Paul Keller,Deportivo Alaves,16,0,0,0.0,0.846,0.0,0,6.06
+Marc Cardona,Osasuna,51,0,0,0.3,0.667,0.3,0,6.06
+Darío Poveda,Getafe,4,0,0,0.0,0.4,2.0,0,6.05
+Ramón Azeez,Granada,100,0,0,1.0,0.8290000000000001,2.0,0,6.05
+Tomás Tavares,Deportivo Alaves,62,0,0,0.0,0.889,0.3,0,6.05
+Javi Moyano,Real Valladolid,104,0,0,0.0,0.607,1.5,0,6.04
+Patrick Cutrone,Valencia,100,0,0,0.4,0.667,0.0,0,6.03
+Luismi,Elche,163,0,0,0.0,0.843,0.2,0,6.03
+Rubén Sobrino,Valencia,45,0,0,0.0,0.667,0.2,0,6.03
+Sergi García,Deportivo Alaves,17,0,0,0.0,0.4,0.0,0,6.03
+Sabit Abdulai,Getafe,58,0,0,0.0,0.5379999999999999,0.3,0,6.02
+Kelechi Nwakali,SD Huesca,139,0,0,0.0,0.8640000000000001,0.4,0,6.02
+Koba Koindredi,Valencia,13,0,0,0.0,0.8,0.5,0,6.02
+Quique González,Eibar,163,0,0,0.3,0.7140000000000001,0.3,0,6.01
+Nino,Elche,273,0,0,0.2,0.9209999999999999,0.1,0,6.0
+Álex Blesa,Levante,10,0,0,0.0,1.0,0.0,0,6.0
+David Juncà,Celta Vigo,1,0,0,0.0,0.0,0.0,0,6.0
+Hugo Sotelo,Celta Vigo,1,0,0,0.0,0.0,0.0,0,6.0
+Mamor Niang,Getafe,21,0,0,1.0,1.0,1.0,0,6.0
+Miguel Rodríguez,Celta Vigo,26,0,0,0.0,0.7140000000000001,0.0,0,6.0
+Ramón Folch,Elche,1,0,0,0.0,0.0,0.0,0,6.0
+Sergio Cubero,Eibar,1,0,0,0.0,0.0,0.0,0,6.0
+Facundo Ferreyra,Celta Vigo,293,1,0,0.5,0.667,0.8,0,6.0
+Giorgi Kochorashvili,Levante,22,0,0,0.3,0.462,0.0,0,5.99
+Bobby Adekanye,Cadiz,34,0,0,0.3,0.875,0.0,0,5.98
+Álex Millán,Villarreal,1,0,0,0.0,0.0,0.0,0,5.97
+Sergio González,Cadiz,90,0,0,1.0,0.667,2.0,0,5.97
+David Gil,Cadiz,360,0,0,0.0,0.336,0.3,0,5.97
+Gabri Veiga,Celta Vigo,114,0,0,0.0,0.8,0.0,0,5.97
+Borja Mayoral,Real Madrid,21,0,0,0.0,0.6,0.0,0,5.96
+Daniel Plomer,Granada,45,0,0,0.0,1.0,0.0,0,5.96
+John Patrick,Getafe,60,0,0,0.3,0.6,0.2,0,5.96
+Álvaro Bastida,Cadiz,34,0,0,0.0,0.5,1.0,0,5.95
+Nano Mesa,Cadiz,8,0,0,0.0,0.33299999999999996,0.0,0,5.94
+Josete Miranda,Getafe,23,0,0,0.3,0.643,0.5,0,5.94
+Ferro,Valencia,181,0,0,0.0,0.848,0.0,0,5.93
+Isma Ruiz,Granada,67,0,0,0.0,0.7,2.0,0,5.93
+Lautaro de León,Celta Vigo,13,0,0,0.0,0.667,0.0,0,5.93
+Unai Arietaleanizbeaskoa,Eibar,43,0,0,0.3,0.5710000000000001,0.0,0,5.92
+Gerónimo Rulli,Villarreal,181,0,0,0.0,0.772,0.0,0,5.91
+John Donald,Elche,50,0,0,0.0,1.0,0.0,0,5.88
+Marc Baró,Cadiz,90,0,0,1.0,0.7140000000000001,0.0,0,5.84
+Rubén Martínez,Osasuna,188,0,0,0.0,0.667,0.0,0,5.7
+Koke Vegas,Levante,91,0,0,0.0,0.615,0.0,0,5.68
+Unai Dufur,Eibar,63,0,0,0.0,0.636,1.0,0,5.61
+Eñaut Mendía,Eibar,62,0,0,1.0,0.444,0.0,0,5.53
+Jokin Ezkieta,Athletic Bilbao,90,0,0,0.0,0.8420000000000001,0.0,0,5.49

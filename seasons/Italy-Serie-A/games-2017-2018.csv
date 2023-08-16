@@ -1,0 +1,391 @@
+home,away,home_score,away_score
+Juventus,Verona,2,1
+Genoa,Torino,1,2
+SPAL 2013,Sampdoria,3,1
+Cagliari,Atalanta,1,0
+Chievo,Benevento,1,0
+Udinese,Bologna,1,0
+Napoli,Crotone,2,1
+AC Milan,Fiorentina,5,1
+Lazio,Inter,2,3
+Sassuolo,Roma,0,1
+Juventus,Verona,2,1
+Genoa,Torino,1,2
+SPAL 2013,Sampdoria,3,1
+Cagliari,Atalanta,1,0
+Chievo,Benevento,1,0
+Udinese,Bologna,1,0
+Napoli,Crotone,2,1
+AC Milan,Fiorentina,5,1
+Lazio,Inter,2,3
+Sassuolo,Roma,0,1
+Benevento,Genoa,1,0
+Inter,Sassuolo,1,2
+Torino,SPAL 2013,2,1
+Verona,Udinese,0,1
+Crotone,Lazio,2,2
+Fiorentina,Cagliari,0,1
+Bologna,Chievo,1,2
+Atalanta,AC Milan,1,1
+Sampdoria,Napoli,0,2
+Roma,Juventus,0,0
+Benevento,Genoa,1,0
+Inter,Sassuolo,1,2
+Torino,SPAL 2013,2,1
+Verona,Udinese,0,1
+Crotone,Lazio,2,2
+Fiorentina,Cagliari,0,1
+Bologna,Chievo,1,2
+Atalanta,AC Milan,1,1
+Sampdoria,Napoli,0,2
+Roma,Juventus,0,0
+AC Milan,Verona,4,1
+Juventus,Bologna,3,1
+Udinese,Inter,0,4
+Chievo,Crotone,2,1
+Genoa,Fiorentina,2,3
+Napoli,Torino,2,2
+Lazio,Atalanta,1,1
+SPAL 2013,Benevento,2,0
+Sassuolo,Sampdoria,1,0
+Cagliari,Roma,0,1
+Genoa,Verona,3,1
+Roma,Chievo,4,1
+Inter,Juventus,2,3
+Crotone,Sassuolo,4,1
+Verona,SPAL 2013,1,3
+Benevento,Udinese,3,3
+Bologna,AC Milan,1,2
+Atalanta,Genoa,3,1
+Sampdoria,Cagliari,4,1
+Fiorentina,Napoli,3,0
+Torino,Lazio,0,1
+Inter,Cagliari,4,0
+Benevento,Atalanta,0,3
+Sampdoria,Bologna,1,0
+SPAL 2013,Chievo,0,0
+Roma,Genoa,2,1
+Crotone,Juventus,1,1
+Fiorentina,Lazio,3,4
+Torino,AC Milan,1,1
+Verona,Sassuolo,0,1
+Napoli,Udinese,4,2
+SPAL 2013,Roma,0,3
+Sassuolo,Fiorentina,1,0
+AC Milan,Benevento,0,1
+Cagliari,Bologna,0,0
+Udinese,Crotone,1,2
+Chievo,Inter,1,2
+Lazio,Sampdoria,4,0
+Atalanta,Torino,2,1
+Juventus,Napoli,0,1
+Cagliari,Udinese,2,1
+Chievo,Torino,0,0
+Genoa,Crotone,1,0
+Atalanta,Inter,0,0
+Fiorentina,SPAL 2013,0,0
+AC Milan,Napoli,0,0
+Bologna,Verona,2,0
+Sassuolo,Benevento,2,2
+Juventus,Sampdoria,3,0
+Lazio,Roma,0,0
+Genoa,Cagliari,2,1
+Udinese,Fiorentina,0,2
+Atalanta,Sampdoria,1,2
+Benevento,Verona,3,0
+AC Milan,Inter,0,0
+Torino,Crotone,4,1
+Chievo,Sassuolo,1,1
+Benevento,Juventus,2,4
+Roma,Fiorentina,0,2
+SPAL 2013,Atalanta,1,1
+Sampdoria,Genoa,0,0
+Torino,Inter,1,0
+Crotone,Bologna,1,0
+Verona,Cagliari,1,0
+Napoli,Chievo,2,1
+Udinese,Lazio,1,2
+AC Milan,Sassuolo,1,1
+Bologna,Roma,1,1
+Genoa,SPAL 2013,1,1
+Cagliari,Torino,0,4
+Atalanta,Udinese,2,0
+Lazio,Benevento,6,2
+Fiorentina,Crotone,2,0
+Inter,Verona,3,0
+Chievo,Sampdoria,2,1
+Sassuolo,Napoli,1,1
+Juventus,AC Milan,3,1
+Juventus,Atalanta,2,0
+Udinese,Sassuolo,1,2
+SPAL 2013,Juventus,0,0
+Sampdoria,Inter,0,5
+Crotone,Roma,0,2
+Benevento,Cagliari,1,2
+AC Milan,Chievo,3,2
+Torino,Fiorentina,1,2
+Verona,Atalanta,0,5
+Lazio,Bologna,1,1
+Napoli,Genoa,1,0
+Roma,Torino,3,0
+Verona,Chievo,1,0
+Fiorentina,Benevento,1,0
+Bologna,Atalanta,0,1
+Crotone,Sampdoria,4,1
+Sassuolo,SPAL 2013,1,1
+Cagliari,Lazio,2,2
+Juventus,Udinese,2,0
+Genoa,AC Milan,0,1
+Inter,Napoli,0,0
+Cagliari,Napoli,0,5
+SPAL 2013,Bologna,1,0
+Lazio,Juventus,0,1
+Napoli,Roma,2,4
+Lazio,Verona,2,0
+Bologna,Genoa,2,0
+Inter,Benevento,2,0
+Crotone,SPAL 2013,2,3
+Verona,Torino,2,1
+Sampdoria,Udinese,2,1
+Fiorentina,Chievo,1,0
+Sassuolo,Lazio,0,3
+Roma,AC Milan,0,2
+Udinese,Roma,0,2
+Chievo,Cagliari,2,1
+Genoa,Inter,2,0
+Torino,Juventus,0,1
+Bologna,Sassuolo,2,1
+Napoli,SPAL 2013,1,0
+Benevento,Crotone,3,2
+Atalanta,Fiorentina,1,1
+AC Milan,Sampdoria,1,0
+Lazio,Genoa,1,2
+Fiorentina,Juventus,0,2
+SPAL 2013,AC Milan,0,4
+Crotone,Atalanta,1,1
+Napoli,Lazio,4,1
+Sassuolo,Cagliari,0,0
+Chievo,Genoa,0,1
+Sampdoria,Verona,2,0
+Torino,Udinese,2,0
+Inter,Bologna,2,1
+Roma,Benevento,5,2
+Sampdoria,Torino,1,1
+Inter,Crotone,1,1
+Verona,Roma,0,1
+Juventus,Sassuolo,7,0
+Cagliari,SPAL 2013,2,0
+Atalanta,Chievo,1,0
+Bologna,Fiorentina,1,2
+Udinese,AC Milan,1,1
+Benevento,Napoli,0,2
+Juventus,Genoa,1,0
+Lazio,Udinese,3,0
+Sampdoria,Roma,1,1
+Sassuolo,Atalanta,0,3
+Chievo,Juventus,0,2
+SPAL 2013,Inter,1,1
+Genoa,Udinese,0,1
+Torino,Benevento,3,0
+Napoli,Bologna,3,1
+Crotone,Cagliari,1,1
+Fiorentina,Verona,1,4
+AC Milan,Lazio,2,1
+Roma,Sampdoria,0,1
+Atalanta,Napoli,0,1
+Udinese,SPAL 2013,1,1
+Sassuolo,Torino,1,1
+Bologna,Benevento,3,0
+Lazio,Chievo,5,1
+Verona,Crotone,0,3
+Sampdoria,Fiorentina,3,1
+Cagliari,AC Milan,1,2
+Inter,Roma,1,1
+Chievo,Udinese,1,1
+Fiorentina,Inter,1,1
+Torino,Bologna,3,0
+AC Milan,Crotone,1,0
+Napoli,Verona,2,0
+SPAL 2013,Lazio,2,5
+Benevento,Sampdoria,3,2
+Genoa,Sassuolo,1,0
+Roma,Atalanta,1,2
+Cagliari,Juventus,0,1
+Crotone,Napoli,0,1
+Fiorentina,AC Milan,1,1
+Atalanta,Cagliari,1,2
+Benevento,Chievo,1,0
+Bologna,Udinese,1,2
+Roma,Sassuolo,1,1
+Sampdoria,SPAL 2013,2,0
+Torino,Genoa,0,0
+Inter,Lazio,0,0
+Verona,Juventus,1,3
+Chievo,Bologna,2,3
+Cagliari,Fiorentina,0,1
+Lazio,Crotone,4,0
+Napoli,Sampdoria,3,2
+Sassuolo,Inter,1,0
+SPAL 2013,Torino,2,2
+Udinese,Verona,4,0
+Genoa,Benevento,1,0
+AC Milan,Atalanta,0,2
+Juventus,Roma,1,0
+Lazio,Torino,1,3
+Genoa,Atalanta,1,2
+Inter,Udinese,1,3
+Torino,Napoli,1,3
+Roma,Cagliari,1,0
+Verona,AC Milan,3,0
+Sampdoria,Sassuolo,0,1
+Bologna,Juventus,0,3
+Crotone,Chievo,1,0
+Fiorentina,Genoa,0,0
+Benevento,SPAL 2013,1,2
+Atalanta,Lazio,3,3
+Crotone,Udinese,0,3
+Verona,Genoa,0,1
+Cagliari,Sampdoria,2,2
+Juventus,Inter,0,0
+Chievo,Roma,0,0
+Napoli,Fiorentina,0,0
+SPAL 2013,Verona,2,2
+Udinese,Benevento,2,0
+Sassuolo,Crotone,2,1
+AC Milan,Bologna,2,1
+Atalanta,Benevento,1,0
+Roma,SPAL 2013,3,1
+Napoli,Juventus,0,1
+Torino,Atalanta,1,1
+Benevento,AC Milan,2,2
+Bologna,Cagliari,1,1
+Fiorentina,Sassuolo,3,0
+Inter,Chievo,5,0
+Sampdoria,Lazio,1,2
+Verona,Bologna,2,3
+Bologna,Sampdoria,3,0
+Chievo,SPAL 2013,2,1
+Sassuolo,Verona,0,2
+Cagliari,Inter,1,3
+Genoa,Roma,1,1
+Udinese,Napoli,0,1
+AC Milan,Torino,0,0
+Lazio,Fiorentina,1,1
+Juventus,Crotone,3,0
+Roma,Lazio,2,1
+Napoli,AC Milan,2,1
+Crotone,Genoa,0,1
+Benevento,Sassuolo,1,2
+Sampdoria,Juventus,3,2
+SPAL 2013,Fiorentina,1,1
+Torino,Chievo,1,1
+Udinese,Cagliari,0,1
+Inter,Atalanta,2,0
+Verona,Inter,1,2
+Bologna,Crotone,2,3
+Genoa,Sampdoria,0,2
+Inter,Torino,1,1
+Juventus,Benevento,2,1
+Cagliari,Verona,2,1
+Chievo,Napoli,0,0
+Fiorentina,Roma,2,4
+Atalanta,SPAL 2013,1,1
+Sassuolo,AC Milan,0,2
+Inter,Sampdoria,3,2
+Atalanta,Verona,3,0
+Bologna,Lazio,1,2
+Cagliari,Benevento,2,1
+Chievo,AC Milan,1,4
+Fiorentina,Torino,3,0
+Genoa,Napoli,2,3
+Juventus,SPAL 2013,4,1
+Roma,Crotone,1,0
+Sassuolo,Udinese,0,1
+AC Milan,Juventus,0,2
+Roma,Bologna,1,0
+Benevento,Lazio,1,5
+Crotone,Fiorentina,2,1
+Napoli,Sassuolo,3,1
+Sampdoria,Chievo,4,1
+SPAL 2013,Genoa,1,0
+Udinese,Atalanta,2,1
+Torino,Cagliari,2,1
+Verona,Benevento,1,0
+Sampdoria,Crotone,5,0
+Napoli,Inter,0,0
+Chievo,Verona,3,2
+AC Milan,Genoa,0,0
+SPAL 2013,Sassuolo,0,1
+Torino,Roma,0,1
+Atalanta,Bologna,1,0
+Benevento,Fiorentina,0,3
+Udinese,Juventus,2,6
+Lazio,Cagliari,3,0
+Juventus,Lazio,1,2
+Roma,Napoli,0,1
+Fiorentina,Udinese,2,1
+Bologna,SPAL 2013,2,1
+Cagliari,Genoa,2,3
+Crotone,Torino,2,2
+Sampdoria,Atalanta,3,1
+Sassuolo,Chievo,0,0
+Inter,AC Milan,3,2
+Udinese,Sampdoria,4,0
+Genoa,Bologna,0,1
+Napoli,Cagliari,3,0
+SPAL 2013,Crotone,1,1
+Torino,Verona,2,2
+Lazio,Sassuolo,6,1
+Benevento,Inter,1,2
+Chievo,Fiorentina,2,1
+AC Milan,Roma,0,2
+Atalanta,Juventus,2,2
+Bologna,Inter,1,1
+Benevento,Roma,0,4
+Cagliari,Sassuolo,0,1
+Genoa,Chievo,1,1
+Verona,Sampdoria,0,0
+Juventus,Fiorentina,1,0
+Lazio,Napoli,1,4
+AC Milan,SPAL 2013,2,0
+Udinese,Torino,2,3
+Atalanta,Crotone,5,1
+Roma,Udinese,3,1
+SPAL 2013,Napoli,2,3
+Juventus,Torino,4,0
+Sampdoria,AC Milan,2,0
+Verona,Lazio,0,3
+Inter,Genoa,1,0
+Cagliari,Chievo,0,2
+Crotone,Benevento,2,0
+Sassuolo,Bologna,0,1
+Fiorentina,Atalanta,1,1
+Crotone,Inter,0,2
+Fiorentina,Bologna,2,1
+Roma,Verona,3,0
+Sassuolo,Juventus,1,3
+SPAL 2013,Cagliari,0,2
+Torino,Sampdoria,2,2
+AC Milan,Udinese,2,1
+Napoli,Benevento,6,0
+Chievo,Atalanta,1,1
+Genoa,Lazio,2,3
+Juventus,Chievo,3,0
+Inter,SPAL 2013,2,0
+Udinese,Genoa,1,0
+Atalanta,Sassuolo,2,1
+Cagliari,Crotone,1,0
+Verona,Fiorentina,0,5
+Lazio,AC Milan,4,1
+Benevento,Torino,0,1
+Bologna,Napoli,0,3
+Benevento,Bologna,0,1
+Genoa,Juventus,2,4
+Roma,Inter,1,3
+Torino,Sassuolo,3,0
+SPAL 2013,Udinese,3,2
+AC Milan,Cagliari,2,1
+Napoli,Atalanta,3,1
+Chievo,Lazio,1,2
+Crotone,Verona,0,0
+Fiorentina,Sampdoria,1,2
